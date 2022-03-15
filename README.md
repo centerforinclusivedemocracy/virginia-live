@@ -2,7 +2,7 @@
 
 Vote Center Siting Tool for Virginia.
 
-https://nv.cidsitingtool.org/
+https://va.cidsitingtool.org/
 
 
 ## Hosting
