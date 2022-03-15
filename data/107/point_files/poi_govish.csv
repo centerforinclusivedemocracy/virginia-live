@@ -1,0 +1,58 @@
+,osm_id,code,fclass,name,lon,lat
+0,356580597,2005,post_office,Dulles Post Office,-77.44804,38.95178
+1,356597637,2005,post_office,Lovettsville Post Office,-77.63761,39.27516
+2,356597674,2005,post_office,Hamilton Post Office,-77.66666,39.13538
+3,356597688,2005,post_office,Hillsboro Post Office,-77.72479,39.19862
+4,356597699,2005,post_office,Paeonian Springs Post Office,-77.619,39.14752
+5,356597733,2005,post_office,Waterford Post Office,-77.61173,39.18837
+6,356597739,2005,post_office,Bluemont Post Office,-77.83222,39.11066
+7,356597819,2005,post_office,Leesburg Downtown Post Office,-77.56362,39.11499
+8,356597885,2005,post_office,Lincoln Post Office,-77.69471,39.11391
+9,356597917,2005,post_office,Middleburg Post Office,-77.73755,38.968
+10,356597942,2005,post_office,Philomont Post Office,-77.73944,39.05705
+11,356597979,2005,post_office,Aldie Post Office,-77.6436,38.97622
+12,367797009,2002,fire_station,Allentown Road Volunteer Fire Department Company 47,-77.66139,39.24
+13,367797028,2002,fire_station,Allentown Road Volunteer Fire Department Company 32,-77.59139,39.29306
+14,367797296,2002,fire_station,Upper Montgomery County Volunteer Fire Department Fire Station 14,-77.68778,39.30056
+15,367798282,2001,police,Maryland State Police,-77.64139,38.94972
+16,367981636,2002,fire_station,Loudoun County Combined Fire Rescue System Training Center,-77.54833,39.07481
+17,367982230,2002,fire_station,Neersville Volunteer Fire and Rescue Company 16,-77.72139,39.29028
+18,367982233,2002,fire_station,Middleburg Volunteer Fire and Rescue Company 3,-77.74699,38.96741
+19,367982239,2002,fire_station,Lovettsville Volunteer Fire and Rescue Squad Company 12,-77.64424,39.26087
+20,367982246,2002,fire_station,Loudoun County Volunteer Rescue Squad Company 13,-77.55852,39.10722
+21,367982249,2002,fire_station,Hamilton Volunteer Rescue Squad Company 17,-77.66583,39.13807
+22,367982253,2002,fire_station,Leesburg Volunteer Fire Company 1,-77.56917,39.115
+23,367982264,2002,fire_station,Hamilton Volunteer Fire Company 5,-77.66556,39.13528
+24,367982266,2002,fire_station,Aldie Volunteer Fire Company 7,-77.63944,38.975
+25,367982311,2002,fire_station,Round Hill Volunteer Fire and Rescue Company 4,-77.76889,39.13335
+26,367982328,2002,fire_station,Philomont Volunteer Fire Company 8,-77.74,39.05667
+27,367986094,2002,fire_station,Loudoun County Department of Fire Rescue and Emergency Management Administration,-77.55336,39.081
+28,367986418,2007,library,Lovettsville Library,-77.63557,39.27423
+29,367986420,2007,library,Middleburg Library,-77.74062,38.96842
+30,367986748,2007,library,Thomas Balch Library,-77.56776,39.11663
+31,367988408,2001,police,Sterling Park Police Sub-Station,-77.40777,38.99622
+32,367989062,2001,police,Virginia State Police Division 7 Area 10 Office,-77.55241,39.07593
+33,367989663,2001,police,Loudoun County Sheriff's Office Corrections Work Release Center,-77.54886,39.07614
+34,367989704,2001,police,Middleburg Police Department,-77.73558,38.96881
+35,367989745,2001,police,Loudoun County Sheriff's Office,-77.56502,39.10639
+36,367990318,2002,fire_station,Dulles South Public Safety Center,-77.51728,38.91953
+37,367990578,2008,town_hall,Hamilton Town Hall,-77.66277,39.13455
+38,1468689476,2007,library,Loudoun County Public Library,-77.5653,39.11814
+39,1476346694,2002,fire_station,Kincora Safety Center (Station 624/635),-77.43283,39.03017
+40,1509294105,2002,fire_station,MWAA-Dulles International Airport,-77.44854,38.96453
+41,1545233396,2005,post_office,United States Post Office,-77.56605,39.10665
+42,1609136009,2001,police,Leesburg Police,-77.5489,39.11097
+43,1619636787,2002,fire_station,Hamilton Fire Dept,-77.65107,39.13442
+44,1647356797,2002,fire_station,,-77.53333,39.21574
+45,1703262306,2008,town_hall,Leesburg Town Hall,-77.56607,39.1153
+46,2404923301,2007,library,Virginia Science and Technology Campus Library,-77.4444,39.05497
+47,4110851946,2005,post_office,The UPS Store,-77.47574,39.04463
+48,5312841408,2007,library,Sterling Library,-77.40676,38.99783
+49,6086515164,2005,post_office,Postal Connections,-77.49442,39.08197
+50,6254815854,2005,post_office,The UPS Store,-77.50093,39.03638
+51,6330687060,2001,police,,-77.77702,39.13315
+52,6334787650,2005,post_office,PostNet,-77.54768,38.93957
+53,6783874223,2005,post_office,United States Post Office,-77.7141,39.13887
+54,7792245656,2005,post_office,The UPS Store,-77.52622,39.09952
+55,9108155221,2005,post_office,,-77.42163,39.02616
+56,9110957630,2002,fire_station,Sterling Volunteer Fire Company 11,-77.40117,38.99966

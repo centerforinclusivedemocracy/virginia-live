@@ -1,0 +1,45 @@
+osm_id,code,fclass,name,lon,lat
+356560453,2082,school,Brooks School,-77.91861,36.86793
+356561888,2082,school,Gilliam School,-77.78916,36.88154
+356562051,2082,school,Graves School,-77.75583,36.90376
+356562707,2082,school,Jonesboro School,-77.97306,36.95432
+356563161,2082,school,Mallory School,-77.71166,36.79543
+356563305,2082,school,Meherrin Powellton Elementary School,-77.79737,36.66926
+356563709,2082,school,Mount Pleasant School,-77.90694,36.90154
+356563815,2082,school,Mount Zion School,-77.97167,36.89876
+356564146,2082,school,Oak Grove School,-77.90027,36.81154
+356565303,2082,school,Russell High School,-77.87361,36.77765
+356565308,2082,school,James S Russell Middle School,-77.87355,36.77827
+356565581,2084,college,Saint Paul's College,-77.84966,36.76192
+356565726,2082,school,Scott Lewis School,-77.69971,36.74598
+356567166,2082,school,Warfield School,-77.83694,36.89848
+356580376,2082,school,Charlie Hope Number 1 School,-77.93138,36.76987
+356580378,2082,school,Charlie Hope Number 2 School,-77.93555,36.77792
+356582344,2082,school,Forest Hill School,-77.99833,36.90626
+356582405,2082,school,Southside Virginia Community College - Christanna Campus,-77.91799,36.83902
+356606362,2082,school,Totaro Elementary School,-77.87167,36.77885
+356606431,2082,school,Red Oak - Sturgeon Elementary School,-77.87863,36.90638
+356606712,2082,school,Brunswick Academy,-77.80952,36.78845
+356606714,2082,school,Brunswick County Public Schools Office,-77.77296,36.81002
+356606716,2082,school,New Horizon Baptist School,-77.99621,36.93741
+5229488313,2303,cafe,Cafe,-77.89859,36.56742
+356587832,2005,post_office,United States Postal Service - Valentines,-77.82997,36.58864
+367981085,2009,courthouse,Brunswick County Courthouse,-77.84666,36.75848
+367983163,2002,fire_station,Brodnax Fire Department,-78.02901,36.70658
+367983171,2002,fire_station,Alberta Volunteer Fire Department,-77.88611,36.86556
+367983191,2002,fire_station,Dolphin Volunteer Fire Department,-77.79833,36.82778
+367983320,2002,fire_station,Gasburg Volunteer Fire Department,-77.8825,36.54667
+367983331,2002,fire_station,Triplet Volunteer Fire Department,-77.76611,36.60306
+367984025,2002,fire_station,Ebony Fire Department,-77.99111,36.58222
+367985895,2002,fire_station,Central Life Saving and Rescue Squad,-77.87232,36.56107
+367986034,2002,fire_station,Lawrenceville Fire House,-77.84687,36.75753
+367986040,2002,fire_station,Brunswick Volunteer Rescue Squad,-77.84095,36.76363
+367986172,2007,library,Meherrin Regional Library,-77.84833,36.75792
+367986173,2007,library,James Solomon Russell Memorial Library,-77.84944,36.76209
+367988938,2001,police,Lawrenceville Police Department,-77.84694,36.7575
+367988946,2001,police,Brunswick County Sheriff's Office,-77.84977,36.75717
+367989133,2001,police,Alberta Police Department,-77.88616,36.86464
+367989139,2001,police,Lawrenceville Police Chief,-77.8466,36.75175
+1605072690,2005,post_office,Freeman Post Office,-77.74754,36.77396
+5229472504,2005,post_office,United States Postal Service - Gasburg,-77.89692,36.56743
+5231448321,2005,post_office,"Gasburg, Virginia  23857",-77.86633,36.55795

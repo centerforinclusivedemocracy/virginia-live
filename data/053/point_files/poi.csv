@@ -1,0 +1,22 @@
+osm_id,code,fclass,name,lon,lat
+356563591,2082,school,Mount Level School,-77.57999,37.06626
+356566185,2082,school,Dinwiddie Middle School,-77.56382,37.10343
+356592765,2082,school,Dinwiddie High School,-77.58276,37.11377
+356606235,2082,school,Grace Baptist School,-77.49329,37.21927
+356606724,2082,school,Southside Virginia Training Center,-77.45268,37.20899
+367990519,2012,community_centre,Darvills Community Center,-77.84278,37.03765
+857410816,2082,school,Dinwiddie Junior High School,-77.58754,37.11191
+3137372362,2501,supermarket,Food Lion,-77.57187,37.09166
+7399080507,2501,supermarket,Food Lion,-77.45841,37.21271
+356592763,2005,post_office,Dinwiddie Post Office,-77.5836,37.07404
+367981005,2009,courthouse,Dinwiddie County Courthouse,-77.58721,37.07765
+367981471,2002,fire_station,Dinwiddie County Division of Fire / Emergency Medical Services,-77.58597,37.07997
+367983025,2002,fire_station,Old Hickory Volunteer Fire Department,-77.57987,36.90877
+367983032,2002,fire_station,Dinwiddie Volunteer Ambulance and Rescue Squad,-77.53389,37.13139
+367983115,2002,fire_station,Dinwiddie Volunteer Fire Department,-77.57833,37.08611
+367983125,2002,fire_station,Ford Volunteer Fire Department,-77.69472,37.16222
+367983504,2002,fire_station,Dendon Volunteer Fire Department,-77.555,37.09222
+367984304,2002,fire_station,Carson Volunteer Fire Department,-77.65972,37.07083
+367985567,2002,fire_station,McKenney Fire Department,-77.72215,36.98731
+367985887,2002,fire_station,Dinwiddie Ambulance and Rescue Squad,-77.53399,37.1313
+367989038,2001,police,Dinwiddie County Sheriff's Office,-77.58755,37.07691

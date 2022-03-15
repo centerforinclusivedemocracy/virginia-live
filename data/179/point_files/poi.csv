@@ -1,0 +1,60 @@
+osm_id,code,fclass,name,lon,lat
+356561858,2082,school,T Benton Gayle Middle School,-77.47392,38.33295
+356563965,2082,school,New Hope School,-77.40471,38.31152
+356564716,2082,school,Pool School,-77.42011,38.40436
+356597185,2082,school,Andrew G Wright Middle School,-77.48081,38.4744
+356597200,2013,nursing_home,Brookwood Nursing Home,-77.38289,38.39396
+356597230,2082,school,Federal Bureau of Investigation Academy,-77.43637,38.52908
+356597235,2082,school,Ferry Farm Elementary School,-77.4325,38.29383
+356597295,2082,school,Stafford Middle School,-77.39733,38.4099
+356597310,2082,school,Widewater Elementary School,-77.3706,38.48248
+356605181,2082,school,University of Mary Washington College of Graduate and Professional Studies,-77.53149,38.37045
+356605208,2082,school,Brooke Point High Scool,-77.39608,38.40655
+356605209,2082,school,Colonial Forge High School,-77.45147,38.43498
+356605210,2082,school,Garrisonville Elementary School,-77.48088,38.47389
+356605212,2082,school,Rodney Thompson Middle School,-77.46085,38.45065
+356606047,2082,school,Brents Mill Elementary School,-77.37802,38.48213
+356606059,2082,school,Embrey Mill Elementary School,-77.438,38.441
+356606210,2082,school,Stafford Baptist Academy,-77.40584,38.42617
+356606271,2082,school,Merit School,-77.44494,38.47356
+356606546,2082,school,Ferry Farm Baptist Church School,-77.43587,38.29065
+356606779,2082,school,Virginia Department of Correctional Education - Stafford Diversion Center,-77.42095,38.38028
+356606828,2082,school,Conway Elementary School,-77.43876,38.34237
+367998241,2012,community_centre,Enon Community Center,-77.48617,38.3654
+367998285,2012,community_centre,C Ray Grizzle Activity Center,-77.4649,38.3221
+660507509,2303,cafe,Clubhouse,-77.53345,38.32537
+661364459,2012,community_centre,Augustine Golf Club,-77.4777,38.4436
+824556132,2501,supermarket,,-77.41694,38.4771
+2381896556,2501,supermarket,Food Lion,-77.40017,38.44934
+2388352576,2303,cafe,Starbucks,-77.41151,38.47025
+3523964381,2082,school,Shirley C. Heim Middle School,-77.37635,38.48347
+5206877186,2303,cafe,Duck Donuts,-77.41219,38.47109
+5211512289,2083,kindergarten,,-77.40611,38.42224
+5369217722,2504,mall,Aquia Town Center,-77.40325,38.46179
+5558148036,2501,supermarket,,-77.46198,38.46795
+5823095991,2501,supermarket,Lidl,-77.52631,38.36876
+7068344259,2303,cafe,Warrior Coffee,-77.46105,38.44929
+8735409095,2501,supermarket,ALDI,-77.41947,38.47329
+356597199,2005,post_office,Brooke Post Office,-77.38112,38.38524
+356597229,2005,post_office,Falmouth Post Office,-77.46721,38.32388
+367980889,2002,fire_station,Widewater Volunteer Firemans Association Company 3 Rescue 3,-77.33736,38.47142
+367981178,2009,courthouse,Stafford County Courthouse,-77.40898,38.42235
+367981182,2009,courthouse,Courthouse Professional Center,-77.40727,38.42228
+367981185,2009,courthouse,Courthouse Community Center,-77.40569,38.42444
+367981916,2002,fire_station,Stafford Volunteer Fire Department Station 2,-77.41522,38.41986
+367981919,2002,fire_station,Hartwood Volunteer Fire and Rescue Company 6 Rescue 6,-77.56861,38.40139
+367981925,2002,fire_station,Mountain View Fire Station Company Number 4,-77.46917,38.4225
+367981932,2002,fire_station,Brooke Fire and Rescue Company 5 Rescue 5,-77.38028,38.38806
+367981934,2002,fire_station,Falmouth Volunteer Fire and Rescue Company 1 Rescue 11,-77.45417,38.31667
+367981950,2002,fire_station,Potomac Hills Volunteer Fire and Rescue Company 10 Rescue 10,-77.38056,38.49194
+367984145,2002,fire_station,Colonial Beach Fire Department,-77.61694,38.42972
+367984162,2002,fire_station,Colonial Beach Rescue Squad Station 1,-77.61389,38.42333
+367985506,2002,fire_station,White Oak Volunteer Fire Company 7,-77.37475,38.30196
+367985512,2002,fire_station,White Oak Volunteer Rescue Squad 7,-77.40972,38.31287
+367985533,2002,fire_station,Aquia Harbour Volunteer Rescue Squad 9,-77.39932,38.46125
+367986060,2002,fire_station,Rock Hill Volunteer Rescue Squad 8,-77.49263,38.49014
+367986873,2007,library,North Stafford Public Library,-77.41788,38.47489
+367988364,2007,library,Porter Memorial Library,-77.44693,38.46439
+367989611,2001,police,Aquia Harbour Police,-77.39492,38.45762
+367989701,2001,police,Stafford County Sheriff's Office,-77.41272,38.4225
+2381896555,2005,post_office,Stafford Post Office,-77.40159,38.44999

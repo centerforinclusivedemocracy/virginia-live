@@ -1,0 +1,62 @@
+osm_id,code,fclass,name,lon,lat
+356559912,2082,school,Atlantic High School,-75.54993,37.92596
+356560840,2082,school,Chincoteague High School,-75.3639,37.94278
+356564033,2082,school,North Accomack Elementary School,-75.56132,37.85624
+356566127,2082,school,Mary N Smith Middle School,-75.6493,37.73755
+356566162,2082,school,Pungoteague Elementary School,-75.79261,37.65278
+356566951,2082,school,University of Virginia Eastern Shore Branch,-75.48354,37.93512
+356567085,2082,school,Walker School,-75.67715,37.71541
+356601452,2082,school,Bloxom Elementary School,-75.61715,37.83235
+356601479,2082,school,Nandua High School,-75.72565,37.67888
+356601492,2082,school,Parksley Middle School,-75.6569,37.78618
+356601508,2082,school,University of Virginia Eastern Shore Branch,-75.48242,37.93568
+356606240,2082,school,Arcadia High School,-75.55047,37.92534
+356606282,2082,school,Rock Church Academy,-75.72864,37.67154
+356606306,2082,school,Onancock Learning Center,-75.74809,37.70954
+356606411,2082,school,Badger Technical Center South,-75.72544,37.67928
+356606429,2082,school,Kegotank Elementary School,-75.57819,37.83474
+356606464,2082,school,Lighthouse Christian Academy,-75.35321,37.9273
+356606644,2082,school,Badger Technical Center North,-75.55019,37.92529
+356606752,2082,school,Nandua Middle School,-75.72586,37.68134
+356606753,2082,school,Arcadia Middle School,-75.55416,37.92454
+356606754,2082,school,Old Dominion University - Wallops Island,-75.48269,37.93559
+5595522729,2501,supermarket,Food Lion,-75.53913,37.94364
+7431625227,2303,cafe,Crossroads Coffee Shop,-75.71626,37.69059
+356601448,2005,post_office,Atlantic Post Office,-75.50419,37.90342
+356601450,2005,post_office,Belle Haven Post Office,-75.80521,37.55402
+356601454,2005,post_office,Bloxom Post Office,-75.62132,37.82929
+356601460,2005,post_office,Craddockville Post Office,-75.86965,37.58124
+356601462,2005,post_office,Hallwood Post Office,-75.58965,37.87763
+356601464,2005,post_office,Horntown Post Office,-75.46187,37.9704
+356601468,2005,post_office,Jenkins Bridge Post Office,-75.61298,37.92179
+356601470,2005,post_office,Keller Post Office,-75.76299,37.61985
+356601472,2005,post_office,Lee Mont Post Office,-75.6816,37.77929
+356601474,2005,post_office,Mappsville Post Office,-75.56659,37.84735
+356601476,2005,post_office,Mears Post Office,-75.60437,37.85624
+356601478,2005,post_office,Melfa Post Office,-75.7416,37.64985
+356601482,2005,post_office,Nelsonia Post Office,-75.58854,37.81957
+356601484,2005,post_office,Oak Hall Post Office,-75.54687,37.93568
+356601486,2005,post_office,Onancock Post Office,-75.75021,37.71263
+356601488,2005,post_office,Onley Post Office,-75.71671,37.69078
+356601490,2005,post_office,Painter Post Office,-75.78493,37.5868
+356601494,2005,post_office,Parksley,-75.65132,37.78263
+356601496,2005,post_office,Pungoteague Post Office,-75.81438,37.63069
+356601498,2005,post_office,Sanford Post Office,-75.66521,37.92485
+356601502,2005,post_office,Saxis Post Office,-75.72104,37.92651
+356601512,2005,post_office,Wattsville Post Office,-75.49909,37.93346
+356601514,2005,post_office,Withams Post Office,-75.57715,37.94568
+367980867,2002,fire_station,Eastern Shore Regional Fire Training Center,-75.7716,37.64092
+367983914,2002,fire_station,Greenbackville Volunteer Fire Department and Rescue Squad,-75.39028,38.01222
+367983919,2002,fire_station,New Church Volunteer Fire and Rescue Company,-75.53341,37.97832
+367983947,2002,fire_station,Bloxom Volunteer Fire Company,-75.62361,37.82917
+367983952,2002,fire_station,Tasley Volunteer Fire Company,-75.69833,37.71139
+367983958,2002,fire_station,Onancock Volunteer Fire Department,-75.73667,37.71139
+367983964,2002,fire_station,Melfa Volunteer Fire and Rescue Company,-75.74222,37.65222
+367983976,2002,fire_station,Painter Volunteer Fire Company,-75.78583,37.58611
+367985886,2002,fire_station,Oak Hall Rescue Station 20,-75.54927,37.92636
+367985892,2002,fire_station,Tangier Volunteer Fire Company Station 21,-75.99196,37.82801
+367987263,2001,police,Chincoteague Police Department,-75.36028,37.93694
+367988895,2001,police,Onancock Police Department,-75.74861,37.71306
+367989185,2001,police,Virginia State Police Division 5 Area 31 Office,-75.7329,37.66525
+500947044,2005,post_office,Greenbush Post Office 23357,-75.6817,37.7417
+5262307479,2005,post_office,United States Post Office,-75.53007,37.9818

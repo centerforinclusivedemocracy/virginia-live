@@ -1,0 +1,81 @@
+osm_id,code,fclass,name,lon,lat
+356559767,2082,school,Albemarle High School,-78.50056,38.07551
+356560060,2082,school,Saint Anne's - Belfield School Lower Campus,-78.5192,38.05642
+356562099,2082,school,Greenwood School,-78.75564,38.05232
+356562393,2082,school,Hollymead Elementary School,-78.43929,38.11236
+356562711,2082,school,Jack Jouett Middle School,-78.50687,38.07693
+356591987,2082,school,Barracks Stud Riding Academy,-78.51779,38.09653
+356591997,2082,school,Charlottesville Albemarle Technical Education Center,-78.46389,38.06265
+356592048,2082,school,Greer Elementary School,-78.5059,38.07886
+356592101,2082,school,Stony Point Elementary School,-78.36968,38.11188
+356605247,2110,hospital,UVA-HealthSouth Rehabilitation Hospital,-78.52538,38.02473
+356605248,2084,college,Brown College at Monroe Hill,-78.50739,38.03478
+356606842,2082,school,Montessori Pantops Mountain Community School,-78.44422,38.02833
+356606841,2082,school,Oakland School,-78.30766,38.03609
+356606855,2082,school,Einstein School,-78.49071,38.07903
+356606861,2082,school,Montimer Y Sutherland Middle School,-78.437,38.11243
+356606870,2082,school,Parent Resource Center Piedmont Regional Education Program,-78.50707,38.07492
+356606883,2082,school,Little Keswick School,-78.3574,38.02022
+356606885,2082,school,Baker - Butler Elementary School,-78.4208,38.1232
+367979649,2082,school,Verdant Lawn;Tandem Friends School,-78.49029,37.99653
+367980956,2014,arts_centre,Performing Arts Center,-78.50419,38.03937
+1161621165,2303,cafe,Mudhouse,-78.70072,38.06939
+1161626690,2501,supermarket,Crozet Great Valu,-78.69744,38.06956
+1606941598,2083,kindergarten,Bright Beginnings,-78.67496,38.06827
+1607756318,2303,cafe,Grit Coffee,-78.71027,38.05833
+1607806192,2501,supermarket,Harris Teeter,-78.68194,38.05085
+1808843364,2303,cafe,Starbucks,-78.44375,38.02895
+2159403447,2501,supermarket,Trader Joe's,-78.49145,38.06302
+2271258503,2501,supermarket,Food Lion,-78.43581,38.12907
+2271258509,2501,supermarket,Harris Teeter,-78.44364,38.12742
+2537830075,2501,supermarket,Food Lion,-78.49596,38.00116
+2552501952,2303,cafe,Mudhouse,-78.49775,37.99977
+2863164778,2303,cafe,Starbucks,-78.44399,38.12699
+2886508392,2303,cafe,Shark Mountain Coffee,-78.51145,38.05297
+2953627036,2303,cafe,Bloop,-78.49629,38.00165
+3086769543,2501,supermarket,Kroger,-78.47404,38.08913
+3101284664,2501,supermarket,Food Lion,-78.4568,38.03152
+3137343245,2303,cafe,Baine’s Coffee and Books,-78.49573,37.80003
+3311168953,2012,community_centre,Stony Point Ruritan Club,-78.37356,38.11494
+3499497265,2303,cafe,West Range Cafe,-78.50548,38.03433
+3962785155,2303,cafe,Starbucks,-78.47768,38.07847
+4119112297,2303,cafe,Starbucks,-78.47415,38.08889
+4817056487,2012,community_centre,Dunlora Clubhouse,-78.45271,38.06848
+5521229640,2303,cafe,Duck Donuts,-78.49281,38.06535
+6302700667,2303,cafe,Red Mango,-78.49954,38.01039
+6345782336,2303,cafe,Kirt's Ice Cream,-78.47159,38.08374
+6345782337,2303,cafe,Carving Board Cafe,-78.47167,38.08377
+8105242674,2303,cafe,Starbucks,-78.50548,38.0098
+8807195936,2501,supermarket,ALDI,-78.47196,38.08101
+356591771,2005,post_office,Batesville Post Office,-78.72223,37.99557
+356591801,2005,post_office,Covesville Post Office,-78.7103,37.88736
+356591807,2005,post_office,Earlysville Post Office,-78.47683,38.15043
+356591812,2005,post_office,Esmont Post Office,-78.60751,37.83209
+356591859,2005,post_office,Howardsville Post Office,-78.6464,37.73542
+356591861,2005,post_office,Keene Post Office,-78.55585,37.86508
+356592004,2005,post_office,Cobham Post Office,-78.26834,38.06292
+356592029,2005,post_office,Ivy Post Office,-78.59655,38.05625
+356592031,2005,post_office,Keswick Post Office,-78.35839,38.02309
+367981715,2002,fire_station,Seminole Trail Company 8 Fire Station,-78.47978,38.08329
+367981720,2002,fire_station,East Rivanna Company 2 Fire Station,-78.35834,38.02264
+367981784,2002,fire_station,North Garden Company 3 Fire Station,-78.65802,37.95604
+367981789,2002,fire_station,Crozet Company 5 Fire Station,-78.69509,38.0691
+367981790,2002,fire_station,Scottsville Company 7 Fire Station,-78.49529,37.79942
+367982945,2002,fire_station,Scottsville Volunteer Fire Department,-78.505,37.8075
+367982952,2002,fire_station,Berkmar Substation of the Charlottesville-Albemarle Rescue Squad,-78.47944,38.08278
+367983863,2002,fire_station,Seminole Trail Volunteer Fire Department,-78.47972,38.08333
+367983870,2002,fire_station,Scottsville Volunteer Rescue Squad Rescue,-78.52849,37.80803
+367983881,2002,fire_station,Stony Point Volunteer Fire Company,-78.37167,38.11111
+367984208,2002,fire_station,Powhatan Volunteer Fire Department,-78.54806,37.925
+367984718,2002,fire_station,Goochland County Fire and Rescue Crozier Company Number 2,-78.335,38.07028
+367988049,2007,library,Albert and Shirley Small Special Collections Library,-78.50577,38.03615
+367988317,2007,library,Fiske Kimball Fine Arts Library,-78.50345,38.03888
+367990541,2008,town_hall,Scottsville Town Hall,-78.49538,37.79967
+570088901,2007,library,Scholars' Lab,-78.50561,38.03649
+1042102327,2005,post_office,,-78.50689,38.03565
+3427854855,2001,police,Police Substation,-78.50019,38.03406
+3455072141,2005,post_office,McCormick Mail Room,-78.51133,38.03504
+6302700652,2005,post_office,Mailbox Express,-78.49846,38.01064
+6514367133,2005,post_office,The UPS Store,-78.4368,38.13011
+8409079346,2001,police,Albemarle County Police,-78.51656,38.00577
+8940355172,2005,post_office,White Hall Post Office,-78.66414,38.11908

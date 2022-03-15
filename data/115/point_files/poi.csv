@@ -1,0 +1,13 @@
+osm_id,code,fclass,name,lon,lat
+356562491,2082,school,Thomas Hunter Middle School,-76.32818,37.43572
+356562881,2082,school,Lee - Jackson Elementary School,-76.3279,37.43476
+356563990,2082,school,New Point School,-76.29716,37.34958
+367981020,2009,courthouse,Mathews County Courthouse,-76.32138,37.43344
+367985960,2002,fire_station,Mathews Volunteer Rescue Squad,-76.32473,37.47103
+367985963,2002,fire_station,Mathews Fire Department Station 2,-76.36035,37.39722
+367985966,2002,fire_station,Mathews Fire Department Station 4,-76.38884,37.50651
+367986020,2002,fire_station,Mathews Fire Department Station 3,-76.28742,37.49844
+367986079,2002,fire_station,Mathews Fire Department Station 5,-76.28899,37.34352
+367987569,2001,police,Mathews County Sheriff's Office,-76.32342,37.44022
+1693848987,2005,post_office,Hallieford Post Office,-76.34055,37.49415
+1693850041,2005,post_office,Cobbs Creek Post Office,-76.39856,37.50439

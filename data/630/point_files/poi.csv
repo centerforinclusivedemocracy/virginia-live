@@ -1,0 +1,23 @@
+osm_id,code,fclass,name,lon,lat
+356568700,2082,school,Lafayette Upper Elementary School,-77.48668,38.27465
+356596674,2082,school,Hugh Mercer Elementary School,-77.48668,38.30275
+356606456,2082,school,Children's House of Old Town,-77.45485,38.29787
+356606760,2082,school,Mariamante Academy,-77.46804,38.30661
+356606761,2082,school,Snowden Academy,-77.4821,38.30965
+2153304274,2303,cafe,The Galleria,-77.45899,38.30306
+2154502795,2082,school,Avery Ballet,-77.4589,38.30207
+4588442090,2501,supermarket,Latino Market,-77.49511,38.29478
+4589464902,2303,cafe,Starbucks,-77.49289,38.29595
+4589710294,2303,cafe,Starbucks,-77.50933,38.30397
+4614789889,2082,school,"MD Tech Solutions, LLC",-77.46897,38.31436
+5258696641,2303,cafe,Blackstone Coffee,-77.47701,38.30567
+356596666,2005,post_office,Fredericksburg Post Office,-77.45907,38.30126
+367986021,2002,fire_station,Fredericksburg City Fire Department Station 2,-77.49764,38.29579
+367989285,2001,police,Fredericksburg City Police Department Headquarters,-77.48663,38.30398
+367989302,2001,police,Fredericksburg City Sheriff's Office,-77.45901,38.30112
+367989702,2001,police,Fredericksburg City and County Sheriff's Office,-77.45911,38.29906
+367989807,2001,police,Fredericksburg Police Records,-77.45713,38.30015
+367989829,2001,police,Fredericksburg Police Detective Division,-77.457,38.30006
+367989840,2001,police,Fredericksburg Police Patrol Division,-77.45822,38.29968
+367990575,2008,town_hall,Fredericksburg City Hall,-77.459,38.3012
+4588398891,2005,post_office,The UPS Store,-77.49732,38.29682

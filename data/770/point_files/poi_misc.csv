@@ -1,0 +1,52 @@
+osm_id,code,fclass,name,lon,lat
+356567888,2082,school,Belmont School,-79.93115,37.26986
+356568215,2082,school,Crystal Springs Elementary School,-79.95226,37.24458
+356568473,2082,school,Grandin Court Elementary School,-79.99087,37.24597
+356568519,2082,school,Harrison School,-79.94837,37.2793
+356568537,2082,school,Highland Park Magnet Elementary School,-79.95059,37.26319
+356568584,2082,school,Huff Lane Elementary School,-79.96041,37.30611
+356568643,2082,school,Jamison Elementary School,-79.92032,37.27153
+356568803,2082,school,Loudon School,-79.95337,37.27791
+356568905,2082,school,Melrose School,-79.96254,37.28403
+356568947,2082,school,Monterey Elementary School,-79.93559,37.31875
+356568957,2082,school,Morningside Elementary School,-79.92115,37.26042
+356569117,2082,school,Oakland Elementary School,-79.94226,37.30125
+356569162,2082,school,Our Lady of Nazareth School,-79.95643,37.26986
+356569181,2082,school,Patrick Henry High School,-79.98282,37.25541
+356569275,2082,school,Preston Park Elementary School,-79.94782,37.31291
+356569298,2082,school,Raleigh Court Elementary School,-79.98615,37.25403
+356569679,2082,school,Stonewall Jackson Junior High School,-79.92615,37.26569
+356569753,2082,school,Tinker Creek Elementary School,-79.91948,37.29569
+356569874,2082,school,Virginia Heights Elementary School,-79.97643,37.26625
+356569905,2082,school,Wasena Elementary School,-79.96809,37.25847
+356569929,2082,school,West End School,-79.95865,37.27014
+356593281,2082,school,Viaud School,-79.94532,37.26319
+356593293,2082,school,Brandon Secretarial School,-79.94059,37.30041
+356593331,2082,school,Fallon Park Elementary School,-79.91592,37.27454
+356593354,2082,school,Governors School,-79.98536,37.25433
+356593356,2082,school,Grace Academy,-79.99599,37.26492
+356593423,2013,nursing_home,Raleigh Court Health & Rehabilitation Center,-79.9783,37.26307
+356593435,2082,school,Roanoke Bible Institute,-79.97059,37.26736
+356593455,2082,school,Saint Andrews Elementary School,-79.93912,37.2776
+356593458,2082,school,Saint Andrews High School,-79.93843,37.2778
+356605821,2084,college,Jefferson College of Health Sciences,-79.93992,37.26588
+367980964,2014,arts_centre,Roanoke Fine Arts Center,-79.95087,37.24653
+367992083,2012,community_centre,Southeast Community Center,-79.9292,37.2693
+1782797032,2303,cafe,Norah's Cafe,-79.93787,37.27261
+1783156607,2303,cafe,Mill Mountain Coffee and Tea,-79.93826,37.2717
+2109665154,2082,school,Roanoke Academy Magnet Elementary School,-79.96633,37.2934
+2328690025,2501,supermarket,Hong Kong Market,-79.96047,37.31566
+2328892558,2501,supermarket,Kroger,-79.95633,37.25584
+2420813998,2082,school,Rivermont School,-79.91924,37.24992
+2679198384,2303,cafe,Starbucks,-79.95853,37.30233
+2691526490,2501,supermarket,Food Lion,-80.00315,37.31411
+2691616799,2501,supermarket,Oriental Market Cho A Dong,-79.94512,37.30461
+2868971504,2501,supermarket,Asian Grocer,-79.97052,37.23659
+2887611777,2084,college,Skyline College,-79.95928,37.31986
+2887695926,2501,supermarket,Kroger,-79.9652,37.31716
+2899271958,2501,supermarket,Food Lion,-79.91534,37.25148
+2901069192,2501,supermarket,La Bodeguita Hispana,-79.95372,37.32167
+3128717898,2501,supermarket,Aldi,-79.96124,37.31576
+5121790325,2303,cafe,Altus Chocolate,-79.93809,37.27169
+8836691695,2303,cafe,Starbucks,-79.9551,37.25494
+8942367200,2303,cafe,STEAM Coffee + Eatery,-79.93949,37.27484

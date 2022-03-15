@@ -1,0 +1,34 @@
+osm_id,code,fclass,name,lon,lat
+356560379,2082,school,Booker-Boyd School,-78.08111,36.67792
+356560498,2082,school,Buckhorn Elementary School,-78.23662,36.68916
+356560764,2082,school,Central School,-78.41194,36.66403
+356561318,2082,school,Park View Middle School,-78.19718,36.6891
+356562345,2082,school,Hillcrest School,-78.56306,36.60181
+356562879,2082,school,Lee School,-78.45944,36.7982
+356564380,2082,school,Park View Senior High School,-78.18326,36.70306
+356564571,2082,school,Pinedale School,-78.23639,36.68903
+356587482,2082,school,Boydton Elementary School,-78.39402,36.66716
+356587512,2082,school,Chase City High School,-78.46194,36.79792
+356587620,2082,school,La Crosse Elementary School,-78.08105,36.67784
+356605823,2013,nursing_home,Sentara Meadowview Terrace,-78.57756,36.6226
+2601635418,2501,supermarket,Food Lion,-78.56939,36.61841
+3201091330,2501,supermarket,Maxway,-78.44746,36.80083
+3201105335,2501,supermarket,Food Deals,-78.1289,36.72705
+3201130399,2012,community_centre,American Legion Post 79,-78.12848,36.72458
+6322252128,2501,supermarket,,-78.46367,36.81153
+6594802145,2501,supermarket,Red Barn Food Stores,-78.16521,36.7144
+356587514,2005,post_office,Chase City Post Office,-78.45944,36.80181
+356587741,2005,post_office,South Hill Post Office,-78.1177,36.73266
+367980991,2009,courthouse,Mecklenburg County Courthouse,-78.38861,36.66709
+367981456,2002,fire_station,Fire Station Number 1,-78.45889,36.79903
+367986093,2002,fire_station,Southside Rescue Squad,-78.13947,36.72846
+367986158,2007,library,R T Arnold Public Library,-78.12982,36.72387
+367986159,2007,library,Butler Memorial Library,-78.45916,36.8007
+367987644,2001,police,Mecklenburg County Sheriff's Office,-78.39021,36.66839
+2601635416,2005,post_office,United States Post Office,-78.55732,36.62523
+3083241154,2001,police,South Hill Police Dept.,-78.13015,36.72664
+3201089454,2001,police,Chase City Police,-78.4594,36.79894
+3201089455,2002,fire_station,Chase City Fire Department,-78.45952,36.79889
+3201130407,2008,town_hall,South Hill Town Hall,-78.12968,36.72493
+3201130412,2002,fire_station,South Hill Municipal Fire Station,-78.12943,36.72754
+6594687163,2001,police,,-78.11503,36.74316

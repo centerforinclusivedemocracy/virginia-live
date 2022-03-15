@@ -1,0 +1,38 @@
+osm_id,code,fclass,name,lon,lat
+356560044,2082,school,Beaverdam Elementary School,-77.64201,37.93326
+356562187,2082,school,Hanover School for Boys,-77.33879,37.75546
+356606273,2082,school,Missionary Learning Center,-77.66273,37.74428
+356606727,2082,school,Virginia Department of Correctional Education - Hanover Juvenile Correctional Center,-77.3388,37.75538
+356606730,2082,school,Oak Knoll Middle School,-77.38379,37.68603
+356606732,2082,school,Crossroads Christian School,-77.33975,37.63286
+1654396096,2501,supermarket,Food Lion,-77.35782,37.63617
+2379050370,2501,supermarket,Food Lion,-77.66305,37.81269
+2381691453,2501,supermarket,Food Lion,-77.46787,37.75487
+2438145777,2303,cafe,Starbucks,-77.44568,37.84142
+2600923207,2501,supermarket,Food Lion,-77.4375,37.69186
+3049121787,2501,supermarket,Food Lion,-77.38466,37.65862
+3066055650,2303,cafe,Starbucks,-77.3562,37.60711
+3103072163,2303,cafe,Bell Cafe,-77.35767,37.63566
+4574293089,2303,cafe,Rise & Shine Diner,-77.44013,37.69228
+4577538889,2012,community_centre,Beaverdam Ruritan Club,-77.62261,37.89402
+5160052530,2501,supermarket,Food Lion,-77.3415,37.61013
+5166131221,2303,cafe,Debbie's Kitchen,-77.54903,37.69254
+5305490821,2303,cafe,The Caboose Market Cafe,-77.48208,37.75833
+6530725957,2303,cafe,The Local Cup,-77.38423,37.65906
+6531578976,2501,supermarket,Aldi,-77.33685,37.611
+7879245385,2303,cafe,Sugar Sweet Dessert Cafe & Bar,-77.436,37.69166
+8587134958,2303,cafe,The Caboose Wine and Cheese,-77.48167,37.75828
+367982571,2002,fire_station,Rockville Volunteer Fire Station Number 9,-77.67973,37.72441
+367982647,2002,fire_station,Beaverdam Volunteer Fire Station Number 2,-77.65319,37.93982
+367984778,2002,fire_station,Fire Station 6,-77.59944,37.88528
+367986229,2002,fire_station,Hanover County Fire / Emergency Medical Services West Hanover Volunteer Rescue Squad Station 15,-77.69313,37.86686
+367989100,2001,police,Virginia State Police Division 1 Area 1 Office,-77.45392,37.69267
+367989562,2099,public_building,Weir Creek Emergency Services,-77.49722,37.82667
+367989681,2001,police,Hanover County Sheriff's Office,-77.3664,37.76503
+367990345,2099,public_building,Hanover County Fire / Emergency Medical Services Administration,-77.36655,37.76489
+4718388589,2005,post_office,,-77.12572,37.62649
+5769312536,2005,post_office,United States Post Office,-77.67927,37.72622
+5769312537,2007,library,Cochrane Rockville Pamunkey Regional Library,-77.6799,37.72622
+6531578941,2005,post_office,FedEx,-77.35621,37.60718
+6531580690,2005,post_office,The UPS Store,-77.3189,37.61591
+7891221831,2005,post_office,Global Pack & Ship,-77.44001,37.69229

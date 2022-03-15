@@ -1,0 +1,61 @@
+osm_id,code,fclass,name,lon,lat
+288556960,2082,school,William Byrd High School,-79.85865,37.2839
+356559930,2082,school,Back Creek Elementary School,-80.07226,37.19958
+356560084,2082,school,Bent Mountain School,-80.12198,37.15514
+356560691,2082,school,Cave Spring Middle School,-80.01782,37.21541
+356560894,2082,school,Clearbrook Elementary School,-79.95149,37.20355
+356560994,2082,school,Roland E Cook Elementary School,-79.89559,37.27708
+356561087,2082,school,Craig Avenue School,-79.89698,37.27042
+356561323,2082,school,Herman L Horn Elementary School,-79.88309,37.28347
+356563710,2082,school,Mount Pleasant Elementary School,-79.9067,37.23708
+356563842,2082,school,Mountain View Elementary School,-79.93615,37.33486
+356563843,2082,school,Mountaintop School,-80.10143,37.16236
+356564039,2082,school,North Cross School,-80.00004,37.2268
+356564147,2082,school,Oak Grove Elementary School,-80.03365,37.24653
+356567466,2082,school,William Byrd High Schools,-79.9008,37.28212
+356569136,2082,school,Ogden Elementary School,-79.98198,37.23097
+356593053,2082,school,Bent Mountain Elementary School,-80.1156,37.15819
+356593063,2082,school,Catawba Elementary School,-80.10671,37.38346
+356593065,2082,school,Cave Spring Elementary School,-80.0167,37.21347
+356593081,2082,school,Glen Cove Elementary School,-80.02004,37.32041
+356593116,2082,school,Penn Forest Elementary School,-79.99893,37.20347
+356593128,2082,school,Roanoke County Alternative School,-79.90043,37.28226
+356593130,2082,school,Roanoke County Occupational School,-80.0206,37.32291
+356593132,2082,school,Roanoke Valley Christian School,-79.95617,37.33418
+356593152,2082,school,W E Cundiff Elementary School,-79.87893,37.27458
+356593156,2082,school,William Byrd Middle School,-79.86057,37.28503
+1313791321,2501,supermarket,Food Lion,-79.8653,37.28084
+1313791931,2501,supermarket,Super Dollar,-79.88468,37.27602
+1313791934,2501,supermarket,Kroger,-79.88702,37.27181
+1538718295,2082,school,,-80.06317,37.3587
+2328656407,2501,supermarket,J&L Oriental Food Mart,-79.99463,37.24162
+2368813086,2501,supermarket,Kroger,-79.9546,37.3455
+2688647350,2501,supermarket,Food Lion,-79.98391,37.22765
+2691590459,2501,supermarket,Food Lion,-79.95443,37.33656
+2869104596,2303,cafe,Gelato,-79.99785,37.22553
+2900884345,2303,cafe,Mill Mountain Coffee,-79.98141,37.22867
+2953470049,2501,supermarket,Kroger,-79.8803,37.31306
+2977982831,2501,supermarket,Kroger,-79.97637,37.23308
+3158872684,2082,school,Hidden Valley High School,-80.02426,37.22412
+4902288747,2303,cafe,Mill Mountain Coffee and Tea,-80.00314,37.20313
+6554131793,2405,hostel,Four Pines Hostel,-80.15303,37.3663
+288557395,2005,post_office,,-79.89772,37.2803
+367980428,2002,fire_station,Roanoke County Fire and Back Creek Rescue,-80.12889,37.34306
+367981750,2002,fire_station,Cave Spring Fire Station Number 3,-80.0098,37.2288
+367981827,2002,fire_station,Fort Lewis Fire Station Number 9,-80.13077,37.27585
+367981832,2002,fire_station,Roanoke County Fire Station Number 5,-79.9635,37.346
+367981837,2002,fire_station,Roanoke County Fire Station Number 6,-79.90976,37.23597
+367981844,2002,fire_station,Roanoke County Fire Station Number 7,-79.95031,37.20153
+367983150,2002,fire_station,Vinton Fire Department,-79.89915,37.27951
+367984281,2002,fire_station,Patrick Henry Fire Department Company 14,-80.13722,37.17444
+367984526,2002,fire_station,Bent Mountain Fire and Rescue,-80.19806,37.28472
+367984748,2002,fire_station,Scruggs Fire Department and Rescue Squad,-80.1075,37.14056
+367986111,2007,library,Hollins Branch Roanoke County Library,-79.96042,37.34567
+2639056269,2007,library,South County Library,-80.0036,37.20302
+2688793631,2001,police,Viginia State Police Station,-80.12811,37.27707
+2690598837,2005,post_office,R+L Shipping,-80.13224,37.27876
+2691590457,2005,post_office,United States Post Office,-79.95433,37.33616
+2691971822,2005,post_office,UPS Freight,-79.98741,37.32985
+2953634413,2005,post_office,Catawba Post Office,-80.10873,37.38269
+6093201560,2001,police,Town of Vinton Police Department,-79.89894,37.27879
+6093201561,2007,library,Town of Vinton Library,-79.89777,37.27884

@@ -1,0 +1,43 @@
+osm_id,code,fclass,name,lon,lat
+356564150,2082,school,Oak Grove School,-78.90058,38.13791
+356570247,2082,school,Augusta School,-78.98891,38.03514
+356574905,2082,school,Spottswood School,-79.2167,37.95763
+356575703,2082,school,Woodrow Wilson Educational Center,-78.98947,38.11902
+356596088,2012,community_centre,Crimora Community Center,-78.85252,38.15513
+356596089,2082,school,Deerfield Elementary School,-79.40615,38.19457
+356596125,2082,school,Mount Sidney School,-78.962,38.25617
+356596133,2082,school,New Hope Elementary School,-78.90391,38.20124
+356596161,2082,school,Weyers Cave Elementary School,-78.90892,38.28818
+2614130157,2501,supermarket,Food Lion,-78.82337,38.25572
+3160082450,2501,supermarket,Food Lion,-79.06726,38.12598
+3493672410,2501,supermarket,Food Lion,-79.03912,38.03477
+4823988721,2082,school,Pilgrim Christian School,-79.05243,38.04516
+5342165717,2402,motel,,-79.00723,38.20401
+7630118395,2501,supermarket,Food Lion,-78.98039,38.10599
+356596086,2005,post_office,Craigsville Post Office,-79.38448,38.07763
+356596123,2005,post_office,Mount Sidney Post Office,-78.95919,38.25735
+356596155,2005,post_office,Verona Post Office,-79.00795,38.20277
+367982771,2002,fire_station,Deerfield Valley Volunteer Fire Department and Rescue Squad,-79.39944,38.19861
+367982783,2002,fire_station,Churchville Volunteer Fire Department and Rescue,-79.16361,38.22667
+367982789,2002,fire_station,Middlebrook Volunteer Fire Department,-79.21292,38.04986
+367982795,2002,fire_station,Craigsville-Augusta Springs Rescue Squad,-79.38389,38.07778
+367982804,2002,fire_station,Mount Solon Volunteer Rescue Squad,-79.0907,38.36061
+367982862,2002,fire_station,Mount Solon Volunteer Fire Department and Rescue Department,-79.09097,38.36069
+367982868,2002,fire_station,Walkers Creek Fire Department,-79.32889,38.0175
+367982895,2002,fire_station,New Hope Vol. Fire and Rescue Department,-78.90472,38.19917
+367982901,2002,fire_station,Swoope Volunteer Fire Department,-79.14722,38.15333
+367982915,2002,fire_station,Preston L Yancey Volunteer Fire Department,-78.95972,38.09417
+367982922,2002,fire_station,Dooms Volunteer Fire Department,-78.86083,38.09917
+367982927,2002,fire_station,Augusta County Fire Department,-79.00111,38.11167
+367982930,2002,fire_station,Stuarts Draft Volunteer Fire Department,-79.03299,38.02407
+367982933,2002,fire_station,Craigsville Volunteer Fire Department,-79.38,38.08222
+367982937,2002,fire_station,Weyers Cave Fire Department,-78.90861,38.28722
+367982992,2002,fire_station,Stuarts Draft Rescue Squad,-79.03472,38.03194
+367984348,2002,fire_station,Lovingston Volunteer Fire Department Thomas Branch,-79.23306,38.14694
+367984354,2002,fire_station,Faber Volunteer Fire Department,-79.23778,38.38611
+367984426,2002,fire_station,Company 1 Lexington Rescue Squad,-79.14651,38.27119
+367984631,2002,fire_station,Company 4 Buena Vista Rescue Squad,-79.36463,38.21839
+367986846,2007,library,Augusta County Public Library,-78.9703,38.09902
+746006893,2002,fire_station,Wilson Volunteer Fire Department,-78.94761,38.01559
+5766194302,2005,post_office,,-78.94498,38.02744
+6300136070,2005,post_office,Crimora Post Office,-78.84086,38.15193

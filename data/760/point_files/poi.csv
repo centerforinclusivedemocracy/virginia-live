@@ -1,0 +1,108 @@
+osm_id,code,fclass,name,lon,lat
+356567817,2082,school,Assembly Training School,-77.45137,37.57987
+356567829,2082,school,Bainbridge School,-77.44897,37.5197
+356568166,2082,school,Community Training Center,-77.4558,37.51693
+356568529,2082,school,Hickory Hill School,-77.46135,37.47945
+356568866,2082,school,Marymount Elementary School,-77.51611,37.56583
+356569104,2082,school,Oak Grove School Annex,-77.43721,37.50431
+356569490,2082,school,Saint Pauls School,-77.43614,37.56919
+356602828,2082,school,First Presbyterian Nursery School,-77.50316,37.56371
+356605776,2082,school,Westhampton College Dean,-77.54086,37.57388
+356606215,2082,school,Richmond Pre-School Developmental Center,-77.40198,37.54597
+356606291,2082,school,Sacred Heart Child Day Center,-77.44824,37.52207
+356606317,2082,school,Richmond Technical Center,-77.4697,37.57924
+356606324,2082,school,Spring Meadow Waldorf School,-77.44803,37.58504
+356606326,2082,school,Ephesus Junior Academy,-77.47422,37.50998
+356606389,2082,school,Sabot at Stony Point,-77.5686,37.54662
+356606446,2082,school,Richmond Acceleration Program,-77.47002,37.57926
+356606522,2082,school,Good Shepherd Episcopal School,-77.47862,37.51876
+356606576,2082,school,All Saints Letsy Ann Memorial School,-77.43512,37.49606
+356606651,2082,school,Richmond Career Education Center,-77.4693,37.57787
+356606659,2082,school,Rudlin Torah Academy,-77.52954,37.58931
+356606705,2082,school,Agape Christian Academy,-77.44525,37.50764
+356606706,2082,school,Genesis Preparatory Academy,-77.45008,37.51982
+846282134,2303,cafe,Urban Farmhouse Market & Cafe,-77.43404,37.53535
+846282136,2303,cafe,Shockoe Espresso & Roastery,-77.43423,37.53503
+2724407754,2303,cafe,Starbucks,-77.42185,37.5301
+3019501290,2303,cafe,Bravo Roco Italian Cafe,-77.57166,37.55006
+3019501320,2303,cafe,Les Crepes,-77.57193,37.5486
+3074376681,2303,cafe,821 Cafe,-77.45271,37.5444
+3075433411,2303,cafe,Cary Street Cafe,-77.47507,37.551
+3075525639,2303,cafe,Sugar & Twine,-77.47843,37.55249
+3075589565,2303,cafe,Capital One Café,-77.47875,37.55234
+3087787132,2303,cafe,Zeus Gallery Cafe,-77.47778,37.55666
+3093272241,2303,cafe,Starbucks,-77.53257,37.59024
+3094979610,2303,cafe,Starbucks,-77.52532,37.53738
+3128375491,2501,supermarket,Arco Iris Latino Market,-77.51505,37.50285
+3165903938,2501,supermarket,Good Food Grocery,-77.56606,37.53719
+3279214174,2303,cafe,Starbucks,-77.45552,37.55403
+3328148228,2303,cafe,Lift Coffee Shop,-77.44407,37.54717
+3333734832,2083,kindergarten,School of Andrew,-77.45628,37.55379
+3341440401,2303,cafe,Cartwheels and Coffee,-77.47739,37.55212
+3505591544,2303,cafe,Starbucks,-77.43697,37.54299
+3505591547,2303,cafe,Richmond on Broad Cafe,-77.43563,37.5421
+3706057842,2303,cafe,Branch and Vine,-77.46613,37.54917
+3707232725,2303,cafe,The Lab by Alchemy Coffee,-77.44886,37.55001
+3707232726,2501,supermarket,Urban Farmhouse VCU,-77.4486,37.54986
+3707232731,2303,cafe,Starbucks,-77.45334,37.54773
+3707257238,2303,cafe,Aroma Cafe,-77.45504,37.55369
+3715937747,2014,arts_centre,ART 180,-77.44236,37.5474
+3715943140,2303,cafe,Starbucks,-77.47083,37.55649
+3715943183,2303,cafe,Best Café,-77.47518,37.55653
+3751089950,2501,supermarket,Tokyo Market,-77.47733,37.55223
+4259920393,2303,cafe,The Urban Farmhouse Market and Café,-77.46908,37.56837
+4261567909,2501,supermarket,Camden's Dogtown Market,-77.44181,37.52539
+4264029246,2303,cafe,Black Hand Coffee Co,-77.476,37.56045
+4264029253,2501,supermarket,Patterson Mini-Market,-77.47587,37.5607
+4264029271,2501,supermarket,Oaxaca Latin Grocery Store,-77.47428,37.56067
+4609072654,2303,cafe,Starbucks,-77.46892,37.56434
+4613079383,2303,cafe,Cafe Caturra,-77.51958,37.57272
+4613080590,2303,cafe,Boyer's,-77.51886,37.57314
+4613080593,2303,cafe,Starbucks,-77.51868,37.57318
+4613213600,2303,cafe,Cafe Ole,-77.4389,37.54015
+5072690719,2501,supermarket,The Fresh Market,-77.48603,37.55738
+5720823307,2303,cafe,ICA Café,-77.44817,37.54879
+6073941088,2303,cafe,North End Juice Co.,-77.47698,37.5625
+6520428699,2501,supermarket,Super Fresh Supermarket,-77.47738,37.50055
+6611894637,2303,cafe,Plant Zero Cafe,-77.437,37.52524
+6720558636,2082,school,Spartan Academy,-77.44119,37.5493
+6762131007,2501,supermarket,Stella's Grocery,-77.47305,37.57014
+7019713575,2014,arts_centre,The Writing Room,-77.47835,37.55219
+7022410736,2303,cafe,WPA Bakery,-77.41614,37.53124
+7093628988,2303,cafe,Blanchard's Coffee,-77.47412,37.56505
+7093827385,2082,school,Studio School,-77.4768,37.55548
+7094075287,2303,cafe,Elsa Cafe & Market,-77.47003,37.56326
+7160377595,2303,cafe,Roastology,-77.47538,37.55103
+7248132485,2303,cafe,Espresso Cafe,-77.44242,37.54498
+7251403385,2303,cafe,Simply Tea,-77.44528,37.54346
+7387271387,2501,supermarket,Save-A-Lot,-77.47383,37.50459
+7686351582,2303,cafe,Starbucks,-77.43522,37.53598
+7686351752,2303,cafe,Starbucks,-77.44853,37.54381
+7687401639,2012,community_centre,Resource Workforce Center,-77.44298,37.54043
+7687401660,2303,cafe,Bleecker St.,-77.44786,37.54478
+7687401667,2081,university,VCU Wellness Resource Center,-77.45246,37.54698
+7687401668,2081,university,VCU da Vinci Center for Innovation,-77.45197,37.54693
+7690715563,2303,cafe,Nate's Bagels,-77.46381,37.54727
+7690715609,2303,cafe,Greenbriar Cafe and Coffeehouse,-77.45705,37.54594
+7691184397,2081,university,VCU Medical Center Department of Physical Medicine and Rehabilitation,-77.42932,37.5391
+7691184400,2081,university,Wright Center for Clinical and Translational Research,-77.42936,37.54104
+7691184559,2303,cafe,Starbucks,-77.42968,37.54456
+7867938044,2082,school,CodeRVA Regional High School,-77.45481,37.56731
+7974986485,2082,school,Metropolitan Day School,-77.43316,37.56962
+9008186645,2501,supermarket,Fine Food Market,-77.45073,37.542
+9175791648,2501,supermarket,Food Lion,-77.49704,37.48859
+356601723,2005,post_office,Forest Hill Station Richmond Post Office,-77.52471,37.5157
+356601752,2005,post_office,Westhampton Station Richmond Post Office,-77.51237,37.57822
+356601762,2005,post_office,East End Station Richmond Post Office,-77.41776,37.5332
+367981670,2002,fire_station,Fire Station Number 5,-77.44305,37.55101
+367988614,2001,police,Richmond Police Department 2nd Precinct,-77.48342,37.50639
+367989666,2001,police,Richmond City Sheriff's Office,-77.42362,37.54599
+3075619922,2005,post_office,United States Post Office,-77.48681,37.55767
+3355116902,2005,post_office,The UPS Store,-77.48101,37.55371
+3505591554,2009,courthouse,Supreme Court of Appeals,-77.43177,37.53912
+4575330490,2009,courthouse,"Lewis F. Powell, Jr. United States Courthouse Annex",-77.43419,37.53733
+5695245518,2007,library,Margaret R. and Robert M. Freeman Library,-77.47458,37.55632
+7093722586,2007,library,Helen Wapole Brewer Library,-77.47383,37.55731
+7251394690,2007,library,Little Library,-77.4438,37.54208
+7687358483,2005,post_office,United States Post Office,-77.4405,37.54397
+7969703680,2005,post_office,United States Post Office,-77.43299,37.5718

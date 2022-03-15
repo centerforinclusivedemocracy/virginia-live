@@ -1,0 +1,35 @@
+osm_id,code,fclass,name,lon,lat
+220545629,2501,supermarket,Penniman Rd & Dodge Dr,-76.67016,37.26615
+356601177,2082,school,Clara Byrd Baker Elementary School,-76.76627,37.24885
+356601179,2082,school,D J Montague Elementary School,-76.79161,37.3106
+356601199,2082,school,Norge Elementary School,-76.76963,37.36429
+356601205,2082,school,Rawls Byrd Elementary School,-76.73195,37.24822
+356605799,2082,school,Matoaka Elementary School,-76.81745,37.27624
+356605804,2082,school,Warhill High School,-76.75733,37.33302
+356606568,2082,school,Williamsburg Montessori School,-76.77238,37.31343
+356606683,2082,school,Stonehouse Elementary School,-76.79443,37.39425
+356606684,2082,school,Williamsburg Christian Academy,-76.78984,37.39613
+704297337,2501,supermarket,Harris Teeter,-76.76432,37.25131
+704297464,2501,supermarket,Publix,-76.75861,37.27237
+1164584738,2501,supermarket,Food Lion,-76.73764,37.31669
+1165878734,2303,cafe,J. J. Jitterzz Koffee,-76.73548,37.31812
+2188773415,2501,supermarket,Farm Fresh,-76.77296,37.37289
+2372189446,2082,school,J Blaine Blayton Elementary School,-76.80614,37.33378
+2372212976,2082,school,Lois Hornsby Middle School,-76.80518,37.33521
+3733870532,2501,supermarket,Penniman Rd & Magruder ES,-76.67261,37.26594
+3827837712,2082,school,Child Development Resources,-76.77133,37.38262
+4870555544,2501,supermarket,The Fresh Market,-76.74723,37.27515
+6160189659,2303,cafe,Starbucks,-76.7471,37.27613
+7403683221,2303,cafe,Starbucks,-76.6477,37.2361
+8357672785,2303,cafe,Crepes & Coffee,-76.64891,37.2345
+8357717148,2303,cafe,Cafe Lulu,-76.64854,37.23427
+215586615,2005,post_office,Pocahontas Trl & Heritage Mobile Village,-76.61898,37.21336
+215642054,2005,post_office,Pocahontas Trl & Carters Grove,-76.62125,37.21635
+215740343,2005,post_office,Pocahontas Trl & WATA IB,-76.66987,37.25736
+215747037,2005,post_office,Pocahontas Trl & Creative Kids Daycare OB,-76.62623,37.22551
+356601201,2005,post_office,Norge Post Office,-76.77457,37.37065
+367985060,2002,fire_station,Abingdon Volunteer Fire and Rescue Station Number 3,-76.83056,37.44806
+367985817,2002,fire_station,James City County Fire Department Station 3,-76.74451,37.25682
+367985981,2002,fire_station,James City County Fire Department Station 2,-76.62946,37.23362
+2296218343,2002,fire_station,James City County Fire Station 4,-76.74816,37.30975
+4998361956,2001,police,Kingsmill Police,-76.67985,37.24452

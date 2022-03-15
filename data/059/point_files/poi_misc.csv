@@ -1,0 +1,398 @@
+osm_id,code,fclass,name,lon,lat
+343241124,2501,supermarket,Giant,-77.40674,38.90849
+356559824,2082,school,Annandale Terrace Elementary School,-77.20834,38.82704
+356559941,2082,school,Baileys Elementary School,-77.14531,38.85239
+356560079,2082,school,Belvedere Elementary School,-77.16824,38.83828
+356560407,2082,school,Braddock Elementary School,-77.21557,38.82228
+356560425,2082,school,Bren Mar Park Elementary School,-77.15737,38.80174
+356560503,2082,school,Bucknell Elementary School,-77.07434,38.76675
+356560646,2082,school,Carey School,-77.13623,38.84264
+356560728,2082,school,Cedar Lane Center,-77.24541,38.88375
+356561097,2082,school,Crestwood Elementary School,-77.19488,38.78736
+356561368,2082,school,Edsall Park Center,-77.18156,38.80599
+356561699,2082,school,Flint Hill Lower School,-77.30709,38.87926
+356561700,2082,school,Flint Hill Elementary School,-77.28478,38.89606
+356561778,2082,school,Freedom Hill Elementary School,-77.22982,38.91134
+356561863,2082,school,George Mason University Fairfax Campus,-77.30809,38.83229
+356561904,2082,school,Glasgow Middle School,-77.14094,38.83784
+356561913,2082,school,Glen Forest Elementary School,-77.12851,38.85573
+356562033,2082,school,Graham Road Elementary School,-77.19095,38.87628
+356562124,2082,school,Groveton Elementary School,-77.09502,38.76894
+356562242,2082,school,Haycock Elementary School,-77.17368,38.90383
+356562383,2082,school,Hollin Meadows Elementary School,-77.07153,38.7502
+356562492,2082,school,Hunters Woods Elementary School,-77.36154,38.93222
+356562515,2082,school,Hybla Valley Elementary School,-77.0898,38.75874
+356562758,2082,school,Kings Park Elementary School,-77.24168,38.80473
+356562944,2082,school,Lincolnia Academy,-77.14675,38.81715
+356562993,2082,school,Little Run Elementary School,-77.26655,38.82619
+356563152,2082,school,Madison High School,-77.27921,38.8961
+356563524,2082,school,Mount Daniel Elementary School,-77.18082,38.89736
+356563528,2082,school,Mount Eagle Elementary School,-77.07856,38.78481
+356564054,2082,school,North Springfield Elementary School,-77.20831,38.80185
+356564207,2082,school,Oakton Elementary School,-77.30421,38.88012
+356564339,2082,school,Our Lady of Good Counsel School,-77.24214,38.90789
+356564387,2082,school,Parklawn Elementary School,-77.15309,38.83379
+356564568,2082,school,Pine Spring Elementary School,-77.20869,38.87069
+356564937,2082,school,Ravensworth Elementary School,-77.2232,38.80301
+356565328,2082,school,Saint Aidans Episcopal Day School,-77.06694,38.72556
+356565345,2082,school,Saint Bernadette School,-77.20544,38.77644
+356565457,2082,school,Saint Louis Elementary School,-77.08185,38.76424
+356565529,2082,school,Saint Michael School,-77.2002,38.82239
+356566091,2082,school,Sleepy Hollow Elementary School,-77.1687,38.8557
+356566334,2082,school,Stratford Landing Elementary School,-77.0688,38.72825
+356566576,2082,school,Timber Lane Elementary School,-77.19785,38.87982
+356567184,2082,school,Washington Mill Elementary School,-77.10484,38.71005
+356567216,2082,school,Waynewood Elementary School,-77.05595,38.72471
+356567310,2082,school,West Springfield Elementary School,-77.21913,38.76908
+356567348,2082,school,Weyanoke Elementary School,-77.16555,38.81946
+356567638,2082,school,Woodburn Elementary School,-77.21392,38.85189
+356580519,2082,school,Browne Academy,-77.08399,38.789
+356580643,2013,nursing_home,Powhatan Nursing Home,-77.16436,38.90634
+356580793,2082,school,Town and Country School of Vienna,-77.27769,38.95833
+356580795,2082,school,Northern Virginia Community College,-77.33458,38.95209
+356580796,2082,school,Dominion Christian School,-77.32545,38.9049
+356580885,2082,school,Bryant Alternative High School,-77.07945,38.76382
+356580887,2082,school,Quander Road School,-77.07088,38.77884
+356580980,2082,school,Islamic Saudi Academy,-77.3298,38.81253
+356580984,2082,school,Northern Virginia Training Center,-77.2887,38.82532
+356581072,2082,school,Holy Spirit School,-77.24852,38.81269
+356581074,2082,school,Queen of Apostles Catholic School,-77.14225,38.82803
+356581273,2082,school,Fairfax Baptist Temple Academy,-77.30117,38.77761
+356581321,2082,school,Dunn Loring Center,-77.22601,38.89582
+356581342,2082,school,Groveton-Bryant Adult Center,-77.0797,38.76373
+356581367,2082,school,Mason Crest Elementary School,-77.19665,38.84253
+356581370,2082,school,Fairfax County Police Range,-77.34804,38.81095
+356581422,2082,school,Fairfax County Schools Virginia Hills Administative Center,-77.10236,38.77444
+356581426,2082,school,Community Based Education School,-77.20173,38.85715
+356599965,2082,school,Olde Creek Elementary School,-77.27611,38.83104
+356600044,2082,school,Beech Tree Elementary School,-77.18116,38.853
+356600060,2082,school,Cardinal Forest Elementary School,-77.24044,38.79206
+356600065,2082,school,Columbia Elementary School,-77.17634,38.82884
+356600092,2082,school,Key Middle School,-77.16172,38.77978
+356600311,2082,school,Rolling Valley Elementary School,-77.23133,38.76887
+356600322,2082,school,Silverbrook Elementary School,-77.26906,38.72888
+356600345,2082,school,Gunston Building,-77.07163,38.77527
+356600450,2082,school,Centreville Elementary School,-77.44074,38.81977
+356600459,2082,school,Clifton Elementary School,-77.38852,38.78384
+356600493,2082,school,Greenbriar East Elementary School,-77.39447,38.87132
+356600499,2082,school,Greenbriar West Elementary School,-77.40558,38.87629
+356600567,2082,school,Forestville Elementary School,-77.32818,38.99361
+356600640,2082,school,Edlin School,-77.31887,38.94844
+356600676,2082,school,Holmes Middle School,-77.16323,38.81512
+356600688,2082,school,Kilmer Middle School,-77.22526,38.90406
+356600768,2082,school,Shrevewood Elementary School,-77.20583,38.88881
+356604530,2082,school,Saint Timothy Catholic School,-77.42365,38.87186
+356604637,2082,school,Bryant-Groveton Leaning Center,-77.07963,38.76383
+356604639,2082,school,Carl Sandburg Middle School,-77.06203,38.72891
+356604645,2082,school,Willow Springs Elementary School,-77.37986,38.83195
+356604648,2082,school,Islamic Saudi Academy,-77.10165,38.73115
+356604652,2082,school,Liberty Middle School,-77.41808,38.80516
+356604656,2082,school,Waples Mill Elementary School,-77.34483,38.87631
+356604658,2082,school,Saratoga Elementary School,-77.21358,38.73556
+356604664,2082,school,Newington Forest Elementary School,-77.2402,38.73915
+356604670,2082,school,Pimmit Hills Alternative High School,-77.20476,38.91645
+356604674,2082,school,A Scott Crossfield Elementary School,-77.36236,38.91495
+356604692,2082,school,Fort Hunt Elementary School,-77.06639,38.71901
+356604700,2014,arts_centre,Springbank Arts Building,-77.07135,38.77342
+356604702,2082,school,Aldrin Elementary School,-77.33791,38.97996
+356604711,2082,school,Leary School of Virginia,-77.14816,38.82806
+356605186,2082,school,Fair Oaks Hospital Child Care Center,-77.38085,38.88702
+356605837,2082,school,Clermont Elementary School,-77.11099,38.7949
+356605945,2082,school,Corpus Christi School,-77.13864,38.85712
+356606005,2082,school,Leary School,-77.14837,38.8279
+356606008,2082,school,Living Savior Lutheran Church Preschool,-77.3275,38.80793
+356606009,2082,school,Lord of Life Preschool,-77.27663,38.81288
+356606038,2082,school,Achievement Integrity and Maturity School,-77.0793,38.76374
+356606039,2082,school,Aldersgate Methodist Church Day School,-77.05724,38.73269
+356606054,2082,school,Community Based Education Center,-77.20238,38.85742
+356606056,2082,school,Davis Vocational Center,-77.21413,38.90601
+356606066,2082,school,Providence Weekday Preschool,-77.25623,38.94485
+356606068,2082,school,Saint Georges United Methodist Church Preschool,-77.31802,38.82423
+356606069,2082,school,Saint Pauls Lutheran Preschool,-77.20183,38.89964
+356606070,2082,school,Trinity Presbyterian Preschool,-77.37886,38.97655
+356606071,2082,school,Way of Faith Christian Academy,-77.24963,38.8664
+356606074,2082,school,Calvary Road Christian School,-77.15349,38.76894
+356606077,2082,school,Franklin Barn Childrens Center,-77.38637,38.91279
+356606078,2082,school,Hope Montessori School,-77.20214,38.82433
+356606080,2082,school,North Springfield Center School,-77.20732,38.80121
+356606081,2082,school,Lincolnia Private Day School,-77.15303,38.83178
+356606083,2082,school,Montessori School of Herndon,-77.3774,38.98365
+356606085,2082,school,Elfland School,-77.11127,38.80031
+356606087,2082,school,Oak Valley Center,-77.3341,38.85831
+356606089,2082,school,Wien Private Day School,-77.2482,38.89881
+356606092,2082,school,Pinecrest School,-77.19492,38.83501
+356606095,2082,school,Olde Creek Special Education Center,-77.27651,38.83146
+356606096,2082,school,Pals Early Learning Center,-77.33875,38.95418
+356606097,2082,school,Engleside Christian School,-77.12105,38.728
+356606099,2012,community_centre,Bush Hill Center,-77.12406,38.79062
+356606100,2082,school,Temple Baptist School,-77.37638,38.9878
+356606101,2082,school,Groveton Center,-77.09502,38.76883
+356606102,2082,school,Immanuel Christian School,-77.18526,38.8103
+356606104,2082,school,Academy of Christian Education,-77.34158,38.95272
+356606105,2082,school,Nysmith School For The Gifted,-77.42115,38.92439
+356606109,2082,school,Hunter Mill Montessori School,-77.30228,38.89266
+356606113,2082,school,New Vista School,-77.1854,38.86857
+356606116,2082,school,Little Acorn Patch,-77.23706,38.78115
+356606119,2082,school,Valleybrook School,-77.18235,38.8511
+356606120,2082,school,Woodlawn Gardens Nursery Kindergarten,-77.11198,38.72844
+356606123,2082,school,Westminster School,-77.19775,38.8417
+356606127,2082,school,Kenwood School,-77.18488,38.81577
+356606130,2083,kindergarten,Lake Anne Nursery Kindergarten,-77.33341,38.95762
+356606132,2082,school,Brooksfield School,-77.16116,38.91674
+356606151,2082,school,Grace Lutheran School,-77.18127,38.8572
+356606152,2082,school,Nativity Catholic School,-77.28013,38.77724
+356606206,2082,school,Reston Montessori School,-77.33743,38.95464
+356606207,2083,kindergarten,KinderCare,-77.31447,38.79866
+356606251,2082,school,Montessori School of Northern Virginia,-77.17966,38.82264
+356606258,2083,kindergarten,KinderCare,-77.45624,38.8355
+356606276,2082,school,Chesapeake Academy,-77.16998,38.79826
+356606364,2082,school,Federal Childrens Center of Northern Virginia,-77.3803,38.96274
+356606365,2082,school,Good Beginnings School,-77.34497,38.94458
+356606414,2082,school,Westfields Play and Learn Center,-77.43933,38.87621
+356606415,2082,school,Franconia Child Development Center,-77.13759,38.78448
+356606416,2082,school,Springfield Academy,-77.18612,38.80734
+356606417,2082,school,Montessori School - Holmes Run,-77.20667,38.84857
+356606421,2082,school,University View Child Care Center,-77.3162,38.8224
+356606422,2082,school,Prince of Peace Lutheran School,-77.23075,38.78097
+356606425,2082,school,Sunset Hills Montessori School Childrens House,-77.33924,38.95304
+356606432,2082,school,Springs Montessori School,-77.18511,38.80549
+356606433,2082,school,Village Green Day School,-77.28878,38.99407
+356606435,2082,school,Student Services Secondary School Center,-77.1921,38.87614
+356606460,2082,school,Word of Life Christian Academy,-77.18354,38.80808
+356606493,2082,school,Montessori School of Alexandria,-77.08884,38.7816
+356606535,2082,school,Montessori School of Cedar Lane,-77.24587,38.86698
+356606536,2082,school,Montessori School of Oakton,-77.36493,38.88208
+356606537,2082,school,Student Services Elementary School Center,-77.19214,38.87621
+356606586,2082,school,Saint Andrew the Apostle School,-77.42236,38.80489
+356606652,2082,school,Christian Assembly Academy,-77.22757,38.90208
+356606655,2082,school,The Kellar School,-77.33228,38.85885
+356606656,2082,school,Living Savior Preschool Kindergarten,-77.32774,38.8082
+356606796,2082,school,Sunset Hills Montessori School,-77.3322,38.93451
+356606797,2082,school,Sunrise Il Alternative School,-77.38076,38.899
+356606798,2082,school,Sunrise House Alternative School,-77.38078,38.8986
+356606799,2082,school,Trinity Christian School,-77.33253,38.83374
+356606800,2082,school,Merritt Academy,-77.26314,38.86382
+356606801,2082,school,Northern Virginia Community College - Medical Education Campus,-77.17446,38.76266
+356606804,2082,school,Oakton Arbor School,-77.21832,38.84584
+356606805,2082,school,Bryant Head Start Program Alternative Center,-77.07952,38.76363
+356606806,2082,school,Crossroads Residential School,-77.13139,38.77299
+367986201,2083,kindergarten,Child Development Center,-77.30454,38.83566
+428215927,2501,supermarket,Giant,-77.25819,38.90547
+428215928,2501,supermarket,,-77.26174,38.90528
+462004196,2303,cafe,Spices and Beyond,-77.42465,38.95878
+500468923,2501,supermarket,Lidl,-77.26499,38.7778
+501537775,2501,supermarket,Giant,-77.26241,38.71543
+556670264,2082,school,Colvin Run Elementary School,-77.2646,38.94697
+572034976,2303,cafe,Starbucks,-77.40089,38.95755
+573752061,2303,cafe,Starbucks,-77.23624,38.92161
+575981123,2303,cafe,Starbucks,-77.30721,38.83382
+577268783,2501,supermarket,Harris Teeter,-77.39493,38.94954
+581073669,2303,cafe,Blessings Cafe,-77.24885,38.92916
+585183276,2303,cafe,Lille,-77.40947,38.94987
+585183281,2501,supermarket,Giant,-77.40801,38.95041
+599164757,2501,supermarket,Trader Joe's,-77.35902,38.96725
+601513200,2303,cafe,Starbucks,-77.2969,38.78707
+613238666,2303,cafe,Marvelous Market,-77.1765,38.93608
+616694480,2303,cafe,Gathering Grounds,-77.31463,38.82546
+621048212,2501,supermarket,Giant Food,-77.18982,38.77991
+621048214,2501,supermarket,Trader Joe's,-77.18923,38.78158
+624111336,2014,arts_centre,Reston Orchestra,-77.3609,38.93639
+626331915,2501,supermarket,Harris Teeter,-77.35486,38.96602
+655221797,2501,supermarket,Bestway,-77.38298,38.97056
+661171205,2303,cafe,club house,-77.24597,38.7179
+661436563,2303,cafe,Jammin Java,-77.26104,38.90413
+669226115,2303,cafe,Crepes & Karak Cafe,-77.24375,38.8884
+728880480,2501,supermarket,Super Giant,-77.11896,38.84962
+832367321,2303,cafe,Starbucks,-77.35907,38.95885
+834737554,2303,cafe,Starbucks,-77.43746,38.83625
+834852313,2303,cafe,Starbucks,-77.44979,38.85344
+834983236,2303,cafe,La Madeleine,-77.35655,38.96073
+861623083,2303,cafe,Starbucks,-77.15161,38.86937
+922360398,2501,supermarket,Whole Foods Market,-77.34934,38.95174
+928082781,2303,cafe,Starbucks,-77.37534,38.92765
+928093854,2303,cafe,Starbucks,-77.36268,38.93575
+928093994,2303,cafe,Starbucks,-77.35524,38.96159
+928094840,2303,cafe,Starbucks,-77.34746,38.95201
+928097545,2303,cafe,Starbucks,-77.34962,38.97973
+929766246,2501,supermarket,Giant,-77.26448,38.75206
+929766281,2303,cafe,Starbucks,-77.26509,38.75274
+929767650,2501,supermarket,Giant,-77.23209,38.78089
+987795515,2082,school,Ambleside,-77.35237,39.0032
+1057602419,2501,supermarket,Safeway,-77.2022,38.92256
+1059130574,2501,supermarket,Giant,-77.18053,38.93257
+1059130576,2501,supermarket,Balducci's,-77.17472,38.93103
+1100289584,2504,mall,Burke Town Center,-77.30042,38.78816
+1126573181,2303,cafe,Starbucks,-77.17106,38.77524
+1259613968,2504,mall,Burke Village Center Shopping Center,-77.27223,38.79511
+1585589597,2303,cafe,Starbucks,-77.40859,38.95124
+1651002221,2501,supermarket,Giant,-77.40043,38.96256
+1652573042,2501,supermarket,Giant,-77.19204,38.83052
+1655573280,2303,cafe,Shilla Cafe & Bakery,-77.18943,38.8288
+1668112461,2501,supermarket,Great Wall,-77.22924,38.86963
+1668113913,2303,cafe,Pastry Xpo,-77.22833,38.87284
+1687214599,2303,cafe,Starbucks,-77.29999,38.88233
+1728088460,2501,supermarket,Whole Foods Market,-77.20468,38.90314
+1808899347,2501,supermarket,Trader Joe's,-77.20386,38.90444
+1808905392,2303,cafe,Starbucks,-77.20374,38.90264
+1837917921,2501,supermarket,Shoppers,-77.13997,38.81868
+1843417987,2012,community_centre,Reston Community Center at Lake Anne,-77.34092,38.96918
+1863748038,2303,cafe,Starbucks,-77.08342,38.77138
+1871840586,2303,cafe,Starbucks,-77.16201,38.82321
+1909817622,2501,supermarket,ALDI,-77.22582,38.86637
+1967372890,2501,supermarket,MOM's Organic Market,-77.231,38.87351
+2104654720,2501,supermarket,Giant,-77.08374,38.77084
+2202495549,2083,kindergarten,Dulles Play and Learn,-77.42363,38.95883
+2203917874,2501,supermarket,ALDI,-77.4277,38.89397
+2203929650,2303,cafe,Starbucks,-77.44772,38.89416
+2205964663,2501,supermarket,Trader Joe's,-77.43275,38.84026
+2209114554,2501,supermarket,Giant,-77.44942,38.8541
+2290985699,2303,cafe,Starbucks,-77.22573,38.8667
+2295405656,2303,cafe,Starbucks,-77.18413,38.8122
+2296468281,2303,cafe,Greenberry's Coffee Company,-77.1807,38.93397
+2303352916,2501,supermarket,Giant,-77.21347,38.73969
+2313291804,2303,cafe,Lulu Cafe,-77.42631,38.83658
+2332625857,2501,supermarket,Harris Teeter,-77.22744,38.92984
+2340954797,2501,supermarket,Giant Food,-77.18842,38.782
+2352867883,2303,cafe,Starbucks,-77.3196,38.79967
+2365274596,2083,kindergarten,Tysons Corner Children's Center,-77.22924,38.92352
+2371437275,2501,supermarket,Giant,-77.37521,38.92692
+2372809123,2082,school,Lee's Corner Elementary School,-77.41112,38.89038
+2393486402,2303,cafe,Starbucks,-77.21298,38.74017
+2397227950,2082,school,,-77.47639,38.83006
+2397801908,2083,kindergarten,Minnieland,-77.43356,38.83717
+2402758344,2303,cafe,Starbucks,-77.35291,38.84861
+2402915197,2303,cafe,Bombay Cafe,-77.33398,38.85016
+2404299814,2303,cafe,Starbucks,-77.26122,38.87161
+2406620420,2303,cafe,Starbucks,-77.08282,38.75373
+2406620438,2501,supermarket,Shoppers Food Warehouse,-77.08548,38.7511
+2406651079,2501,supermarket,ALDI,-77.10024,38.73429
+2414191682,2083,kindergarten,KinderCare,-77.2833,38.78244
+2429628717,2501,supermarket,Walmart Supercenter,-77.24532,38.92961
+2433189183,2303,cafe,Starbucks Coffee Company,-77.28721,38.99657
+2478283142,2303,cafe,Starbucks,-77.37633,38.96701
+2565841393,2303,cafe,Starbucks,-77.0847,38.74997
+2570460488,2303,cafe,Starbucks,-77.14292,38.69731
+2575198661,2303,cafe,Starbucks,-77.14482,38.86956
+2575198662,2303,cafe,Möge Tee,-77.14551,38.87007
+2611655815,2083,kindergarten,,-77.35945,38.9609
+2678573672,2303,cafe,Green Lizard Cycling and Cafe,-77.38521,38.97028
+2698886502,2303,cafe,Starbucks,-77.38117,38.85742
+2699029699,2303,cafe,Bagel Cafe,-77.3722,38.96755
+2699056986,2303,cafe,Rita's Cafe,-77.22828,38.92104
+2699349587,2303,cafe,Boulevard Cafe,-77.22776,38.9235
+2781452878,2303,cafe,Starbucks,-77.26124,38.87192
+2885524580,2303,cafe,Starbucks,-77.33016,38.93832
+3087290033,2303,cafe,Cafein,-77.4243,38.89665
+3161218734,2303,cafe,,-77.1758,38.77899
+3185053613,2083,kindergarten,Boyd School - Reston Campus,-77.3442,38.99776
+3198995046,2501,supermarket,MOM'S,-77.37474,38.97016
+3200104117,2501,supermarket,Smart Markets,-77.17575,38.77728
+3200116589,2501,supermarket,Smart Markets Farmers Market,-77.23448,38.92614
+3258250899,2303,cafe,Peet's Coffee,-77.35799,38.85764
+3281180877,2501,supermarket,Food Lion,-77.41515,38.92138
+3295724068,2501,supermarket,Grand Mart,-77.1433,38.81699
+3340947357,2303,cafe,Starbucks,-77.30703,38.82957
+3346928531,2303,cafe,Starbucks,-77.39647,38.87944
+3359956637,2501,supermarket,Whole Foods Market,-77.23482,38.78019
+3359956638,2303,cafe,Starbucks,-77.23523,38.77993
+3372559881,2303,cafe,Peet's Coffee,-77.30582,38.82993
+3381640170,2303,cafe,Starbucks,-77.18985,38.77908
+3381656156,2303,cafe,Iceberry Frozen Yogurt,-77.18981,38.77952
+3454990805,2303,cafe,Barnes & Noble Cafe,-77.23519,38.83288
+3455660635,2303,cafe,Euro Cafe,-77.23595,38.83434
+3455660636,2303,cafe,Outtakes by Euro Cafe,-77.23603,38.83458
+3584164927,2501,supermarket,Russian Gourmet,-77.17653,38.93585
+3668604281,2303,cafe,Sweet Stuff,-77.22522,38.95253
+3784770743,2083,kindergarten,,-77.14636,38.83679
+3882840290,2501,supermarket,Giant,-77.35006,38.97924
+3889748315,2083,kindergarten,Bright Horizons,-77.35063,38.95251
+3938838165,2082,school,Primrose School of Chantilly,-77.42767,38.91414
+3987095500,2083,kindergarten,The Country Day School,-77.16022,38.94758
+4037579407,2082,school,"The Springs, A Monessori School",-77.211,38.74177
+4208127859,2303,cafe,La Madeleine,-77.13676,38.7722
+4208133624,2501,supermarket,Giant,-77.13706,38.77271
+4225581048,2303,cafe,Springfield Cafe,-77.16088,38.76752
+4320503044,2082,school,Quander Building,-77.07234,38.77441
+4337259636,2303,cafe,Caffe Amouri,-77.26576,38.90252
+4376101596,2405,hostel,Home,-77.10639,38.69937
+4408479024,2083,kindergarten,Chesterbrook Academy Preschool,-77.37479,38.96131
+4419349734,2082,school,,-77.24482,38.72119
+4419422430,2303,cafe,Starbucks,-77.38838,38.85922
+4419422431,2303,cafe,Starbucks,-77.36038,38.86608
+4420690094,2501,supermarket,Parcel Plus,-77.4504,38.85279
+4577758854,2501,supermarket,Al-Amal Super Market,-77.11906,38.84118
+4577765497,2501,supermarket,Leyu Market,-77.12771,38.84759
+4591604403,2303,cafe,Dolcezza,-77.22959,38.87248
+4679543324,2012,community_centre,FAM Club House,-77.22966,38.93157
+4810607991,2084,college,Christendom College Graduate School of Theology,-77.14282,38.82793
+4829288521,2303,cafe,Leaves and Greens,-77.36219,38.94841
+4862979256,2082,school,Fiore Montessori School,-77.27982,38.93906
+4971411656,2303,cafe,,-77.34128,38.96883
+4971474806,2083,kindergarten,,-77.34075,38.96925
+5193851821,2303,cafe,Woodburn Cafe,-77.22429,38.85399
+5210340423,2303,cafe,Beanetics Coffee Roasters,-77.18815,38.83423
+5249633071,2012,community_centre,Southgate Community Center,-77.36572,38.9418
+5329679148,2303,cafe,Great Harvest Bread Company,-77.21364,38.71334
+5353088951,2303,cafe,Kung Fu Tea,-77.36326,38.93676
+5354906279,2083,kindergarten,Minnieland Academy,-77.2207,38.70117
+5584393993,2303,cafe,Le Pain Quotidien,-77.23037,38.87356
+5589624830,2501,supermarket,The Fresh Market,-77.25713,38.90591
+5744083724,2303,cafe,Peet's Coffee,-77.44225,38.87616
+5834730491,2303,cafe,Starbucks,-77.23906,38.9284
+5912996565,2303,cafe,South Block,-77.2611,38.90419
+6127374175,2303,cafe,Fumee Cafe,-77.19563,38.8309
+6325089486,2082,school,Montessori School of Holmes Run-Children's House,-77.19322,38.85356
+6383763604,2501,supermarket,Balducci's,-77.35663,38.9596
+6496585126,2083,kindergarten,Baby Toddler & Preschool Land,-77.30591,38.86444
+6502229144,2303,cafe,Starbucks,-77.33888,38.94869
+6506940893,2303,cafe,Starbucks,-77.22874,38.88197
+6593486466,2303,cafe,Starbucks,-77.23038,38.87056
+6593486467,2303,cafe,Starbucks,-77.22952,38.87265
+6793656776,2083,kindergarten,Saint Philip Early Childhood Center,-77.20665,38.85946
+6831325849,2303,cafe,Chesapeake Bagel Bakery,-77.32202,38.79973
+6848841177,2303,cafe,Damn Loading Zone,-77.23013,38.8798
+6861299379,2501,supermarket,Harris Teeter,-77.22853,38.88136
+6873825651,2082,school,Pinebrook Montessori School,-77.47006,38.90931
+6879565154,2083,kindergarten,Fort Hunt Community Preschool,-77.066,38.75487
+6919356650,2501,supermarket,Lotte Plaza Market,-77.37649,38.97015
+6919356651,2501,supermarket,Sprouts Farmers Market,-77.3769,38.96909
+6988822885,2303,cafe,Peet's Coffee,-77.204,38.90456
+7143550380,2110,hospital,Dominion Plastic Surgery,-77.22221,38.87816
+7273079745,2501,supermarket,Whole Foods Market,-77.23351,38.92498
+7273079747,2303,cafe,Allegro Coffee Company,-77.23358,38.9248
+7526430504,2303,cafe,Starbucks,-77.15039,38.86787
+7621341593,2303,cafe,Starbucks,-77.20197,38.92269
+7703177835,2501,supermarket,Lidl,-77.3314,38.85004
+7729144494,2303,cafe,Peet's Coffee,-77.16282,38.7421
+7729155130,2303,cafe,Grounded Coffee Shop,-77.11931,38.76858
+7734267855,2303,cafe,Robeks Fresh Juices & Smoothies,-77.13503,38.77447
+7734364482,2303,cafe,Starbucks,-77.13725,38.77341
+7737724966,2303,cafe,Kung Fu Tea,-77.18464,38.77307
+7737725370,2501,supermarket,La Latina Market,-77.18723,38.7832
+7737725371,2501,supermarket,Lidl,-77.18343,38.78188
+7737764061,2303,cafe,Gong Cha,-77.19707,38.83132
+7737764651,2303,cafe,Ocha Tea,-77.17215,38.82434
+7785812921,2082,school,Vale Schoolhouse,-77.34924,38.89166
+7788587907,2303,cafe,Gong Cha,-77.23387,38.92467
+7797055663,2014,arts_centre,Workhouse Arts Center,-77.25539,38.69807
+7956135900,2501,supermarket,ALDI,-77.13991,38.76796
+7956150256,2501,supermarket,Safeway,-77.1414,38.77002
+7960808829,2303,cafe,Starbucks,-77.40806,38.90783
+7970460663,2501,supermarket,Safeway,-77.06084,38.77637
+7975262891,2303,cafe,Starbucks,-77.15649,38.83611
+7978979664,2501,supermarket,Safeway,-77.19869,38.87501
+8090119250,2303,cafe,Clifton Café,-77.38715,38.78043
+8103974518,2303,cafe,Katie's Coffee House,-77.29045,38.99726
+8105738085,2501,supermarket,Wegmans,-77.21012,38.92606
+8133037148,2303,cafe,Simply Social Coffee,-77.24326,38.88689
+8263007004,2501,supermarket,H Mart,-77.40036,38.96251
+8439080024,2501,supermarket,Safeway,-77.27529,38.81654
+8491976931,2303,cafe,Starbucks,-77.22424,38.92351
+8735474328,2501,supermarket,ALDI,-77.12657,38.84995
+8781454573,2501,supermarket,Culmore Supermarket,-77.13896,38.85495
+8846375868,2501,supermarket,K Market International,-77.18829,38.83069
+8960418357,2303,cafe,Starbucks,-77.44484,38.88648
+8975814773,2303,cafe,Starbucks,-77.12046,38.84781
+8977404920,2303,cafe,Starbucks,-77.22238,38.9184
+8977404978,2303,cafe,Kung Fu Tea,-77.22117,38.9175
+9130481858,2012,community_centre,Graham Road Community Building,-77.19554,38.86743

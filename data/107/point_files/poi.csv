@@ -1,0 +1,160 @@
+osm_id,code,fclass,name,lon,lat
+343298130,2501,supermarket,Food Lion,-77.56834,39.10483
+356559981,2082,school,Banneker Elementary School,-77.78772,39.00365
+356561907,2082,school,Glaydin School and Camp,-77.55277,39.23038
+356562341,2082,school,Hill School,-77.73495,38.96544
+356564075,2082,school,Middleburg Academy,-77.78525,38.98896
+356564855,2082,school,Blue Ridge Middle School,-77.70722,39.12822
+356597684,2082,school,Hillsboro Charter Academy,-77.71977,39.199
+356597870,2082,school,Lincoln Elementary School,-77.69658,39.11864
+356597913,2082,school,Middleburg Elementary School,-77.73505,38.97102
+356597974,2082,school,Aldie Elementary School,-77.64524,38.97441
+356604804,2082,school,C S Monroe Technology Center,-77.58212,39.11528
+356604815,2082,school,Shenandoah University - Northern Virginia Campus,-77.53794,39.09956
+356606420,2082,school,Christian Fellowship School,-77.4575,39.01945
+356606669,2082,school,Chesterbrook Academy,-77.53997,39.0991
+356606792,2012,community_centre,Round Hill Center,-77.77352,39.13615
+356606794,2082,school,Marymount University - Loudoun Campus,-77.41033,39.03677
+419229968,2405,hostel,Blackburn Trail Center,-77.79736,39.18783
+479661732,2082,school,Winnie the Pooh Preschool,-77.53218,39.01029
+564729386,2303,cafe,Starbucks,-77.39815,39.03451
+564730882,2303,cafe,Corner Bakery,-77.39825,39.03417
+625833536,2501,supermarket,Harris Teeter,-77.50329,39.00851
+626227287,2501,supermarket,Giant,-77.70017,39.13559
+654587958,2303,cafe,Joe's Diner,-77.42693,39.00509
+661841338,2303,cafe,club house,-77.56046,39.16096
+665719303,2303,cafe,club house,-77.51309,39.08538
+741741076,2501,supermarket,Lidl,-77.3757,39.01435
+741741077,2501,supermarket,Cocos Food International Market,-77.37656,39.0185
+741741086,2501,supermarket,Giant,-77.37322,39.01358
+858407031,2083,kindergarten,KinderCare,-77.55655,38.91629
+1174802221,2501,supermarket,Harris Teeter,-77.54909,38.93931
+1306098158,2501,supermarket,Lotte Plaza,-77.4811,39.02316
+1306104210,2501,supermarket,Giant,-77.50133,39.03669
+1707739216,2501,supermarket,Harris Teeter,-77.47076,39.06042
+1707815916,2303,cafe,Starbucks,-77.55222,39.10844
+1707815978,2501,supermarket,Giant,-77.55294,39.11143
+1707825628,2303,cafe,South Street Under,-77.56316,39.1125
+1710695518,2082,school,Art Institute of Washington-Dulles Campus,-77.43013,39.0352
+1784088271,2083,kindergarten,KinderCare,-77.54877,39.10941
+1784090658,2501,supermarket,Tienda Latina,-77.54769,39.11039
+1786586525,2013,nursing_home,Inova Loudoun Nursing and Rehabilitation Center,-77.56823,39.12062
+1786791305,2303,cafe,Shoe's Cup and Cork Club,-77.56444,39.11605
+1787596141,2303,cafe,The Wine Kitchen,-77.56482,39.11519
+1787619875,2303,cafe,King Street Coffee,-77.56521,39.11364
+1797215334,2405,hostel,Hyatt,-77.40702,39.03163
+1837713070,2501,supermarket,Harris Teeter,-77.52149,39.04354
+1940500351,2083,kindergarten,Bright Horizons,-77.46421,39.07023
+2404923297,2303,cafe,The Colonial Cafe,-77.44383,39.05467
+2410256693,2501,supermarket,Giant,-77.52643,39.09829
+2517905602,2303,cafe,Starbucks,-77.53511,39.11285
+2611183663,2083,kindergarten,Winwood Children's Center,-77.52364,38.97184
+2685248061,2303,cafe,Brew Birds,-77.54769,38.93948
+2688568772,2303,cafe,Sweetz Bakery,-77.5339,39.11255
+2698984928,2303,cafe,Isis Cafe,-77.41062,38.97751
+2725171440,2501,supermarket,Giant,-77.4914,39.00959
+2914930384,2303,cafe,Starbucks,-77.48772,38.91588
+2995981814,2303,cafe,Peet's Coffee,-77.53693,38.98637
+3054400013,2501,supermarket,Safeway,-77.48234,38.99643
+3054650847,2303,cafe,Hunan Cafe,-77.50398,39.0085
+3413155789,2303,cafe,Starbucks,-77.44267,38.94548
+3413156607,2303,cafe,Starbucks,-77.44635,38.94534
+3413156622,2303,cafe,Starbucks,-77.45132,38.94551
+3413208609,2303,cafe,Capitol Grounds,-77.45347,38.94865
+3413208634,2303,cafe,Starbucks,-77.45003,38.94864
+3413208660,2303,cafe,Luv 'n Berry,-77.44564,38.94874
+3413208671,2303,cafe,Starbucks,-77.44259,38.94875
+4030445156,2501,supermarket,Giant,-77.47369,39.04437
+4051562407,2501,supermarket,ALDI,-77.40767,39.03488
+4517426117,2303,cafe,Brew LoCo,-77.49391,39.08089
+4543885909,2303,cafe,Starbucks,-77.50239,39.03703
+4858693165,2303,cafe,Starbucks,-77.50303,39.00867
+4895020383,2303,cafe,Petite Loulou,-77.704,39.13726
+4930683857,2303,cafe,Ridgetop Coffee & Tea,-77.40705,39.02648
+5358020258,2303,cafe,Portside Coffee,-77.56236,39.10914
+5497241020,2303,cafe,Starbucks,-77.45261,39.05209
+5731037362,2303,cafe,Starbucks,-77.47086,39.06027
+5743006191,2501,supermarket,Stoneybrook Farm Market,-77.72048,39.19772
+6051160692,2303,cafe,Peet's Coffee,-77.48519,39.06837
+6086515182,2303,cafe,Sugar Shack Donuts & Coffee,-77.49375,39.08134
+6088479602,2303,cafe,Weird Brothers Coffee,-77.52574,39.09003
+6094139045,2083,kindergarten,Wishing Tree,-77.45368,39.05153
+6094139064,2303,cafe,The Yard Milkshake Bar,-77.45395,39.05296
+6139278004,2303,cafe,Bubbleology,-77.52473,39.09
+6139278006,2303,cafe,Fractured Prune,-77.52481,39.09004
+6139362965,2083,kindergarten,Villa Montessori Preschool,-77.52409,39.08769
+6231632497,2303,cafe,Allegro Coffee,-77.48447,39.06843
+6231632500,2501,supermarket,Whole Foods Market,-77.48428,39.06843
+6254328534,2082,school,House of loudoun,-77.41763,39.00796
+6301812448,2303,cafe,Blend,-77.50819,39.0087
+6585498385,2405,hostel,Stonybrook organic farm - hiker hostel,-77.72554,39.19548
+6835876208,2303,cafe,Starbucks,-77.44958,38.95297
+6994036294,2303,cafe,Starbucks,-77.42362,39.03228
+6996903493,2303,cafe,Starbucks,-77.53584,39.11573
+6996903518,2303,cafe,Taipei Cafe,-77.54084,39.11575
+7243519066,2501,supermarket,Patel Brothers,-77.48631,39.02951
+7280576764,2303,cafe,Starbucks,-77.49584,39.08078
+7684169537,2501,supermarket,Harris Teeter,-77.48938,38.91512
+7768164307,2303,cafe,Starbucks,-77.47196,39.06146
+8112602932,2012,community_centre,Newberry Condominium Association,-77.4172,38.99738
+8335866316,2303,cafe,Starbucks,-77.48923,38.91499
+8444333552,2303,cafe,Ashburn Bagel Shop,-77.4807,39.02382
+8630215639,2501,supermarket,Giant,-77.39569,39.03434
+8653269684,2081,university,Mason in Loudoun,-77.38967,39.02494
+356580597,2005,post_office,Dulles Post Office,-77.44804,38.95178
+356597637,2005,post_office,Lovettsville Post Office,-77.63761,39.27516
+356597674,2005,post_office,Hamilton Post Office,-77.66666,39.13538
+356597688,2005,post_office,Hillsboro Post Office,-77.72479,39.19862
+356597699,2005,post_office,Paeonian Springs Post Office,-77.619,39.14752
+356597733,2005,post_office,Waterford Post Office,-77.61173,39.18837
+356597739,2005,post_office,Bluemont Post Office,-77.83222,39.11066
+356597819,2005,post_office,Leesburg Downtown Post Office,-77.56362,39.11499
+356597885,2005,post_office,Lincoln Post Office,-77.69471,39.11391
+356597917,2005,post_office,Middleburg Post Office,-77.73755,38.968
+356597942,2005,post_office,Philomont Post Office,-77.73944,39.05705
+356597979,2005,post_office,Aldie Post Office,-77.6436,38.97622
+367797009,2002,fire_station,Allentown Road Volunteer Fire Department Company 47,-77.66139,39.24
+367797028,2002,fire_station,Allentown Road Volunteer Fire Department Company 32,-77.59139,39.29306
+367797296,2002,fire_station,Upper Montgomery County Volunteer Fire Department Fire Station 14,-77.68778,39.30056
+367798282,2001,police,Maryland State Police,-77.64139,38.94972
+367981636,2002,fire_station,Loudoun County Combined Fire Rescue System Training Center,-77.54833,39.07481
+367982230,2002,fire_station,Neersville Volunteer Fire and Rescue Company 16,-77.72139,39.29028
+367982233,2002,fire_station,Middleburg Volunteer Fire and Rescue Company 3,-77.74699,38.96741
+367982239,2002,fire_station,Lovettsville Volunteer Fire and Rescue Squad Company 12,-77.64424,39.26087
+367982246,2002,fire_station,Loudoun County Volunteer Rescue Squad Company 13,-77.55852,39.10722
+367982249,2002,fire_station,Hamilton Volunteer Rescue Squad Company 17,-77.66583,39.13807
+367982253,2002,fire_station,Leesburg Volunteer Fire Company 1,-77.56917,39.115
+367982264,2002,fire_station,Hamilton Volunteer Fire Company 5,-77.66556,39.13528
+367982266,2002,fire_station,Aldie Volunteer Fire Company 7,-77.63944,38.975
+367982311,2002,fire_station,Round Hill Volunteer Fire and Rescue Company 4,-77.76889,39.13335
+367982328,2002,fire_station,Philomont Volunteer Fire Company 8,-77.74,39.05667
+367986094,2002,fire_station,Loudoun County Department of Fire Rescue and Emergency Management Administration,-77.55336,39.081
+367986418,2007,library,Lovettsville Library,-77.63557,39.27423
+367986420,2007,library,Middleburg Library,-77.74062,38.96842
+367986748,2007,library,Thomas Balch Library,-77.56776,39.11663
+367988408,2001,police,Sterling Park Police Sub-Station,-77.40777,38.99622
+367989062,2001,police,Virginia State Police Division 7 Area 10 Office,-77.55241,39.07593
+367989663,2001,police,Loudoun County Sheriff's Office Corrections Work Release Center,-77.54886,39.07614
+367989704,2001,police,Middleburg Police Department,-77.73558,38.96881
+367989745,2001,police,Loudoun County Sheriff's Office,-77.56502,39.10639
+367990318,2002,fire_station,Dulles South Public Safety Center,-77.51728,38.91953
+367990578,2008,town_hall,Hamilton Town Hall,-77.66277,39.13455
+1468689476,2007,library,Loudoun County Public Library,-77.5653,39.11814
+1476346694,2002,fire_station,Kincora Safety Center (Station 624/635),-77.43283,39.03017
+1509294105,2002,fire_station,MWAA-Dulles International Airport,-77.44854,38.96453
+1545233396,2005,post_office,United States Post Office,-77.56605,39.10665
+1609136009,2001,police,Leesburg Police,-77.5489,39.11097
+1619636787,2002,fire_station,Hamilton Fire Dept,-77.65107,39.13442
+1647356797,2002,fire_station,,-77.53333,39.21574
+1703262306,2008,town_hall,Leesburg Town Hall,-77.56607,39.1153
+2404923301,2007,library,Virginia Science and Technology Campus Library,-77.4444,39.05497
+4110851946,2005,post_office,The UPS Store,-77.47574,39.04463
+5312841408,2007,library,Sterling Library,-77.40676,38.99783
+6086515164,2005,post_office,Postal Connections,-77.49442,39.08197
+6254815854,2005,post_office,The UPS Store,-77.50093,39.03638
+6330687060,2001,police,,-77.77702,39.13315
+6334787650,2005,post_office,PostNet,-77.54768,38.93957
+6783874223,2005,post_office,United States Post Office,-77.7141,39.13887
+7792245656,2005,post_office,The UPS Store,-77.52622,39.09952
+9108155221,2005,post_office,,-77.42163,39.02616
+9110957630,2002,fire_station,Sterling Volunteer Fire Company 11,-77.40117,38.99966

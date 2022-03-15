@@ -1,0 +1,22 @@
+osm_id,code,fclass,name,lon,lat
+356560442,2082,school,Brook Vale High School,-76.41661,37.75125
+356560805,2082,school,Chesapeake Academy,-76.4188,37.6588
+356563011,2082,school,Lively School,-76.51634,37.78375
+356563980,2082,school,New Mollusk School,-76.52829,37.71403
+356600821,2082,school,New Lancaster School,-76.47412,37.78208
+356600861,2082,school,Lancaster Middle School,-76.3835,37.71285
+356600867,2082,school,Mount Jean School,-76.41411,37.69125
+356606342,2082,school,Lancaster High School,-76.45671,37.76932
+356606496,2082,school,Lancaster Primary School,-76.41651,37.75129
+367981478,2002,fire_station,Lancaster County Emergency Medical Sevices,-76.4643,37.77015
+367984392,2002,fire_station,Northampton Fire and Rescue,-76.43222,37.80028
+367985285,2002,fire_station,Upper Lancaster Volunteer Rescue Squad,-76.51197,37.77688
+367985491,2002,fire_station,Upper Lancaster Volunteer Fire Department Station 2,-76.51966,37.69368
+367985935,2002,fire_station,Kilmarnock Lancaster County Volunteer Rescue Squad,-76.39106,37.70239
+367987574,2001,police,Lancaster County Sheriff's Office,-76.46543,37.77116
+367989564,2099,public_building,Northampton County Department of Emergency Medical Service,-76.52194,37.675
+8150177703,2009,courthouse,Lancaster Court House,-76.46547,37.77023
+8150177704,2009,courthouse,Lancaster County Circuit Court Clerk,-76.46653,37.77109
+8150177706,2005,post_office,United States Postal Service (22503),-76.45237,37.76734
+8253517374,2005,post_office,United States Post Office,-76.51431,37.77844
+8253517381,2002,fire_station,Upper Lancaster Volunteer Fire Department,-76.51571,37.78092

@@ -1,0 +1,61 @@
+osm_id,code,fclass,name,lon,lat
+356559770,2082,school,Alburn High School,-80.44227,37.06152
+356570400,2082,school,Belview Elementary School,-80.51144,37.17068
+356571053,2082,school,Christiansburg Institute,-80.41699,37.14263
+356571769,2082,school,Friends School,-80.4157,37.14477
+356575458,2082,school,Wake Forest School,-80.56867,37.21513
+356575521,2082,school,Weller Baker School,-80.40588,37.14485
+356591403,2082,school,Auburn Middle School,-80.44255,37.06318
+370923766,2303,cafe,Bollo's Cafe & Bakery,-80.41586,37.22978
+559136102,2303,cafe,Deet's Place,-80.42122,37.22427
+570170267,2083,kindergarten,Blacksburg Day Care,-80.43247,37.23509
+570170288,2303,cafe,Starbucks,-80.43347,37.23552
+621512206,2303,cafe,Seattle's Best Coffee,-80.42485,37.22945
+691133958,2084,college,Virginia Tech College of Engineering,-80.42437,37.2304
+709567133,2303,cafe,Mill Mountain Coffee and Tea,-80.41979,37.23471
+937004645,2303,cafe,Idego,-80.41466,37.22939
+937008394,2014,arts_centre,Dance Tech Performing Arts Studio,-80.41986,37.24014
+937023977,2012,community_centre,Blacksburg Jewish Community Center,-80.41287,37.22991
+937035658,2501,supermarket,Food Lion,-80.41491,37.24806
+937081285,2082,school,Virginia Tech Transportation Institute,-80.39641,37.18921
+937116067,2083,kindergarten,The Children’s Garden,-80.41067,37.26097
+937136803,2303,cafe,New River Coffee Company,-80.41093,37.18714
+937139269,2303,cafe,Daily Grind,-80.42275,37.23352
+937148247,2303,cafe,Starbucks,-80.4133,37.22845
+1516973717,2082,school,Auburn Elementary School,-80.44586,37.06148
+2419144301,2082,school,Blacksburg High School,-80.45833,37.21037
+2504538030,2501,supermarket,Lotus Chinese Store,-80.42239,37.23675
+2504544752,2501,supermarket,Eats Natural Foods,-80.42026,37.2352
+2526636499,2303,cafe,Espress Oasis,-80.41901,37.22851
+2899662577,2303,cafe,Starbucks,-80.42269,37.16328
+3769529373,2303,cafe,Dolchi E Caffé,-80.42266,37.23106
+4209864000,2303,cafe,Starbucks,-80.42202,37.2332
+5685587534,2110,hospital,Sleep Disorders Network,-80.41879,37.16979
+5933297811,2110,hospital,Med Express Urgent Care,-80.42307,37.16022
+6075480407,2303,cafe,Mockingbird Cafe & Bakery,-80.40843,37.12937
+6299523592,2303,cafe,Starbucks,-80.40088,37.21403
+7978887050,2501,supermarket,Food Lion,-80.41694,37.15013
+8423502677,2082,school,Shawsville Middle School,-80.24778,37.17268
+367981011,2009,courthouse,Montgomery County Courthouse,-80.40728,37.13039
+367984279,2002,fire_station,Patrick Springs Volunteer Fire Department Company 23,-80.34111,37.06694
+367984292,2002,fire_station,Fairystone Volunteer Fire Department Compant 21,-80.24722,37.29194
+367984360,2002,fire_station,Shawsville Volunteer Rescue Squad,-80.44222,37.28444
+367984738,2002,fire_station,Smith Mountain Lake Marine Fire Department,-80.19861,37.19222
+367984928,2002,fire_station,Burnt Chimney Fire Department,-80.36278,37.18278
+367985014,2002,fire_station,Rocky Mount Fire Department,-80.49139,37.025
+367990680,2008,town_hall,Old Blacksburg Town Hall,-80.41396,37.23067
+937065640,2005,post_office,The Ups Store / Effluent Technology,-80.4145,37.22966
+937149060,2008,town_hall,Blacksburg Municipal Building,-80.41243,37.22735
+1245916030,2005,post_office,Pritchard Mailroom,-80.41964,37.22448
+1245933906,2005,post_office,Owens Package Pick-up,-80.41932,37.22665
+1254871955,2005,post_office,Peddrew-Yates Mail Room,-80.41956,37.22525
+1257000900,2005,post_office,Mailroom,-80.41818,37.2259
+1496104920,2001,police,Virginia Tech Police Department,-80.41553,37.21884
+1516091404,2005,post_office,"Riner, VA 24149",-80.44188,37.06715
+1517016553,2002,fire_station,Riner Volunteer Fire Department,-80.44194,37.06061
+2899662580,2005,post_office,FedEx,-80.42267,37.16324
+4343854877,2002,fire_station,Blacksburg Fire Station #2,-80.45483,37.21853
+6173704286,2001,police,Speedcheck stakeout,-80.42109,37.24653
+7963581969,2002,fire_station,Blacksburg Volunteer Rescue Squad,-80.42146,37.24678
+8423529720,2007,library,Meadowbrook Public Library,-80.25642,37.16737
+8423529721,2005,post_office,United States Post Office,-80.25743,37.16824

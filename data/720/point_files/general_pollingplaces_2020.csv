@@ -1,0 +1,4 @@
+name,address,Is Early Voting,Precincts (Or Locality-wide),Is Drop Off,lon,lat,V11
+COMMUNITY CENTER,"201 PARK AVENUE NE NORTON, VA 24273",False,001 - EAST WARD - 0000,False,-82.62163,36.94043,
+Norton City Registrar Office,201 PARK AVE. NE NORTON VA 24273,True,Locality wide location,False,-82.62163,36.94043,
+Norton City Registrar Office,201 PARK AVENUE NORTHEAST STREET NORTON VA 22473,True,Locality wide location,False,-82.62163,36.94043,

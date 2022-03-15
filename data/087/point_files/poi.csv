@@ -1,0 +1,100 @@
+osm_id,code,fclass,name,lon,lat
+356559854,2082,school,Antioch School,-77.24416,37.51248
+356567013,2082,school,Venable Street School,-77.39887,37.55931
+356598649,2082,school,Faith Baptist Church Christian School,-77.50001,37.65335
+356598763,2083,kindergarten,Chamberlayne Baptist Preschool,-77.44292,37.62887
+356598794,2082,school,Grove Avenue Baptist School,-77.56723,37.59133
+356598957,2082,school,Chickahominy Academy,-77.22886,37.44126
+356599038,2082,school,Highland Springs Technical Center,-77.32348,37.53886
+356606249,2082,school,Jack and Jill School,-77.55591,37.61158
+356606286,2082,school,Our Lady of Lourdes Elementary School,-77.48525,37.63136
+356606294,2082,school,Kingdom Preparatory Academy,-77.36337,37.47721
+356606318,2082,school,Saint Mary's Catholic School,-77.58646,37.60182
+356606334,2082,school,New Bridge School,-77.34417,37.55042
+356606402,2082,school,The Richmond Montessori School,-77.56926,37.58459
+356606507,2082,school,Hermitage Technical Center,-77.51717,37.63337
+356606648,2082,school,Mount Vernon Middle School,-77.53383,37.62968
+356606708,2082,school,East End Christian Academy,-77.32913,37.47181
+703584333,2501,supermarket,Food Lion,-77.62206,37.59895
+703584335,2501,supermarket,Food Lion,-77.63199,37.63779
+2603570849,2303,cafe,Starbucks,-77.46273,37.67323
+2666403616,2501,supermarket,Food Lion,-77.591,37.68193
+2697257719,2081,university,South University,-77.60019,37.64707
+2699101437,2303,cafe,Starbucks,-77.62089,37.65214
+2700711456,2303,cafe,Starbucks,-77.53869,37.56715
+2805230981,2303,cafe,Garden Cafe,-77.47069,37.62044
+3023695318,2501,supermarket,Kroger,-77.49917,37.58016
+3023733931,2303,cafe,Duck Donuts,-77.49804,37.58135
+3049033222,2501,supermarket,Trader Joe's,-77.60715,37.649
+3065574969,2501,supermarket,Food Lion,-77.46243,37.63692
+3075691493,2501,supermarket,Fresh Market,-77.56316,37.60407
+3085282989,2303,cafe,Starbucks,-77.50934,37.63258
+3085320936,2084,college,Center for Culinary Arts,-77.59267,37.60521
+3085339619,2303,cafe,Starbucks,-77.59186,37.60547
+3085339628,2501,supermarket,Good Foods Grocery,-77.59202,37.60474
+3092999258,2303,cafe,Starbucks,-77.57106,37.6414
+3092999266,2303,cafe,Hogshead Cafe,-77.55873,37.63946
+3092999455,2084,college,Empire Beauty School,-77.55055,37.63415
+3093202616,2501,supermarket,El Parasio Latino Market,-77.49901,37.6153
+3101271077,2082,school,VA Capital School of Hair Technology,-77.45918,37.60889
+3101271107,2501,supermarket,Food Lion,-77.45227,37.60461
+3103202851,2501,supermarket,Save-A-Lot,-77.39619,37.57929
+3103220732,2501,supermarket,Food Lion,-77.39998,37.56792
+3113562715,2303,cafe,J&D's Cafe,-77.49643,37.64196
+3113784722,2501,supermarket,Food Lion,-77.52206,37.61888
+3113842402,2501,supermarket,Food Lion,-77.49909,37.58844
+3165897845,2303,cafe,Cafe Mosaic,-77.53731,37.56849
+3165947423,2303,cafe,3 Sisters Gourmet,-77.57393,37.59453
+3208430180,2084,college,Startford University,-77.59748,37.64961
+3211181307,2303,cafe,Starbucks,-77.61915,37.65636
+3211181318,2303,cafe,Carytown Cupcakes,-77.61781,37.65569
+3211181333,2303,cafe,Nordstrom eBar,-77.61874,37.65517
+3556565812,2303,cafe,Ray's Italian Ice,-77.60295,37.64822
+3697320146,2303,cafe,Caribou Coffee,-77.3315,37.50817
+3922926436,2303,cafe,Starbucks,-77.4597,37.6653
+5167713925,2303,cafe,Starbucks,-77.46303,37.67525
+5312636129,2303,cafe,Starbucks,-77.46256,37.66798
+5347938080,2303,cafe,Starbucks,-77.63774,37.65956
+5381052124,2501,supermarket,Shoppers Value Foods,-77.32172,37.53717
+5383404722,2303,cafe,Caribou Coffee,-77.33082,37.50884
+5887335055,2303,cafe,Noorani Kabab House,-77.52704,37.62131
+6016138501,2501,supermarket,Royal Bazaar,-77.54928,37.6392
+6158006187,2501,supermarket,Aldi,-77.513,37.59616
+6159071785,2303,cafe,Bi Da Cafe,-77.51536,37.59581
+6522609514,2303,cafe,Starbucks,-77.49865,37.58234
+6522689851,2303,cafe,Starbucks,-77.58584,37.64792
+6524784322,2303,cafe,Cinnaholic,-77.60202,37.64807
+6525080905,2303,cafe,Fruit Fixed,-77.61357,37.65287
+6525080957,2303,cafe,Capital One Cafe,-77.61971,37.65612
+6525580181,2501,supermarket,Lidl,-77.63535,37.65872
+6525620590,2303,cafe,Starbucks,-77.52582,37.65705
+6525634190,2303,cafe,Ginger Juice,-77.63622,37.65921
+6527714493,2501,supermarket,Save-A-Lot,-77.35824,37.54974
+6527816794,2501,supermarket,Food Lion,-77.3422,37.55003
+6535430682,2083,kindergarten,Academy of Academic Excellence,-77.63819,37.61823
+6535436216,2303,cafe,Cupertino's NY Bagels,-77.58312,37.64301
+6611725791,2303,cafe,Starbucks,-77.52493,37.60358
+6648727364,2501,supermarket,Publix,-77.53265,37.59096
+6655232239,2014,arts_centre,Tin Pan,-77.57029,37.60592
+6681041975,2501,supermarket,La Michoacana Meat Market,-77.50317,37.62416
+7088957014,2083,kindergarten,Tuckaway Child Development Center,-77.39413,37.4841
+7088957016,2083,kindergarten,Antioch Learning Center,-77.39297,37.48134
+7089015421,2501,supermarket,Food Lion,-77.35322,37.44292
+7089039399,2084,college,ECPI University,-77.57769,37.65445
+7092179685,2303,cafe,Starbucks,-77.62567,37.65261
+8116666556,2303,cafe,Starbucks,-77.58971,37.6836
+356598919,2005,post_office,West End Branch Richmond Post Office,-77.48199,37.58222
+367981263,2009,courthouse,Henrico County Courthouse,-77.51834,37.629
+367987549,2001,police,James City County Police Department,-77.24639,37.43833
+367988008,2001,police,Henrico County Sheriff's Office,-77.51829,37.62843
+367989210,2001,police,Virginia State Police Division 1 Area 8 Office,-77.38462,37.54197
+2603562989,2005,post_office,The UPS Store,-77.46218,37.67007
+3038375980,2001,police,County of Henrico Police Substation,-77.45675,37.67527
+3085320938,2005,post_office,The UPS Store,-77.59264,37.60506
+3092999433,2005,post_office,The Mail Room,-77.55202,37.6355
+3093178386,2005,post_office,The UPS Store,-77.52612,37.65746
+3093202614,2005,post_office,The UPS Store,-77.49853,37.61581
+3322402824,2001,police,Henrico County Police,-77.5286,37.63016
+5753678592,2005,post_office,PostNet,-77.59057,37.68129
+6166814186,2005,post_office,The UPS Store,-77.5781,37.64559
+6525619047,2005,post_office,The UPS Store,-77.6164,37.64757

@@ -1,0 +1,70 @@
+osm_id,code,fclass,name,lon,lat
+356567875,2082,school,Bedford Hills Elementary School,-79.21142,37.4382
+356568420,2082,school,Garland-Rodes Elementary School,-79.16564,37.43737
+356568598,2082,school,Hutcherson Early Learning Center,-79.13413,37.39989
+356568675,2082,school,Jones Elementary School,-79.14447,37.40403
+356569045,2082,school,Paul Munro Elementary School,-79.20697,37.45153
+356569191,2082,school,Robert S Payne Elementary School,-79.15114,37.4057
+356569203,2082,school,Perrymont Elementary School,-79.18808,37.38931
+356569306,2082,school,Randolph College,-79.17195,37.43713
+356569640,2012,community_centre,Miller Center,-79.16475,37.40264
+356569868,2082,school,Villa Maria Academy,-79.18114,37.43709
+356599116,2082,school,Dearington Elementary School,-79.16336,37.41348
+356599126,2082,school,Forest Hill School,-79.20558,37.41736
+356599162,2082,school,Phillips Business College,-79.16169,37.40931
+356599178,2082,school,Seven Hills School,-79.16114,37.43431
+356599182,2082,school,Virginia Episcopal School,-79.19086,37.45347
+356599190,2082,school,Academy of Music,-79.14445,37.41752
+356599279,2082,school,Middle School Learning Center,-79.2053,37.41598
+356599391,2082,school,National Business College,-79.22947,37.35098
+356605305,2082,school,Rustburg Volunteer Rescue Squad,-79.18917,37.45306
+1324610064,2303,cafe,Starbucks,-79.1838,37.35137
+2052085477,2303,cafe,Barnes & Nobles Café,-79.17572,37.35256
+2301722705,2303,cafe,Starbucks,-79.2176,37.4468
+2470181970,2501,supermarket,The Fresh Market,-79.22279,37.39804
+2956361840,2501,supermarket,Kroger,-79.20394,37.44238
+4396339948,2303,cafe,Argo Tea,-79.18178,37.35006
+4476729107,2303,cafe,Starbucks,-79.18047,37.35019
+4646145460,2303,cafe,The Muse,-79.24072,37.35785
+4865180504,2082,school,Montessori Children's House,-79.18778,37.41279
+4893068601,2303,cafe,The White Hart,-79.13973,37.41214
+5080790718,2303,cafe,Dublin 3 Coffee House,-79.13968,37.4147
+5084163487,2303,cafe,Natural,-79.17318,37.35771
+5085036043,2082,school,Centra College of Nursing,-79.17395,37.40481
+5085036292,2082,school,Centra Central Virginia Center for Simulation and Virtual Learning,-79.17444,37.40523
+5118116902,2501,supermarket,F & L Market,-79.16922,37.40114
+5172189826,2303,cafe,The Muse,-79.18038,37.39794
+5211499926,2303,cafe,Cafe Bliss,-79.14238,37.41519
+5366750199,2082,school,Governor's School for Science,-79.20602,37.36378
+5431636716,2303,cafe,Common Grounds Café,-79.20748,37.44264
+5485488263,2303,cafe,Bean Tree Sweets,-79.16886,37.35875
+5503899817,2303,cafe,Skeller,-79.17185,37.43737
+5514862221,2303,cafe,Millie's Living Cafe,-79.24101,37.35984
+5885056984,2303,cafe,Golf Park Coffee,-79.16675,37.43465
+6121901279,2303,cafe,Mission House Coffee,-79.17933,37.36424
+6276985525,2303,cafe,Barnes & Noble Cafe,-79.18793,37.34926
+6356248579,2303,cafe,Bean Tree Cafe,-79.2256,37.33972
+6372306681,2303,cafe,Grains of Sense,-79.14016,37.41127
+6388339132,2303,cafe,Starbucks,-79.22651,37.35414
+6428304526,2303,cafe,Backline Coffee,-79.14024,37.41547
+6451865774,2082,school,Central Virginia Criminal Justice Academy,-79.14032,37.41149
+6589381786,2501,supermarket,Food Lion,-79.13417,37.38215
+6595226830,2303,cafe,Marigold,-79.14391,37.41535
+6637741053,2303,cafe,Starbucks,-79.19117,37.34627
+6641273232,2303,cafe,Mission House Coffee,-79.14218,37.41645
+6991263419,2012,community_centre,student center,-79.18413,37.3589
+8226147947,2303,cafe,Starbucks,-79.18762,37.34718
+8999403644,2081,university,Liberty Univeristy Club Sports Complex,-79.17095,37.36048
+8999403645,2081,university,Liberty University Cinematic Arts,-79.17099,37.35996
+356599408,2005,post_office,Rivermont Station Lynchburg Post Office,-79.17058,37.43459
+367981568,2002,fire_station,Fire and Resue Station Number 4,-79.16475,37.43403
+367981578,2002,fire_station,Fire and Resue Station Number 2,-79.13992,37.40242
+367981585,2002,fire_station,Fire and Resue Station Number 5,-79.21558,37.44681
+1318414531,2001,police,Liberty University Police Department,-79.17568,37.35809
+2301722707,2005,post_office,The UPS Store,-79.21767,37.44669
+4658034732,2001,police,Lynchburg Sheriff Office,-79.14446,37.41259
+5235880463,2005,post_office,The UPS Store,-79.19061,37.34779
+5492281867,2007,library,Jones Memorial Library,-79.1675,37.40419
+6645115062,2001,police,River Ridge Security Office,-79.17924,37.36386
+8486336706,2005,post_office,FedEx,-79.16064,37.38211
+8955373174,2011,embassy,All Points EAP & Organizational Services,-79.1714,37.40675

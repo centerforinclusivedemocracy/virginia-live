@@ -1,0 +1,59 @@
+osm_id,code,fclass,name,lon,lat
+356561601,2082,school,Ferncliff School,-78.14722,37.94903
+356562081,2082,school,Green Springs School,-78.19219,38.07309
+356565955,2082,school,Shelfar School,-77.88222,37.82098
+356583154,2082,school,Louisa County High School,-77.92132,38.01756
+356583171,2082,school,Thomas Jefferson Elementary School,-77.96245,37.99479
+356606574,2082,school,Piedmont Christian School,-77.77595,37.89902
+3104844619,2501,supermarket,Farmer's Foods,-77.99037,38.0188
+3104845142,2501,supermarket,Food Lion,-77.99174,38.02149
+3104845193,2501,supermarket,True Value,-77.99566,38.02112
+4578431391,2501,supermarket,Food Lion,-77.84996,38.08161
+356587101,2005,post_office,Green Springs Depot Post Office,-78.11167,38.08597
+356598236,2005,post_office,Buckner Post Office,-77.77277,37.96208
+356598238,2005,post_office,Bumpass Post Office,-77.73721,37.96347
+356598240,2005,post_office,Cuckoo Post Office,-77.9,37.95209
+356598243,2005,post_office,Dabneys Post Office,-77.80166,37.76348
+356598245,2005,post_office,Ellisville Post Office,-77.99444,38.09736
+356598247,2005,post_office,Fredericks Hall Post Office,-77.82249,37.98514
+356598250,2005,post_office,Gardners Crossroads Post Office,-77.84749,37.89459
+356598252,2005,post_office,Gum Spring Post Office,-77.89668,37.77505
+356598258,2005,post_office,Jackson Post Office,-77.82166,37.87236
+356598260,2005,post_office,Locust Creek Post Office,-77.78499,37.86681
+356598264,2005,post_office,Louisa Post Office,-78.0045,38.02519
+356598273,2005,post_office,Meltons Post Office,-78.14334,38.11097
+356598279,2005,post_office,Oakland Post Office,-78.04555,38.08847
+356598282,2005,post_office,Pendleton Post Office,-77.89805,37.99486
+356598284,2005,post_office,Poindexter Post Office,-78.14472,38.00153
+356598286,2005,post_office,South Anna Post Office,-77.90527,37.85903
+356598289,2005,post_office,Trevilians Post Office,-78.07278,38.05153
+356598291,2005,post_office,Vigor Post Office,-77.98028,37.93625
+356598294,2005,post_office,Waldrop Post Office,-78.20167,38.07375
+356598316,2005,post_office,Wares Crossroads Post Office,-77.87999,38.07958
+356600437,2005,post_office,Wares Crossroads Post Office,-77.87999,38.07958
+367981073,2009,courthouse,Louisa County Courthouse,-78.00359,38.02447
+367982013,2002,fire_station,Mineral Volunteer Rescue Squad,-77.90719,38.0106
+367982015,2002,fire_station,Louisa County Volunteer Rescue Squad,-77.96969,38.01402
+367982018,2002,fire_station,Lake Anna Volunteer Rescue Squad,-77.74868,37.95838
+367982022,2002,fire_station,Holly Grove Volunteer Rescue Squad,-77.81146,37.7953
+367982089,2002,fire_station,Mineral Volunteer Fire Department,-77.90739,38.01057
+367982090,2002,fire_station,Bumpass Volunteer Fire Department,-77.75521,37.95801
+367982092,2002,fire_station,Holly Grove Volunteer Fire Department,-77.81013,37.79555
+367982096,2002,fire_station,Locust Creek Volunteer Fire Department,-77.78582,37.87397
+367982300,2002,fire_station,Louisa Volunteer Fire Department,-77.99845,38.0211
+367984522,2002,fire_station,West End Volunteer Rescue Squad,-77.825,37.97611
+367984724,2002,fire_station,Goochland County Fire and Rescue Cenerville Company Number 3,-78.1425,38.11806
+367984769,2002,fire_station,Fire Station 8,-77.92611,37.99472
+367984783,2002,fire_station,Fire Station 5,-77.78361,38.03222
+367984805,2002,fire_station,Goochland County Fire and Rescue Manakin Company Number 1,-78.16833,38.00556
+367984836,2002,fire_station,Fire Station 13,-78.06,38.06778
+367984846,2002,fire_station,Fire Station 12 and Battalion 1 Office,-77.91167,38.06667
+367984860,2002,fire_station,Fire Station 10,-77.85528,37.99806
+367985332,2002,fire_station,Fire Station 22,-77.97,38.07833
+367985496,2002,fire_station,Fire Station 17,-78.01083,37.97972
+367985573,2002,fire_station,Trevillians Volunteer Fire / Rescue Department,-78.03656,38.09567
+367986101,2002,fire_station,Zion Crossroads Volunteer Fire / Rescue Department,-78.19762,37.96757
+367987999,2001,police,Henrico County Police Department,-77.88222,38.05
+367989213,2001,police,Virginia State Police Division 1 Area 4 Office,-77.86417,37.80718
+367989289,2001,police,Louisa Police Department,-78.002,38.02211
+367989650,2001,police,Louisa County Sheriff's Office,-77.99881,38.02222

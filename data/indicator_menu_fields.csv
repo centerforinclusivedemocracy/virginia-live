@@ -1,0 +1,48 @@
+fieldname,section,title,description
+prc_asianindian,population,Asian Indian Percent of Population,Percent of the tract population that is Asian Indian.
+prc_asian,population,Asian-American Percent of Population,Percent of the tract population that is Asian-American alone&#x002C not Hispanic or Latino.
+prc_black,population,Black Percent of Population,Percent of the tract population that is Black alone&#x002C not Hispanic or Latino.
+prc_centralamerican,population,Central American Percent of Population,The percentage of the population that is Central American.
+prc_chinese,population,Chinese Percent of Population,Percent of the tract population that is Chinese.
+prc_cuban,population,Cuban Percent of Population,The percentage of the population that is Cuban.
+prc_dominican,population,Dominican Percent of Population,The percentage of the population that is Dominican.
+prc_filipino,population,Filipino Percent of Population,Percent of the tract population that is Vietnamese.
+prc_japanese,population,Japanese Percent of Population,Percent of the tract population that is Japanese.
+prc_korean,population,Korean Percent of Population,Percent of the tract population that is Korean.
+prc_latino,population,Latino Percent of Population,The percentage of the population that is Hispanic or Latino.
+prc_mexican,population,Mexican Percent of Population,The percentage of the population that is Mexican.
+prc_native,population,Native American Percent of Population,Percent of the tract population that is Native American.
+prc_native_hi,population,Native Hawaiian Percent of Population,Percent of the tract population that is Native Hawaiian.
+prc_puertorican,population,Puerto Rican Percent of Population,The percentage of the population that is Puerto Rican.
+prc_southam,population,South American Percent of Population,The percentage of the population that is South American.
+prc_vietnamese,population,Vietnamese Percent of Population,Percent of the tract population that is Vietnamese.
+prc_white,population,White Percent of Population,Percent of the tract population that is White alone&#x002C not Hispanic or Latino.
+vbm_asn_2016,siting,2016 Vote by Mail Rate (Asian-American),The percentage of Asian-American voters who voted by mail in the 2016 general election.
+vbm_blk_2016,siting,2016 Vote by Mail Rate (Black),The percentage of Black voters who voted by mail in the 2016 general election.
+vbm_lat_2016,siting,2016 Vote by Mail Rate (Latino),The percentage of Latino voters who voted by mail in the 2016 general election.
+vbm_tot_2016,siting,2016 Vote by Mail Rate (Total),The percentage of voters who voted by mail in the 2016 general election.
+vbm_youth_2016,siting,2016 Vote by Mail Rate (Youth),The percentage of voters between the age of 18 and 24 years old who voted by mail in the 2016 general election.
+turnout_asn_2016,siting,2016 Voter Turnout (Asian-American),The percentage of Asian-American registered voters who voted in the 2016 general election.
+turnout_lat_2016,siting,2016 Voter Turnout (Latino),The percentage of Latino registered voters who voted in the 2016 general election.
+turnout_tot_2016,siting,2016 Voter Turnout (Total),The percentage of total registered voters who voted in the 2016 general election.
+turnout_youth_2016,siting,2016 Voter Turnout (Youth),The percentage of registered voters between the age of 18 and 24 years old who voted in the 2016 general election.
+pollvoter_dens,siting,2020 Percent of County In-Person Voters,The number of voters who voted at a polling place in this census tract divided by the total number of voters who voted at a polling place in the county.
+vbm_asn_2020,siting,2020 Vote by Mail Rate (Asian-American),The percentage of Asian-American voters who voted by mail in the 2020 general election.
+vbm_blk_2020,siting,2020 Vote by Mail Rate (Black),The percentage of Black voters who voted by mail in the 2020 general election.
+vbm_lat_2020,siting,2020 Vote by Mail Rate (Latino),The percentage of Latino voters who voted by mail in the 2020 general election.
+vbm_tot_2020,siting,2020 Vote by Mail Rate (Total),The percentage of total voters who voted by mail in the 2020 general election.
+vbm_youth_2020,siting,2020 Vote by Mail Rate (Youth),The percentage of voters between the age of 18 and 24 years old who voted by mail in the 2020 general election.
+turnout_asn_2020,siting,2020 Voter Turnout (Asian-American),The percentage of Asian-American registered voters who voted in the 2020 general election.
+turnout_lat_2020,siting,2020 Voter Turnout (Latino),The percentage of Latino registered voters who voted in the 2020 general election.
+turnout_tot_2020,siting,2020 Voter Turnout (Total),The percentage of total registered voters who voted in the 2020 general election.
+turnout_youth_2020,siting,2020 Voter Turnout (Youth),The percentage of registered voters between the age of 18 and 24 years old who voted in the 2020 general election.
+prcdisabled_final,siting,Disabilites Percent of Population,The percentage of the population that is disabled.
+prc_latino,siting,Latino Percent of Population,The percentage of the population that is Hispanic or Latino.
+prc_nonengprof_final,siting,Limited English Proficient Percent of Population,The percentage of the population that has limited English proficiency.
+cvapdens,siting,Percent of County Voting Age Citizens,The number of citizens in this tract who are voting age divided by the county's total number of voting age citizens.
+job_dens,siting,Percent of County Workers,The percent of employed county residents in a tract out of the total employed county residents in the county.
+tot_elignonreg_prc_final,siting,Percent of Eligible Voters Not Registered,The percentage of voting age citizens who are not registered to vote.
+prc_pov_final,siting,Percent of Population in Poverty,The percentage of the population with income below the poverty level.
+prc_caraccess_final,siting,Percent of Population with Vehicle Access,The percentage of the population with access to a vehicle.
+popdens,siting,Population Density,The total population density per square kilometer.
+prc_youth_final,siting,Youth Percent of Population,The percentage of the population between the age of 18 and 24 years old.

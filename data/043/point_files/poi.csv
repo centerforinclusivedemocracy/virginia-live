@@ -1,0 +1,24 @@
+osm_id,code,fclass,name,lon,lat
+356562027,2082,school,Grafton School,-77.98119,39.1547
+356562684,2082,school,Johnson-Williams Middle School,-77.98,39.14066
+356564774,2082,school,Powhatan School,-78.04635,39.07888
+356592624,2082,school,Berryville Primary School,-77.98758,39.15499
+356592628,2082,school,Boyce Elementary School,-78.06529,39.09534
+356592638,2082,school,Clarke County High School,-78.00156,39.15877
+356592640,2082,school,Johnson - Williams Middle School,-77.98748,39.15151
+356592668,2082,school,Keystone Christian Academy,-78.06582,39.17577
+356592708,2082,school,Seventh Day Adventist School,-78.06972,39.17649
+419229942,2405,hostel,Bears Den Hostel,-77.85429,39.11107
+356592620,2005,post_office,Berryville Post Office,-77.98166,39.15149
+356592632,2005,post_office,Boyce Post Office,-78.06305,39.09511
+356592675,2005,post_office,Millwood Post Office,-78.03833,39.07011
+356592724,2005,post_office,White Post Post Office,-78.10667,39.05761
+367981006,2009,courthouse,Clarke County Courthouse,-77.98027,39.15177
+367982241,2002,fire_station,Lucketts Volunteer Fire Company 10,-77.95889,39.21583
+367983044,2002,fire_station,Blue Ridge Volunteer Fire and Rescue Company,-77.87583,39.12333
+367983050,2002,fire_station,Boyce Volunteer Fire Company,-78.06056,39.0925
+367983056,2002,fire_station,John H Enders Volunteer Fire Department and Rescue Squad,-77.98333,39.15111
+367986110,2007,library,Clarke County Library,-77.98104,39.14853
+367989822,2001,police,Berryville Police Department,-77.98122,39.15104
+367989827,2001,police,Clarke County Sheriff's Office,-77.98083,39.15214
+367990567,2008,town_hall,Berryville Town Hall,-77.98111,39.1501

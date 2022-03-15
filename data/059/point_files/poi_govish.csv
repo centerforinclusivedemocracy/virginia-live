@@ -1,0 +1,103 @@
+,osm_id,code,fclass,name,lon,lat
+0,356580881,2005,post_office,Jefferson Manor Post Office,-77.07737,38.79072
+1,356586218,2005,post_office,Vienna Post Office,-77.26887,38.90039
+2,356586225,2005,post_office,Merrifield Post Office,-77.23482,38.87257
+3,356586240,2005,post_office,Dunn Loring Post Office,-77.22498,38.89761
+4,356586245,2005,post_office,Clifton Post Office,-77.38507,38.78118
+5,356586273,2005,post_office,Fairfax Station Post Office,-77.32653,38.80204
+6,356586280,2005,post_office,United States Post Office,-77.13912,38.8551
+7,356586282,2005,post_office,Seven Corners Post Office,-77.15085,38.86687
+8,356586283,2005,post_office,North Springfield Post Office,-77.22207,38.80891
+9,356586286,2005,post_office,West Springfield Post Office,-77.23665,38.78234
+10,356600225,2005,post_office,Lorton Post Office,-77.20834,38.70521
+11,356600276,2005,post_office,Newington Post Office,-77.1889,38.73155
+12,356604384,2005,post_office,Oak Hill Post Office,-77.41336,38.92297
+13,356606028,2005,post_office,Centreville Post Office,-77.43366,38.83971
+14,356606033,2005,post_office,Springfield Post Office,-77.18566,38.77353
+15,356606035,2005,post_office,West McLean Post Office,-77.23759,38.9294
+16,367796936,2002,fire_station,Mechanicsville Volunteer Fire Company 22,-77.17944,38.82139
+17,367797233,2002,fire_station,Benedict Volunteer Fire Department and Rescue Squad Station 5,-77.14111,38.85583
+18,367797236,2002,fire_station,Hughesville Volunteer Fire Department and Rescue Squad Station 2,-77.30361,38.89194
+19,367981055,2009,courthouse,Fairfax County Courthouse,-77.30722,38.84598
+20,367981374,2002,fire_station,"Fairfax County Fire Station Number 23, West Annandale",-77.25192,38.83918
+21,367981406,2002,fire_station,"Fairfax County Fire Station Number 11, Penn Daw",-77.07953,38.77402
+22,367981412,2002,fire_station,"Fairfax County Fire Station Number 31, Fox Mill",-77.37358,38.92628
+23,367981415,2002,fire_station,"Fairfax County Fire Station Number 25, Reston",-77.33603,38.95093
+24,367981419,2002,fire_station,"Fairfax County Fire Station Number 34, Oakton",-77.30867,38.87626
+25,367981423,2002,fire_station,"Fairfax County Fire Station Number 17, Centreville",-77.42989,38.83691
+26,367981427,2002,fire_station,"Fairfax County Fire Station Number 16, Clifton",-77.38473,38.78081
+27,367981454,2002,fire_station,"Fairfax County Fire Station Number 27, West Springfield",-77.23742,38.78359
+28,367981457,2002,fire_station,"Fairfax County Fire Station Number 30, Merrifield",-77.24822,38.87235
+29,367981458,2002,fire_station,"Fire Station Number 28, Seven Corners",-77.15669,38.87038
+30,367981459,2002,fire_station,"Fairfax County Fire Station Number 26, Edsall Road",-77.17122,38.80506
+31,367981460,2002,fire_station,"Fairfax County Fire Station Number 10, Bailey's Crossroads",-77.13915,38.84567
+32,367981466,2002,fire_station,"Fairfax County Fire Station Number 21, Fair Oaks",-77.37055,38.8714
+33,367981468,2002,fire_station,"Fairfax County Fire Station Number 13, Dunn Loring",-77.22383,38.9025
+34,367981497,2002,fire_station,"Fairfax County Fire Station Number 29, Tysons Corner",-77.23944,38.92111
+35,367981518,2002,fire_station,"Fairfax County Fire Station Number 15, Chantilly",-77.43155,38.89179
+36,367981529,2002,fire_station,"Fairfax County Fire Station Number 4, Herndon",-77.3859,38.96911
+37,367981543,2002,fire_station,"Fairfax County Fire Station Number 18, Jefferson",-77.19279,38.86584
+38,367981560,2002,fire_station,"Fairfax County Fire Station Number 2, Vienna",-77.2613,38.89922
+39,367982406,2002,fire_station,"Fairfax County Fire Station Number 9, Mount Vernon",-77.07722,38.74278
+40,367982415,2002,fire_station,"Fairfax County Fire Station Number 35, Pohick",-77.25278,38.74608
+41,367982418,2002,fire_station,"Fairfax County Fire Station Number 38, West Centreville",-77.45333,38.84333
+42,367985990,2002,fire_station,Fairfax County Fire / Rescue Logistics Distribution Center,-77.17884,38.79873
+43,367985991,2002,fire_station,"Fairfax County Fire / Rescue Crosspointe, Station 41",-77.27871,38.71952
+44,367985992,2002,fire_station,Fairfax County Fire / Rescue Fairfax Center Station 40,-77.36514,38.84841
+45,367985993,2002,fire_station,Fairfax County Fire / Rescue Wolftrap Station 42,-77.27489,38.9576
+46,367986003,2002,fire_station,Fort Belvoir Fire Department Station 66,-77.17615,38.7152
+47,367986007,2002,fire_station,Fairfax County Fire / Rescue Service,-77.24309,38.84015
+48,367986008,2002,fire_station,Fairfax County Fire / Rescue Apparatus Shop North,-77.37305,38.85319
+49,367986174,2007,library,Richard Byrd Library,-77.1922,38.77956
+50,367986181,2007,library,Martha Washington Library,-77.06302,38.77299
+51,367986190,2007,library,Woodrow Wilson Library,-77.14306,38.85129
+52,367986191,2007,library,George Mason Regional Library,-77.18624,38.82744
+53,367986195,2007,library,Kings Park Library,-77.25645,38.80747
+54,367986202,2007,library,Tysons-Pimmit Regional Library,-77.20646,38.9069
+55,367986370,2007,library,Johnson Center Library,-77.3072,38.82959
+56,367986482,2007,library,Kingstowne Library,-77.16462,38.74004
+57,367986690,2007,library,Sherwood Regional Library,-77.07491,38.74348
+58,367988261,2007,library,USGS Clarence King Library,-77.36782,38.94725
+59,367988711,2001,police,Fairfax Company Number 8 Police Station,-77.37022,38.87126
+60,367988719,2001,police,Fairfax County Police Headquarters,-77.31193,38.84511
+61,367988734,2001,police,Fairfax County Police Station Number 4,-77.16411,38.83739
+62,367988740,2001,police,McLean Police Sub Station,-77.19859,38.93261
+63,367988761,2001,police,Vienna Police Station (Temporary Location),-77.26271,38.89907
+64,367988797,2001,police,Fairfax County Police Academy,-77.24256,38.84019
+65,367988805,2001,police,Fairfax County Police Station Number 7,-77.23711,38.78318
+66,367988810,2001,police,Fairfax County Police Station Number 6,-77.14802,38.78112
+67,367989069,2001,police,"Virginia State Police Division 7 Headquarters, Area 9 Office, and Area 48 Office",-77.2834,38.82456
+68,367989077,2001,police,Fairfax County Police Department Communications Traffic and Administrative Support,-77.24336,38.83976
+69,367989156,2001,police,Fairfax County Sheriff's Office Confinement and Support Services Division,-77.30953,38.84332
+70,367989280,2001,police,Herndon Police Department,-77.37184,38.96079
+71,367989619,2001,police,Fairfax County Police Department Mount Vernon District Station,-77.07691,38.74166
+72,367989771,2001,police,Fairfax County Police Victim Services Section,-77.31177,38.84503
+73,367990742,2008,town_hall,Herndon Town Hall,-77.38592,38.97
+74,367990749,2008,town_hall,Clifton Town Meeting Hall,-77.38438,38.78104
+75,462067206,2002,fire_station,Spring Hill Fire Station 29,-77.23929,38.9292
+76,689780638,2005,post_office,Parcel Plus,-77.25902,38.90485
+77,1236570082,2001,police,Police & Safety Headquarters,-77.30592,38.83535
+78,1451335765,2001,police,FCPD Sequoyah Aux,-77.09943,38.74071
+79,2211767048,2005,post_office,US Post Office - Chantilly,-77.43955,38.88603
+80,2342342185,2005,post_office,The UPS Store,-77.37282,39.0124
+81,2397807433,2005,post_office,The UPS Store,-77.43554,38.8367
+82,2407101223,2002,fire_station,"Fairfax County Fire Station Number 22, Springfield",-77.18385,38.76589
+83,2422984124,2005,post_office,Parcel Place,-77.19194,38.83011
+84,2636164132,2005,post_office,The UPS Store,-77.15226,38.86947
+85,3355088874,2005,post_office,FedEx,-77.22767,38.87276
+86,3366638984,2005,post_office,The UPS Store,-77.22599,38.86684
+87,3409719284,2005,post_office,Mosby,-77.16835,38.87022
+88,3455660634,2001,police,NOVA Police Department Office,-77.23522,38.83306
+89,4790852307,2007,library,Green Spring Library,-77.15616,38.82355
+90,5166509336,2005,post_office,The UPS Store,-77.41015,38.95051
+91,5358493332,2005,post_office,The UPS Store,-77.39655,38.8781
+92,5744083723,2005,post_office,The UPS Store,-77.44238,38.87622
+93,5752189961,2005,post_office,The UPS Store,-77.18414,38.81316
+94,6051511273,2001,police,Virginia State Police,-77.37411,38.84945
+95,6122563782,2005,post_office,Fort Belvoir Post Office,-77.13697,38.68763
+96,6797693839,2007,library,George Mason University Libraries,-77.30679,38.83188
+97,6986274472,2005,post_office,The UPS Store,-77.26112,38.87026
+98,7734267856,2005,post_office,The UPS Store,-77.13435,38.77342
+99,7982389985,2005,post_office,HMUS United States sent to China Express,-77.15416,38.86946
+100,8544414588,2007,library,Little Library,-77.34063,38.92617
+101,8544414589,2007,library,Little Library,-77.34296,38.93566

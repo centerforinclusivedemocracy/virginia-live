@@ -1,0 +1,48 @@
+osm_id,code,fclass,name,lon,lat
+356560765,2082,school,Central Elementary School,-79.39641,36.83875
+356560906,2082,school,Climax Elementary School,-79.48669,36.89097
+356562106,2082,school,Gretna High School,-79.36867,36.94555
+356563555,2082,school,Mount Hermon Elementary School,-79.41197,36.65764
+356564065,2082,school,Gretna Middle School,-79.37314,36.946
+356565018,2082,school,Renan School,-79.20213,36.97897
+356566013,2082,school,Shockoe School,-79.25502,36.82069
+356566158,2082,school,Sonans School,-79.31141,36.88542
+356593844,2082,school,Chatham High School,-79.39641,36.82625
+356593862,2082,school,Faith Christian Academy,-79.30558,37.10236
+356593897,2082,school,John L Hurt Elementary School,-79.29725,37.09348
+356594005,2082,school,Woodlawn Academy,-79.38836,36.79014
+356594100,2082,school,Whitmell Elementary School,-79.52253,36.70625
+357798968,2082,school,Pelham Elementary School,-79.47114,36.6218
+5339343888,2501,supermarket,Food Lion,-79.36359,36.9494
+6630415899,2501,supermarket,Gretna Food Land,-79.36006,36.95386
+7249182041,2084,college,Pittsylvania County Schools Adult Education Center,-79.38839,36.76452
+356593892,2005,post_office,Hurt Post Office,-79.29947,37.10348
+356594021,2005,post_office,Chatham Post Office,-79.39794,36.82519
+367980188,2002,fire_station,Hurt Volunteer Fire and Reuse Department,-79.29861,37.09333
+367981021,2009,courthouse,Pittsylvania County Courthouse,-79.39808,36.82653
+367982073,2002,fire_station,Bachelors Hall Volunteer Fire Department,-79.53639,36.59306
+367982076,2002,fire_station,Blairs Volunteer Fire Department and Rescue Squad,-79.37417,36.70917
+367982080,2002,fire_station,Brosville Community Volunteer Fire Department,-79.6025,36.62083
+367982081,2002,fire_station,Callands Volunteer Fire Department and Rescue Squad,-79.58361,36.82278
+367982083,2002,fire_station,Cascade Volunteer Fire Department,-79.66611,36.56639
+367982084,2002,fire_station,Chatham Volunteer Fire Department,-79.4,36.82472
+367982085,2002,fire_station,Climax Volunteer Fire Company,-79.4875,36.89194
+367982086,2002,fire_station,Cool Branch Volunteer Fire Department,-79.6,36.99778
+367982087,2002,fire_station,Dry Fork Volunteer Fire Department,-79.46306,36.74667
+367982088,2002,fire_station,Gretna Volunteer Fire Department,-79.36222,36.95278
+367982100,2002,fire_station,Riverbend Volunteer Fire Department,-79.47667,36.57222
+367982104,2002,fire_station,Ringgold Volunteer Fire Department,-79.31389,36.58417
+367982108,2002,fire_station,Riceville-Java Volunteer Fire Department,-79.2275,36.83639
+367982111,2002,fire_station,Renan Volunteer Fire Department,-79.17917,36.99389
+367982117,2002,fire_station,Tunstall Volunteer Fire and Rescue Department,-79.52917,36.65806
+367982152,2002,fire_station,Keeling Volunteer Fire Department,-79.27361,36.72528
+367982156,2002,fire_station,Mount Cross Volunteer Fire Department and Rescue Squad,-79.47806,36.63833
+367982158,2002,fire_station,Mount Hermon Volunteer Fire Department and Rescue Squad,-79.42028,36.6775
+367982163,2002,fire_station,Kentuck Volunteer Fire Department,-79.29806,36.65028
+367982166,2002,fire_station,Laurel Grove Volunteer Fire Department and Rescue Squad,-79.20333,36.67694
+367987019,2007,library,Pittsylvania County Public Library,-79.40003,36.82931
+367988651,2001,police,Pittsylvania County Sheriffs Office,-79.39833,36.82667
+367988669,2001,police,Gretna Police Department,-79.36222,36.9525
+367988677,2001,police,Chatham Police Department,-79.39917,36.82639
+367990558,2008,town_hall,Chatham Town Hall,-79.39864,36.82653
+367990571,2008,town_hall,Hurt City Hall,-79.30391,37.10181

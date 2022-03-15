@@ -1,0 +1,96 @@
+osm_id,code,fclass,name,lon,lat
+356559905,2082,school,Ashurst Elementary School,-77.3419,38.52785
+356560538,2082,school,Burrows Elementary School,-77.31179,38.52506
+356562032,2082,school,Graham Park Middle School,-77.3208,38.55529
+356564399,2082,school,Partridge School,-77.64888,38.7765
+356564859,2082,school,Quantico Middle / High School,-77.33281,38.53736
+356564860,2082,school,Quantico Marine Corps Schools,-77.3047,38.5154
+356565307,2082,school,Russell Elementary School,-77.33636,38.53527
+356565852,2082,school,Yorkshire Elementary School,-77.45982,38.78947
+356567633,2082,school,Woodbine Preschool Center,-77.43932,38.66617
+356567637,2082,school,Woodbridge High School,-77.30208,38.68163
+356599591,2082,school,New Dominion Alternative Education Center,-77.44528,38.76618
+356599636,2082,school,Coles Elementary School,-77.4292,38.65874
+356599646,2082,school,Independent Hill School,-77.43843,38.62897
+356599650,2082,school,Martin Luther King Junior Elementary School,-77.38,38.6678
+356599702,2082,school,Kerrydale Elementary School,-77.34503,38.66788
+356599717,2082,school,Stuart M Beville Middle School,-77.35534,38.65856
+356599719,2082,school,A Henderson Elementary School,-77.34403,38.62191
+356599721,2082,school,Ann Ludwig School,-77.28274,38.63376
+356599745,2082,school,Dumfries Elementary School,-77.33103,38.56841
+356599794,2082,school,Lake Ridge Elementary School,-77.31236,38.69583
+356599840,2082,school,Springwoods Elementary School,-77.32598,38.68534
+356599852,2082,school,Westridge Elementary School,-77.33554,38.68495
+356601631,2082,school,Conner Elementary School,-77.44645,38.76659
+356605078,2082,school,Antietam Elementary School,-77.29785,38.69382
+356605084,2082,school,Old Bridge Elementary School,-77.30523,38.6826
+356605091,2082,school,Swans Creek Elementary School,-77.30641,38.56602
+356605092,2082,school,Louise A Benton Middle School,-77.43063,38.65688
+356605093,2082,school,Pace East School,-77.43851,38.63047
+356605101,2082,school,River Oaks Elementary School,-77.29501,38.58375
+356605106,2082,school,Lake Ridge Middle School,-77.30501,38.68623
+356605139,2082,school,Penn Elementary School,-77.3683,38.67388
+356606098,2082,school,Trinity Temple Preschool,-77.26149,38.66209
+356606110,2082,school,New Dominion Middle School,-77.4452,38.76632
+356606252,2082,school,Riverview Baptist Day School,-77.26624,38.62914
+356606333,2082,school,Richard M Milburn High School,-77.33048,38.56404
+356606357,2082,school,Star of Bethlehem Christian Academy,-77.32406,38.53835
+356606363,2082,school,Fairmont Christian Preparatory School,-77.49504,38.77862
+356606511,2082,school,Saint Francis of Assisi School,-77.32727,38.54359
+356606622,2082,school,Clairmont School and Child Care,-77.34677,38.62524
+356606679,2082,school,Prince William County New Directions Alternative Center,-77.50742,38.76241
+356606781,2082,school,United States Marine Corps College of Continuing Education,-77.29515,38.52086
+660957006,2303,cafe,club house,-77.35203,38.54585
+663124470,2303,cafe,Club House,-77.63702,38.87923
+663128400,2303,cafe,club house,-77.64724,38.78321
+824672196,2501,supermarket,,-77.34981,38.52034
+824691770,2303,cafe,Starbucks,-77.34833,38.51997
+959523018,2501,supermarket,Global Food,-77.50424,38.77879
+959524928,2501,supermarket,Aldi,-77.50575,38.77948
+1117123974,2084,college,George Mason University/Manassas Campus,-77.52117,38.75658
+1446751319,2303,cafe,club house,-77.61457,38.78131
+1698303430,2501,supermarket,Todos Supermarket,-77.30372,38.58888
+1698339040,2083,kindergarten,Children of America,-77.30214,38.58768
+1932353336,2501,supermarket,Kabul Halal Market,-77.30558,38.65153
+2266549970,2501,supermarket,Megamart Supermarket,-77.45341,38.77543
+2304389520,2303,cafe,Wegmans Cafe,-77.65306,38.78379
+2308996605,2303,cafe,Starbucks,-77.50207,38.77536
+2315104026,2303,cafe,Starbucks,-77.53286,38.73935
+2317646978,2303,cafe,Starbucks,-77.64361,38.81666
+2319027641,2303,cafe,Dream Cafe,-77.51154,38.7859
+2334660480,2303,cafe,SweetFrog,-77.51739,38.78626
+2400313651,2303,cafe,bluberi,-77.28806,38.63017
+2400546618,2303,cafe,Starbucks,-77.28782,38.62832
+2527401542,2501,supermarket,Food Lion,-77.35863,38.6085
+2527417627,2501,supermarket,Food Lion,-77.37358,38.63309
+2587421349,2501,supermarket,Giant,-77.31133,38.68596
+2587421350,2303,cafe,Starbucks,-77.3116,38.6856
+2744534464,2501,supermarket,Todos Supermarket,-77.32755,38.56209
+3223456867,2082,school,Huntington Learning Cente,-77.31681,38.68482
+3223499983,2303,cafe,Starbucks,-77.36245,38.67974
+3223500029,2501,supermarket,Food Lion,-77.39503,38.67375
+3223586550,2501,supermarket,ALDI,-77.30683,38.65295
+3756728078,2501,supermarket,Food Lion,-77.44139,38.65984
+3784078135,2303,cafe,Starbucks,-77.28608,38.65301
+3840228284,2303,cafe,Common Grounds,-77.33812,38.64786
+3847084013,2303,cafe,Starbucks,-77.33449,38.6465
+3900562973,2083,kindergarten,STEM Tot Academy,-77.29304,38.63971
+4003155190,2303,cafe,Starbucks,-77.33475,38.59746
+4227538890,2303,cafe,Starbucks,-77.60929,38.79586
+4287032154,2501,supermarket,Global Foods,-77.30161,38.65522
+4525585088,2083,kindergarten,Lake Ridge Creative Preschool,-77.29376,38.68281
+5390552251,2303,cafe,High Grain Bread Company,-77.51627,38.78518
+5435848778,2501,supermarket,Giant,-77.63851,38.84471
+5697770562,2303,cafe,Texas Donuts,-77.51753,38.78189
+5705693715,2501,supermarket,Barago International Market,-77.34036,38.64686
+6042163522,2083,kindergarten,Saint Paul UMC Preschool,-77.25687,38.66363
+6514289653,2501,supermarket,Aldi,-77.2482,38.66411
+6572875855,2501,supermarket,Safeway,-77.57127,38.7499
+6588382472,2504,mall,Braemar Village Center,-77.5712,38.74996
+7018356464,2303,cafe,Starbucks,-77.66514,38.7844
+7261723970,2501,supermarket,Oh! Market International Food,-77.52358,38.79627
+7738782992,2303,cafe,Starbucks,-77.61159,38.80798
+7990678315,2501,supermarket,Food Lion,-77.24981,38.66126
+8117729725,2501,supermarket,Old Food Lion,-77.64177,38.81357
+8185702578,2303,cafe,CUPPi Coffee,-77.57632,38.7588
+8613827503,2303,cafe,Haymarket Coffee Company,-77.63735,38.81239

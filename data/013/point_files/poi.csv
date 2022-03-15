@@ -1,0 +1,142 @@
+osm_id,code,fclass,name,lon,lat
+356559985,2082,school,Barcroft Elementary School,-77.10784,38.86167
+356560873,2082,school,Campbell Elementary School,-77.12578,38.858
+356561279,2082,school,Drew Model Elementary School,-77.0868,38.84791
+356561919,2082,school,Carlin Springs Elementary School,-77.13193,38.863
+356563209,2081,university,Marymount University,-77.12825,38.90554
+356563271,2082,school,Arlington Traditional School,-77.14673,38.87869
+356564484,2082,school,Randolph Elementary School,-77.09854,38.85693
+356565327,2082,school,Saint Agnes Elementary School,-77.11074,38.89565
+356565343,2082,school,Saint Ann Elementary School,-77.12667,38.88067
+356565625,2082,school,Saint Thomas More Cathedral School,-77.1044,38.87122
+356600920,2082,school,Children's House Montessori School,-77.1263,38.90135
+356605072,2082,school,Glebe Elementary School,-77.12134,38.89265
+356606044,2082,school,Arlington United Methodist Church Preschool,-77.09325,38.8648
+356606093,2082,school,Saint Charles Elementary School,-77.0991,38.88542
+356606150,2082,school,Embassy School,-77.08985,38.89277
+356606154,2082,school,Chesterbrook Montessori School,-77.1348,38.91367
+356606808,2082,school,Arlington Arts Center,-77.10209,38.88184
+356606809,2082,school,Dorothy Hamm Middle School,-77.11113,38.90052
+356606810,2082,school,Early Years Preschool New Beginnings at Cherrydale,-77.10276,38.9012
+356606812,2082,school,Arlington County New Directions Alternative Center,-77.09285,38.88903
+367993496,2012,community_centre,Arlington Mill Community Center,-77.11216,38.85647
+459806171,2303,cafe,Euro Market,-77.08607,38.89144
+467706349,2303,cafe,Corner Bakery,-77.08552,38.89164
+568721905,2303,cafe,Starbucks,-77.0492,38.85373
+568942926,2303,cafe,Starbucks,-77.086,38.89017
+571865062,2303,cafe,BeanGood,-77.07918,38.89406
+571865134,2303,cafe,Starbucks,-77.07056,38.89607
+574771098,2303,cafe,Brooklyn Bagel Bakery,-77.08425,38.89177
+574875871,2303,cafe,Manhattan Cafe & Catering,-77.0714,38.89369
+574979330,2303,cafe,Coffee Express,-77.07258,38.89461
+574990452,2303,cafe,Skywalks Cafe,-77.07206,38.8955
+574993750,2082,school,Art Institute Of Washington,-77.07258,38.89594
+575192720,2303,cafe,Sandella's Flatbread Cafe,-77.06257,38.86455
+576206957,2303,cafe,Lynn Street Cafe,-77.07056,38.89549
+576555921,2303,cafe,Mochaberry Coffee,-77.07183,38.89553
+657036395,2303,cafe,Le Pain Quotidien,-77.09331,38.8876
+663918412,2303,cafe,Starbucks,-77.10366,38.88298
+702078894,2081,university,George Mason University,-77.10104,38.88508
+945253405,2082,school,Interlingua English Center,-77.07109,38.89783
+945270593,2303,cafe,The Brown Bag,-77.07039,38.89535
+945270780,2014,arts_centre,Artisphere,-77.06979,38.89519
+945279000,2303,cafe,Le Petit Cafe,-77.0699,38.89525
+993829376,2303,cafe,Georgeteon Gourmet Market,-77.04263,38.85587
+1290873990,2303,cafe,Tivoli Gourmet & Pastry,-77.11116,38.88168
+1340668165,2501,supermarket,Giant,-77.08426,38.86397
+1375770916,2303,cafe,Starbucks,-77.09659,38.89666
+1534343994,2501,supermarket,Trader Joe's,-77.09471,38.88672
+1666476339,2303,cafe,Starbucks,-77.05111,38.84936
+1795642933,2501,supermarket,Giant,-77.09599,38.89682
+1988256727,2303,cafe,Rappahanock Coffee,-77.08359,38.86328
+2174541162,2303,cafe,Bayou Bakery,-77.08364,38.89103
+2493904729,2501,supermarket,Bangkok 54,-77.08763,38.86254
+2563891117,2303,cafe,IceBerry,-77.07869,38.89427
+2565607586,2303,cafe,Roti,-77.07409,38.89499
+2684601807,2501,supermarket,Harris Teeter,-77.05218,38.84231
+2803896774,2303,cafe,Blümen Cafe,-77.09016,38.88996
+2803896775,2303,cafe,CoworkCafe,-77.09119,38.88955
+2803896776,2303,cafe,Kung Fu Tea,-77.09469,38.88754
+3010360319,2303,cafe,Bourbon Coffee,-77.07051,38.89747
+3087087839,2303,cafe,South Block,-77.16165,38.88592
+3235276384,2303,cafe,Sweet Leaf Community Cafe,-77.10786,38.87903
+3278390157,2303,cafe,Espressamente Illy,-77.05137,38.84802
+3278513799,2303,cafe,Starbucks,-77.04138,38.85188
+3298395464,2303,cafe,To Go,-77.04134,38.85008
+3366910390,2303,cafe,Starbucks,-77.06803,38.84552
+3396064841,2303,cafe,Starbucks,-77.07397,38.89419
+3412061993,2303,cafe,Starbucks,-77.11138,38.88136
+3517813505,2504,mall,Crystal City Shops,-77.0501,38.85606
+3727798480,2082,school,Chesterbrook Montessori School,-77.1122,38.86833
+3732378174,2303,cafe,Starbucks,-77.11433,38.88046
+3736077738,2303,cafe,Sense of Place,-77.11902,38.86969
+3773680171,2303,cafe,South Block,-77.07591,38.89437
+3773680179,2303,cafe,RĀKO,-77.08264,38.89195
+4005032489,2501,supermarket,Harris Teeter,-77.09006,38.84136
+4082236489,2081,university,Strayer University,-77.08509,38.89088
+4182327274,2405,hostel,Jim's place,-77.1157,38.87889
+4223459100,2303,cafe,The Waterhouse,-77.09434,38.88823
+4253064595,2303,cafe,Peet's Coffee,-77.09456,38.88588
+4514799893,2303,cafe,Starbucks,-77.05511,38.87025
+4829731735,2303,cafe,Cafeteria,-77.12716,38.90511
+4879616550,2303,cafe,Republik Coffee Bar,-77.11337,38.88062
+4936209856,2303,cafe,Livin' The Pie Life,-77.12336,38.89707
+5167500823,2303,cafe,Starbucks,-77.08401,38.86349
+5212763636,2303,cafe,Le Café Market,-77.10351,38.8828
+5243213446,2501,supermarket,India A-1 Grocery,-77.12577,38.8969
+5261278522,2082,school,Adagio Ballet,-77.12216,38.89758
+5484782763,2501,supermarket,Whole Foods Market,-77.0546,38.86275
+5556470050,2303,cafe,Say Si Bon!,-77.0425,38.85597
+5894611648,2501,supermarket,Harris Teeter,-77.10265,38.85885
+5912989275,2303,cafe,South Block,-77.09406,38.88639
+5982898887,2303,cafe,Compass,-77.07127,38.89537
+6010861856,2501,supermarket,Megamart,-77.11294,38.85625
+6139435230,2303,cafe,Kokee Tea,-77.0613,38.86299
+6139435239,2303,cafe,Starbucks,-77.06062,38.86313
+6141051000,2303,cafe,Verre,-77.08769,38.89093
+6152618554,2303,cafe,Starbucks,-77.11658,38.88234
+6171696809,2081,university,The George Washington University,-77.11591,38.88133
+6171696817,2303,cafe,Sweet Leaf,-77.11468,38.8802
+6232805734,2110,hospital,Ballston urgent care,-77.1065,38.88268
+6247246980,2303,cafe,Mike's,-77.11181,38.8808
+6247248572,2303,cafe,Philz Coffee,-77.1102,38.88034
+6380814580,2303,cafe,Good company,-77.11258,38.87887
+6385568731,2303,cafe,South block,-77.10959,38.87951
+6389255887,2082,school,Norman swimming,-77.10964,38.88808
+6442866577,2303,cafe,Union kitchen,-77.10954,38.87969
+6442869040,2303,cafe,Compass coffee,-77.10937,38.87967
+6451918076,2303,cafe,Market cafe,-77.11501,38.88183
+6575610014,2303,cafe,Uptown Cafe,-77.05257,38.84774
+6575621512,2501,supermarket,Lidl,-77.05195,38.8435
+7354394228,2303,cafe,For Five,-77.08691,38.89108
+7412875202,2082,school,Thomas Jefferson Community Garden,-77.097,38.86921
+7412880529,2082,school,Wakefield High School,-77.10971,38.84755
+7560822995,2303,cafe,Starbucks,-77.12662,38.8885
+8019495036,2501,supermarket,Streets Market,-77.08494,38.88108
+8248798602,2083,kindergarten,Rockspring Cooperative Preschool,-77.13757,38.90773
+8686322409,2303,cafe,Starbucks,-77.07934,38.87365
+8958078219,2083,kindergarten,Bright Horizons,-77.04961,38.85229
+9008582395,2303,cafe,Origin Coffee Lab &Kitchen,-77.06273,38.86363
+9044218517,2303,cafe,Commonwealth Joe,-77.05538,38.86263
+9044218520,2303,cafe,Starbucks,-77.05647,38.8625
+356567128,2007,library,Westover Branch Library,-77.14203,38.88661
+356586213,2005,post_office,Arlington South Post Office,-77.09223,38.85906
+356586220,2005,post_office,Arlington Main Post Office,-77.09544,38.88563
+356586223,2005,post_office,Courthouse Post Office,-77.08378,38.89195
+356586254,2005,post_office,Arlington Central Post Office,-77.10416,38.87376
+356606027,2005,post_office,Buckingham Post Office,-77.10439,38.87356
+367986179,2007,library,Columbia Pike Library,-77.08796,38.86484
+367986365,2007,library,Arlington Campus Library,-77.10018,38.88501
+367986375,2007,library,George Mason University Law Library,-77.10026,38.88511
+367988417,2001,police,Arlington Police Station,-77.0832,38.88991
+367988512,2007,library,Emerson G Reinsch Library,-77.12667,38.905
+367989810,2001,police,Arlington County Sheriff's Office,-77.08308,38.88992
+747121679,2005,post_office,,-77.08065,38.88101
+929733920,2001,police,,-77.0421,38.85149
+2684592339,2005,post_office,Eads Finance Post Office,-77.05632,38.86155
+2819144529,2007,library,Arlington Public Library- Plaza Branch,-77.08536,38.89055
+3744931230,2005,post_office,The UPS Store,-77.08627,38.89089
+5242392910,2007,library,Government Reference Library,-77.08638,38.89047
+6573542531,2007,library,John Burton Library,-77.1018,38.88577
+8964473599,2005,post_office,Crystal City Post Office,-77.05014,38.85409
+8964473601,2005,post_office,Pentagon Post Office,-77.0572,38.87125

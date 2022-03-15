@@ -1,0 +1,36 @@
+osm_id,code,fclass,name,lon,lat
+356562199,2082,school,Hare Valley Elementary School,-75.85271,37.50375
+356564058,2082,school,Northampton High School,-75.94078,37.3613
+356595594,2082,school,Broadwater Academy,-75.84773,37.52869
+356595608,2082,school,Capeville Elementary School,-75.95854,37.19958
+356595617,2082,school,Cheriton Elementary School,-75.97188,37.28653
+356595647,2082,school,Exmore Wesleyan School,-75.8266,37.53263
+356595660,2082,school,Machipongo Elementary School,-75.91021,37.40375
+356595676,2082,school,Northampton Middle School,-75.90917,37.40369
+356606230,2082,school,The T E C H Center School,-75.9105,37.4038
+356606751,2082,school,Virginia Tech - Virginia Cooperative Extension,-75.85304,37.50359
+1299080496,2303,cafe,Machipongo Trading Company,-75.90485,37.40292
+356595592,2005,post_office,Birdsnest Post Office,-75.89021,37.42625
+356595604,2005,post_office,Cape Charles Post Office,-76.01799,37.26847
+356595612,2005,post_office,Capeville Post Office,-75.96021,37.20542
+356595621,2005,post_office,Cheriton Post Office,-75.9716,37.28986
+356595645,2005,post_office,Exmore Post Office,-75.82271,37.53263
+356595653,2005,post_office,Franktown Post Office,-75.87938,37.47847
+356595659,2005,post_office,Jamesville Post Office,-75.92966,37.51486
+356595662,2005,post_office,Machipongo Post Office,-75.90299,37.40291
+356595666,2005,post_office,Marionville Post Office,-75.85576,37.45125
+356595672,2005,post_office,Nassawadox Post Office,-75.85715,37.4743
+356595680,2005,post_office,Oyster Post Office,-75.92465,37.28597
+356595690,2005,post_office,Seaview Post Office,-75.94326,37.26736
+356595694,2005,post_office,Townsend Post Office,-75.95771,37.18597
+356595698,2005,post_office,Wardtown Post Office,-75.87438,37.53569
+356595700,2005,post_office,Weirwood Post Office,-75.86715,37.45764
+356595702,2005,post_office,Willis Wharf Post Office,-75.80715,37.51541
+367980863,2002,fire_station,Cape Charles Rescue Services Station 19,-75.9728,37.27582
+367981019,2009,courthouse,Northampton County Courthouse,-75.9466,37.35347
+367985885,2002,fire_station,Cheriton Volunteer Fire Department Station 14,-75.97014,37.28701
+367986852,2007,library,Northampton Memorial Library,-76.01493,37.2693
+367987712,2001,police,Northampton County Sheriff's Office,-75.93849,37.35118
+367987784,2001,police,Cape Charles Police Chief,-76.01507,37.2671
+367990348,2099,public_building,Northampton County Department of Emergency Medical Services,-75.91101,37.39979
+367990563,2008,town_hall,Cape Charles Town Hall,-76.01466,37.26764

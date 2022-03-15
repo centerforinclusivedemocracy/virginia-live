@@ -1,0 +1,4 @@
+provider,lat,lon,num_stops_per_week,score
+OMNIRIDE,38.47542,-77.41268,23,1.0
+Virginia Railway Express,38.38725,-77.38128,24,1.0
+Virginia Railway Express,38.34707,-77.43782,24,1.0

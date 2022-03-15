@@ -1,0 +1,30 @@
+osm_id,code,fclass,name,lon,lat
+356562385,2082,school,Hollins Elementary School,-79.93615,37.36013
+356570230,2082,school,Asbury School,-79.96921,37.46485
+356570660,2082,school,Breeckenridge School,-79.8731,37.50152
+356570975,2082,school,Central Academy,-79.86338,37.50652
+356571158,2082,school,Colonial Elementary School,-79.81698,37.35791
+356586129,2082,school,James River High School,-79.72587,37.5468
+356591095,2082,school,Troutville Elementary School,-79.87615,37.41763
+356591105,2082,school,Buchanan Elementary School,-79.68143,37.52819
+356591108,2082,school,Buchanan High School,-79.68087,37.52763
+356591160,2082,school,Eagle Rock Elementary School,-79.79893,37.63958
+356605297,2082,school,Concord Fire Department,-79.64333,37.58861
+356605304,2082,school,Concord Volunteer Rescue Squad,-79.64222,37.58389
+2953631338,2501,supermarket,Food Lion,-79.90978,37.41764
+2953631340,2303,cafe,Thousand Hills Coffee Company,-79.91256,37.41652
+7065174706,2501,supermarket,Kroger,-79.91124,37.39682
+7065210651,2303,cafe,Mill Mountain Coffee and Tea,-79.91049,37.39761
+7658947607,2501,supermarket,Food Lion,-79.84642,37.3469
+356591116,2005,post_office,Buchanan Post Office,-79.67893,37.52819
+367980435,2002,fire_station,Cave Spring Rescue,-80.01611,37.39528
+367983364,2002,fire_station,Read Mountain Volunteer Fire and Rescue,-79.8775,37.34333
+367983368,2002,fire_station,Glen Wilton Volunteer Fire Department and Rescue Squad,-79.82082,37.75561
+367983372,2002,fire_station,Fincastle Volunteer Fire Department and Rescue Squad,-79.8799,37.49553
+367983407,2002,fire_station,Eagle Rock Volunteer Fire Department and Rescue Squad,-79.80111,37.64056
+367983419,2002,fire_station,Blue Ridge Volunteer Fire Department and Rescue Squad,-79.81111,37.37472
+367984734,2002,fire_station,Henry Fire Department,-80.05139,37.42556
+367988823,2001,police,Botetourt County Sheriffs Office,-79.87806,37.49889
+2953342056,2007,library,Blue Ridge Public Library,-79.86501,37.33034
+2953625955,2005,post_office,,-79.90533,37.36477
+6554131787,2005,post_office,Troutville US postal office,-79.8812,37.41261

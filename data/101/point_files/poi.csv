@@ -1,0 +1,29 @@
+osm_id,code,fclass,name,lon,lat
+356562173,2082,school,Hamilton High School,-77.03579,37.69537
+356562534,2082,school,Sharon Indian School Tribal Center,-77.11425,37.73485
+356562753,2082,school,King William High School,-77.13005,37.74199
+356567308,2082,school,West Point High School,-76.79733,37.55753
+356606140,2082,school,West Point Elementary School,-76.79494,37.55773
+356606341,2082,school,Acquinton Elementary School,-77.0346,37.69306
+356606396,2082,school,Hamilton Holmes Middle School,-77.0353,37.69484
+356606563,2082,school,West Point Middle School,-76.79603,37.55759
+356606607,2082,school,Cool Spring Primary School,-77.03559,37.69091
+356606608,2082,school,Gloucester County Regional Alternative School,-77.13013,37.74207
+8117276262,2501,supermarket,El Paisano,-76.81059,37.5514
+367981016,2009,courthouse,King William County Courthouse,-77.0133,37.68764
+367981359,2009,courthouse,Lower King and Queen Volunteer Fire Department,-76.96523,37.66537
+367985031,2002,fire_station,Gloucester Volunteer Fire and Rescue Station Number 6,-77.00556,37.69306
+367985357,2002,fire_station,Smithfield Volunteer Fire Department,-77.05972,37.63778
+367985436,2002,fire_station,Lower King and Queen Fire Department,-77.19222,37.82611
+367985447,2002,fire_station,Mangohick Volunteer Fire Department,-77.26029,37.80145
+367985582,2002,fire_station,West Point Volunteer Fire / Rescue,-76.79588,37.53214
+367985721,2002,fire_station,Charles City Volunteer Fire Department Station Number 1,-77.16861,37.66111
+367985792,2002,fire_station,Charles City Volunteer Fire Department Station Number 2,-77.25639,37.76472
+367986045,2002,fire_station,Mattaponi Volunteer Rescue Squad,-77.07576,37.72047
+367986053,2002,fire_station,King William County Volunteer Fire / Rescue,-77.10679,37.78392
+367987537,2001,police,Smithfield Police Department,-77.06028,37.63611
+367988016,2001,police,King William County Sheriff's Office,-77.01045,37.68677
+367989091,2001,police,Virginia State Police Division 1 Area 3 Office,-76.85855,37.59224
+367989635,2001,police,West Point Police Department,-76.79749,37.53612
+367990430,2099,public_building,King William County Emergency Services,-77.01249,37.69152
+5776928899,2007,library,West Point Library,-76.79687,37.53217

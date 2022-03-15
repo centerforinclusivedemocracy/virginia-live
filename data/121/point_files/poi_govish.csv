@@ -1,0 +1,24 @@
+,osm_id,code,fclass,name,lon,lat
+0,367981011,2009,courthouse,Montgomery County Courthouse,-80.40728,37.13039
+1,367984279,2002,fire_station,Patrick Springs Volunteer Fire Department Company 23,-80.34111,37.06694
+2,367984292,2002,fire_station,Fairystone Volunteer Fire Department Compant 21,-80.24722,37.29194
+3,367984360,2002,fire_station,Shawsville Volunteer Rescue Squad,-80.44222,37.28444
+4,367984738,2002,fire_station,Smith Mountain Lake Marine Fire Department,-80.19861,37.19222
+5,367984928,2002,fire_station,Burnt Chimney Fire Department,-80.36278,37.18278
+6,367985014,2002,fire_station,Rocky Mount Fire Department,-80.49139,37.025
+7,367990680,2008,town_hall,Old Blacksburg Town Hall,-80.41396,37.23067
+8,937065640,2005,post_office,The Ups Store / Effluent Technology,-80.4145,37.22966
+9,937149060,2008,town_hall,Blacksburg Municipal Building,-80.41243,37.22735
+10,1245916030,2005,post_office,Pritchard Mailroom,-80.41964,37.22448
+11,1245933906,2005,post_office,Owens Package Pick-up,-80.41932,37.22665
+12,1254871955,2005,post_office,Peddrew-Yates Mail Room,-80.41956,37.22525
+13,1257000900,2005,post_office,Mailroom,-80.41818,37.2259
+14,1496104920,2001,police,Virginia Tech Police Department,-80.41553,37.21884
+15,1516091404,2005,post_office,"Riner, VA 24149",-80.44188,37.06715
+16,1517016553,2002,fire_station,Riner Volunteer Fire Department,-80.44194,37.06061
+17,2899662580,2005,post_office,FedEx,-80.42267,37.16324
+18,4343854877,2002,fire_station,Blacksburg Fire Station #2,-80.45483,37.21853
+19,6173704286,2001,police,Speedcheck stakeout,-80.42109,37.24653
+20,7963581969,2002,fire_station,Blacksburg Volunteer Rescue Squad,-80.42146,37.24678
+21,8423529720,2007,library,Meadowbrook Public Library,-80.25642,37.16737
+22,8423529721,2005,post_office,United States Post Office,-80.25743,37.16824

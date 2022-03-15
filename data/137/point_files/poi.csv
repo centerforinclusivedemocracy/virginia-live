@@ -1,0 +1,31 @@
+osm_id,code,fclass,name,lon,lat
+356562128,2082,school,Grymes Memorial School,-78.13393,38.25503
+356562941,2082,school,Lightfoot Elementary School,-77.95361,38.24615
+356566941,2082,school,Unionville Elementary School,-77.95499,38.26157
+356583221,2082,school,Orange County High School,-78.09627,38.24535
+356583984,2082,school,Germanna Community College Locust Grove Campus,-77.78019,38.37522
+356606390,2082,school,Locust Grove Elementary School,-77.82924,38.2991
+356606602,2082,school,Faith Christian Academy,-77.95613,38.27159
+356606835,2082,school,Locust Grove Middle School,-77.83142,38.2985
+3104910699,2501,supermarket,Food Lion,-78.11369,38.2574
+3769689025,2303,cafe,,-78.1704,38.21771
+4497242561,2303,cafe,The Light Well,-78.11053,38.24516
+8041273956,2501,supermarket,,-77.74645,38.34893
+356583988,2005,post_office,Gordonsville Post Office,-78.18665,38.13448
+356583992,2005,post_office,Orange Post Office,-78.11248,38.2449
+367981069,2009,courthouse,Orange County Courthouse,-78.11169,38.24548
+367982129,2002,fire_station,Orange County Rescue Squad Station Number 21,-77.88861,38.26694
+367982132,2002,fire_station,Orange County Rescue Squad Station Number 23,-78.10721,38.24153
+367982134,2002,fire_station,Orange County Rescue Squad Station Number 24,-78.1875,38.13278
+367982339,2002,fire_station,Lake of the Wood Volunteer Fire and Rescue Department Company Number 29,-77.74944,38.34835
+367982346,2002,fire_station,Mine Run Volunteer Fire Department Company Number 21,-77.83583,38.25861
+367982350,2002,fire_station,Orange Volunteer Fire Department Company Number 23,-78.11269,38.24091
+367982357,2002,fire_station,Barboursville Volunteer Fire Department Company Number 25,-78.28521,38.1754
+367984817,2002,fire_station,Fire Station 16,-78.00444,38.14389
+367985901,2002,fire_station,Orange County Rescue Squad Battlefield Garage,-77.88641,38.26611
+367985904,2002,fire_station,Orange County Rescue Squad,-78.10708,38.24132
+367985905,2002,fire_station,Orange County Rescue Squad Gordonsville Garage,-78.18745,38.13333
+367987757,2001,police,Orange County Sheriff's Office,-78.03606,38.24686
+367989645,2001,police,Orange Police Department,-78.10166,38.24258
+367989826,2001,police,Gordonsville Police Department,-78.18601,38.13474
+2867304974,2005,post_office,United States Post Office,-78.27868,38.17136

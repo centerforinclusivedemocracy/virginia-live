@@ -1,0 +1,81 @@
+osm_id,code,fclass,name,lon,lat
+356568329,2082,school,Episcopal High School,-77.09433,38.8255
+356568582,2082,school,Houston School,-77.04803,38.81261
+356568602,2082,school,Immanuel Lutheran School,-77.06512,38.822
+356568820,2082,school,Douglas MacArthur Elementary School,-77.08243,38.81519
+356568925,2082,school,Minnie Howard School,-77.09518,38.82818
+356569170,2082,school,Parker Gray Middle School,-77.05109,38.81456
+356569187,2082,school,Patrick Henry Elementary School,-77.11148,38.81798
+356569279,2082,school,Washington-Alexandria Architecture Center,-77.05092,38.80469
+356569300,2082,school,William Ramsay Elementary School,-77.13145,38.82808
+356569450,2082,school,Saint Josephs School,-77.04609,38.81261
+356569473,2082,school,Saint Mary's Catholic School,-77.04676,38.79515
+356569682,2082,school,Foundation School of Alexandria,-77.0879,38.80724
+356569692,2082,school,Suburban School,-77.06976,38.82345
+356569882,2082,school,Virginia Theological Seminary,-77.09207,38.82049
+356581287,2082,school,Bishop Ireton High School,-77.08075,38.80902
+356581309,2082,school,Lyles - Crouch Traditional Academy,-77.04657,38.79944
+356581346,2082,school,Francis C Hammond Middle School,-77.1105,38.82643
+356581392,2082,school,Saint Stephen's and Saint Agnes Lower School,-77.06831,38.82481
+356581402,2082,school,Saint Stephens and Saint Agnes Upper School,-77.10155,38.81722
+356588854,2013,nursing_home,Envoy of Alexandria,-77.07558,38.82701
+356588982,2013,nursing_home,Goodwin House Nursing Home,-77.11286,38.83615
+356605115,2082,school,John Adams Elementary School,-77.12563,38.83331
+356606003,2082,school,Grace Episcopal School,-77.06449,38.83725
+356606040,2082,school,Alexandria Friends School,-77.06528,38.82715
+356606061,2082,school,Emmanuel Episcopal Church Preschool,-77.06697,38.82038
+356606124,2082,school,Blessed Sacrament School,-77.08287,38.82718
+356606128,2082,school,Saint Paul's Nursery And Day School,-77.04486,38.80332
+356606259,2082,school,Thornton Friends School,-77.0964,38.82078
+356606487,2082,school,Saint Coletta School,-77.05753,38.80463
+356606630,2082,school,Saint Clement Episcopal School,-77.08495,38.83241
+356606813,2081,university,Strayer University,-77.08008,38.80164
+367990104,2012,community_centre,Nannie J Lee Community Center,-77.05281,38.79747
+419267705,2303,cafe,,-77.04765,38.8216
+624189996,2501,supermarket,Harris Teeter,-77.11262,38.81284
+765750824,2303,cafe,Starbucks,-77.062,38.80262
+875436837,2303,cafe,Starbucks,-77.0454,38.81144
+875436875,2501,supermarket,Trader Joe's,-77.0448,38.8111
+875506975,2303,cafe,,-77.0518,38.80813
+875506984,2303,cafe,Starbucks,-77.05037,38.8112
+1596875697,2501,supermarket,Balducci's,-77.04795,38.79781
+1727230067,2303,cafe,Uptowner Cafe,-77.0571,38.80652
+1727275338,2303,cafe,Starbucks,-77.04568,38.80473
+1728146288,2303,cafe,Misha's Coffeehouse and Roaster,-77.04982,38.80556
+1728146335,2303,cafe,Starbucks,-77.04014,38.80409
+2048150725,2303,cafe,Starbucks,-77.08358,38.80855
+2048150727,2501,supermarket,Giant,-77.08426,38.80881
+2152912500,2082,school,Georgie's Pilates Loft,-77.04648,38.80519
+2249646498,2303,cafe,Starbucks,-77.05965,38.807
+2414824292,2303,cafe,Starbucks,-77.06529,38.80325
+2663639900,2082,school,Creative Play School,-77.10407,38.81891
+2663676935,2082,school,Creative Play School,-77.05964,38.82487
+2766063563,2303,cafe,Killer ESP,-77.0509,38.80548
+2776114512,2501,supermarket,FoodStar,-77.06223,38.83654
+2776115665,2303,cafe,Hawwi Ethiopian Café and Restaurant,-77.05183,38.80815
+2778689980,2501,supermarket,MOM's Organic Market,-77.06266,38.84117
+2778689987,2504,mall,Mount Vernon Village Center,-77.06252,38.8408
+2778689997,2303,cafe,Waffle Shop,-77.06305,38.84026
+3455017463,2082,school,Northern Virginia Community College - Alexandria Campus,-77.11518,38.83977
+3468499743,2303,cafe,Euro Cafe,-77.11534,38.8405
+3642810173,2303,cafe,Elizabeth's Counter,-77.04985,38.81387
+3665076562,2303,cafe,M.E. Swing Coffee Co.,-77.0525,38.82088
+3743101836,2303,cafe,South Block,-77.05951,38.83201
+4039317351,2303,cafe,Starbucks,-77.07205,38.80164
+4616678161,2303,cafe,Cameron Cafe,-77.11719,38.80932
+4666412745,2303,cafe,Starbucks,-77.13352,38.80486
+4677509715,2303,cafe,Landmark Bakery and Cafe,-77.13288,38.80379
+4677509717,2501,supermarket,Tsedey Abeba International,-77.13302,38.80379
+4679411750,2501,supermarket,Nazret Market,-77.13229,38.80398
+5073216822,2501,supermarket,Tiger Market,-77.06308,38.84163
+5084349705,2303,cafe,Starbucks,-77.05171,38.83884
+5111335656,2303,cafe,Casa Rosada Artisan Gelato,-77.05377,38.80552
+5165098021,2303,cafe,Sandellas Flatbread Cafe,-77.06324,38.80291
+5494164217,2303,cafe,Java Loco,-77.13351,38.81052
+6125867323,2501,supermarket,Harris Teeter,-77.04398,38.81268
+6677441000,2012,community_centre,captains row,-77.0417,38.80325
+6785728948,2501,supermarket,Global Food,-77.12532,38.8314
+8651503875,2501,supermarket,Giant,-77.05034,38.83231
+8807335380,2303,cafe,Starbucks,-77.09191,38.82981
+8807335388,2501,supermarket,The Fresh Market,-77.09263,38.82901
+9037197791,2083,kindergarten,Discovery Time Learning Center,-77.05247,38.82075

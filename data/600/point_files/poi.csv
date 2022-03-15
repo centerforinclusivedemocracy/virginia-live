@@ -1,0 +1,28 @@
+osm_id,code,fclass,name,lon,lat
+356566447,2082,school,Tailwood School,-77.2972,38.83666
+356569454,2082,school,Saint Leo the Great School,-77.29689,38.85321
+356604650,2082,school,Katherine Johnson Middle School,-77.32736,38.85999
+356604684,2082,school,Daniels Run Elementary School,-77.29595,38.85218
+356605226,2082,school,George Mason University Center for Social Science Research,-77.31148,38.83936
+356605228,2082,school,The New School of Northern Virginia,-77.26921,38.85927
+356606063,2083,kindergarten,Fairfax United Methodist Preschool,-77.30365,38.85771
+356606436,2082,school,Trinity Christian School - Truro Campus,-77.30924,38.84772
+356606488,2082,school,Truro Preschool and Kindergarten,-77.3096,38.84772
+626289378,2501,supermarket,Shoppers Food Warehouse,-77.27404,38.84509
+906158821,2501,supermarket,Trader Joe's,-77.27033,38.84259
+1550981374,2303,cafe,Robek's,-77.32168,38.85372
+1550981376,2303,cafe,Shilla Bakery & Cafe,-77.32145,38.85377
+2403004404,2501,supermarket,ALDI,-77.32395,38.85201
+2403017299,2402,motel,,-77.31771,38.854
+2403030684,2501,supermarket,99 Ranch Market,-77.31611,38.85632
+3404399897,2303,cafe,Starbucks,-77.30349,38.84592
+3534096399,2303,cafe,Bernie's Deli,-77.31235,38.83715
+4769710527,2501,supermarket,Sultan Turkish Market,-77.31002,38.85702
+7337767657,2110,hospital,INOVA Emergency Room,-77.31026,38.83812
+8936879952,2303,cafe,De Clieu Coffee,-77.3052,38.84584
+367980885,2002,fire_station,Fairfax County Fire Chief,-77.30552,38.84357
+367981383,2002,fire_station,City of Fairfax Fire Station Number 33,-77.29332,38.86178
+367981386,2002,fire_station,Fairfax County Fire and Rescue Headquarters,-77.30794,38.84341
+367986098,2002,fire_station,Fairfax County Fire Marshal,-77.30832,38.84057
+367989684,2001,police,Fairfax County Sheriff's Office Administrative Services Division,-77.30686,38.84652
+367990730,2008,town_hall,Fairfax City Hall,-77.30815,38.84094
