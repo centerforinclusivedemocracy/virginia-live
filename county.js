@@ -814,7 +814,7 @@ function refreshMapLegend () {
         };
 
         // add the legend entry for unreliable squares
-        $(`<div class="legend-entry"><div class="legend-swatch legend-swatch-nodata"></div> Estimates that have a high degree of uncertainty</div>`).appendTo($legend);
+        $(`<div class="legend-entry"><div class="legend-swatch legend-swatch-nodata"></div> Data source estimates with high uncertainty</div>`).appendTo($legend);
 
         // do we have a caveat footnote?
         if (COUNTYINFO.datafootnote) {
