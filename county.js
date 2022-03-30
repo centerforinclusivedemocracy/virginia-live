@@ -639,10 +639,9 @@ function toggleMapLayer (layerid, visible) {
         if (issuggestedarea) showSuggestedSiteInfo(null);
 
         return;
-    }
 
     // if we're turning on a layer, and it is part of a radiogroup, then turn off all others layers in that same radiogroup
-    if (visible && layerinfo.radiogroup) {
+    } else if (visible && layerinfo.radiogroup) {
         Object.keys(COUNTYINFO.datalayers).forEach(function (groupname) {
             COUNTYINFO.datalayers[groupname].forEach(function (thislayerinfo) {
                 if (thislayerinfo.radiogroup != layerinfo.radiogroup) return;  // not in the same group
@@ -657,7 +656,7 @@ function toggleMapLayer (layerid, visible) {
                 }, 1);
             });
         });
-    }
+    };
 
     // hand off to whichever type of layer this is:
     // site scoring indicator. tract demographics indicator, point file for GeoJSON circles, custom GeoJSON file, ...
