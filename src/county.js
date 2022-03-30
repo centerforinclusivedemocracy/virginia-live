@@ -611,22 +611,20 @@ function toggleMapLayer (layerid, visible) {
 
         // if we're turning off a layer after toggling and it's not a 2016 layer
         // then remove the 2010 counties and add the 2020 counties
-        if (typeof TOGGLELAYER !== "undefined") {
-            if (! TOGGLELAYER.includes('2016')) {
+        if (typeof TOGGLELAYER != 'undefined'){
+            if ((MAP.hasLayer(COUNTYOVERLAY2010)) && (! TOGGLELAYER.includes('2016'))) {
                 MAP.removeLayer(COUNTYOVERLAY2010);
                 COUNTYOVERLAY.addTo(MAP);
-            };
+            }
+        }
         // if we're turing off a 2016 layer and not toggling then also remove 2010 counties
-        // but only if we're turning off indicator data
-        } else {
-            if (layerid.includes('2016') && layerinfo.layertype == 'indicators') {
-                MAP.removeLayer(COUNTYOVERLAY2010);
-                COUNTYOVERLAY.addTo(MAP);
-            };
+        else if ((MAP.hasLayer(COUNTYOVERLAY2010)) && (typeof TOGGLELAYER == 'undefined')) {
+            MAP.removeLayer(COUNTYOVERLAY2010);
+            COUNTYOVERLAY.addTo(MAP);
         };
 
         // reset toggle layer since we've ended sequence
-        TOGGLELAYER = undefined;
+        TOGGLELAYER = 'undefined';
 
         // well, slightly less easy because turning off vote center layers should also stop showing highlights
         // potential bug-like behavior would be turning on multiple suggested areas, highlighting one in one layer, and finding it un-highlghted when turning off the other layer
