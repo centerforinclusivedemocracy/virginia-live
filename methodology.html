@@ -75,7 +75,7 @@
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
     <link rel="stylesheet" href="./sitewide.css?cachebust-8a9647ef04" />
-    <script src="./sitewide.js?cachebust-fefd412819"></script>
+    <script src="./sitewide.js?cachebust-22e35398de"></script>
     <link rel="stylesheet" href="./methodology.css?cachebust-8be1f32d75" />
     <script src="./methodology.js?cachebust-5366a20b63"></script>
 </head>
@@ -240,6 +240,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: Although the model input was at the census block level, this variable is displayed on the web map at the census tract level by aggregating the proportion of total precinct voters in a block to the census tract level.</li>
       </ul>
       
+      <p id="vbm-black-20"><b>2020 Vote by Mail Rate (Black):</b> The percentage of Black voters who voted by mail out of total Black voters in the 2020 General Election.</p>
+      <ul>
+        <li><i>Data sources</i>: Catalist Voter Registration Data (2020 General Election).</li>
+        <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the Black vote by dividing the number of Black voters who voted by mail by the total number of Black voters who voted.</li>
+        <li><i>Scale</i>: Census Tract.</li>
+        <li><i>Limitations</i>: Imperfect conversion from precinct to block level.</li>
+        <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
+      </ul>
+
       <p id="vbm-latino-20"><b>2020 Vote by Mail Rate (Latino):</b> The percentage of Latino voters who voted by mail out of total Latino voters in the 2020 General Election.</p>
       <ul>
         <li><i>Data sources</i>: Catalist Voter Registration Data (2020 General Election).</li>
@@ -277,6 +286,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Limitations</i>: Imperfect conversion from precinct to block level.</li>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
+
+      <p id="vbm-black-16"><b>2016 Vote by Mail Rate (Black):</b> The percentage of Black voters who voted by mail out of total Black voters in the 2016 General Election.</p>
+      <ul>
+        <li><i>Data sources</i>: Catalist Voter Registration Data (2016 General Election).</li>
+        <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the Black vote by dividing the number of Black voters who voted by mail by the total number of Black voters who voted.</li>
+        <li><i>Scale</i>: Census Tract.</li>
+        <li><i>Limitations</i>: Imperfect conversion from precinct to block level.</li>
+        <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
+      </ul>
       
       <p id="vbm-latino-16"><b>2016 Vote by Mail Rate (Latino):</b> The percentage of Latino voters who voted by mail out of total Latino voters in the 2016 General Election.</p>
       <ul>
@@ -305,6 +323,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
 
+      <p id="trnt-black-20"><b>2020 Registered Voter Turnout Rate (Black):</b> The percentage of Black registered voters who voted in the 2020 General Election.</p>
+      <ul>
+        <li><i>Data sources</i>: Catalist Voter Registration Data (2020 General Election).</li>
+        <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the Black vote by dividing the number of Black voters who voted by the total number of Black registered voters.</li>
+        <li><i>Scale</i>: Census Tract.</li>
+        <li><i>Limitations</i>: Imperfect conversion from precinct to block level.</li>
+        <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
+      </ul>
+      
       <p id="trnt-asian-20"><b>2020 Registered Voter Turnout Rate (Asian-American):</b> The percentage of Asian-American registered voters who voted in the 2020 General Election.</p>
       <ul>
         <li><i>Data sources</i>: Catalist Voter Registration Data (2020 General Election).</li>
@@ -336,6 +363,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <ul>
         <li><i>Data sources</i>: Catalist Voter Registration Data (2016 General Election).</li>
         <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the total vote by dividing the total number of voters who voted by the total number of registered voters.</li>
+        <li><i>Scale</i>: Census Tract.</li>
+        <li><i>Limitations</i>: Imperfect conversion from precinct to block level.</li>
+        <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
+      </ul>
+
+      <p id="trnt-black-16"><b>2016 Registered Voter Turnout Rate (Black):</b> The percentage of Black registered voters who voted in the 2016 General Election.</p>
+      <ul>
+        <li><i>Data sources</i>: Catalist Voter Registration Data (2016 General Election).</li>
+        <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the Black vote by dividing the number of Black voters who voted by the total number of Black registered voters.</li>
         <li><i>Scale</i>: Census Tract.</li>
         <li><i>Limitations</i>: Imperfect conversion from precinct to block level.</li>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
@@ -564,7 +600,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><i>Limitations</i>: 2015-2019 ACS data is based on 2010 census tract boundaries, while the Siting Tool web map displays 2020 census tract boundaries. In cases where 2010 census tracts were split into new tracts in 2020, some tracts may appear to have identical values. Future versions of the tool will use 2016-2020 ACS data which is based on 2020 census tract boundaries. In addition, estimates can have high margins of error for small samples.</li>
           </ul>
 
-          <p id="transitstops"><b>Transit Stops:</b> Transit points indicate the location of transit stops in the county/city and are sourced from regional General Transit Feeds (GTFS). Where GTFS data is missing local transit agency data is used instead.</p>
+          <p id="transitstops"><b>Transit Stops:</b> Transit points indicate the location of transit stops in the county and are sourced from regional General Transit Feeds (GTFS). Where GTFS data is missing local transit agency data is used instead.</p>
           <ul>
             <li><i>Data sources</i>: GTFS and local transit agencies. GTFS data is current as of when data was pulled by CID on November 19, 2021 and may not reflect the most up-to-date information.</li>
             <li><i>Calculation</i>: Frequency of service to each transit stop was normalized to a range of 1-4 that indicates low to high service.</li>

@@ -28,7 +28,7 @@ function initCountyInfo () {
     COUNTYINFO = getParticipatingCountyInfo((new URLSearchParams(window.location.search)).get('county'));
 
     // fill in the county name into the title bar
-    $('#sidebar > h1').text(`${COUNTYINFO.name}`);
+    $('#sidebar > h1').text(`${COUNTYINFO.name} County`);
 
     // add alert for mobile
     $('#mobile');
@@ -85,29 +85,7 @@ function initTooltips () {
                     });
                 },
             });
-        } 
-        else if ((COUNTYINFO.profile == 'quartermile') & (COUNTYINFO.countyfp != '013')) {
-            $text = $($(this).attr('data-tooltip-content')).text().replace('County', 'City').replace('county', 'city');
-            $(this).tooltipster({
-                trigger: 'hover',
-                autoClose: false,
-                hideOnClick: true,
-                animation: 'fade',
-                animationDuration: 150,
-                distance: 0,
-                maxWidth: 300,
-                side: [ 'right', 'bottom' ],
-                content: $text,
-                contentCloning: true,  // allow multiple i links with the same tooltip
-                interactive: true, // don't auto-dismiss on mouse activity inside, let user copy text, follow links, ...
-                functionBefore: function (instance, helper) { // close open ones before opening this one
-                    jQuery.each(jQuery.tooltipster.instances(), function(i, instance) {
-                        instance.close();
-                    });
-                },
-            });
-        }
-        else {
+        } else {
             $(this).tooltipster({
                 trigger: 'hover',
                 autoClose: false,
@@ -142,52 +120,15 @@ function initDownloadModal () {
         $('<li></li>').append($link).appendTo($listing);
     }
 
-    COUNTYINFO.datalayers.suggestedareas.forEach(function (layerinfo) {
-        if (! layerinfo.downloadfile) return;
+    Object.keys(COUNTYINFO.datalayers).forEach(function (groupname) {
+        COUNTYINFO.datalayers[groupname].forEach(function (layerinfo) {
+            if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (SHP)</a>`);
-        $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
-    });
-
-    COUNTYINFO.datalayers.additionalareas.forEach(function (layerinfo) {
-        if (! layerinfo.downloadfile) return;
-
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (SHP)</a>`);
-        $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
-    });
-
-    COUNTYINFO.datalayers.allareas.forEach(function (layerinfo) {
-        if (! layerinfo.downloadfile) return;
-
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (SHP)</a>`);
-        $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
-    });
-
-    COUNTYINFO.datalayers.voterdata.forEach(function (layerinfo) {
-        if (! layerinfo.downloadfile) return;
-
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (CSV)</a>`);
-        $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
-    });
-
-    COUNTYINFO.datalayers.populationdata.forEach(function (layerinfo) {
-        if (! layerinfo.downloadfile) return;
-
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (CSV)</a>`);
-        $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
-    });
-
-    COUNTYINFO.datalayers.pointsofinterest.forEach(function (layerinfo) {
-        if (! layerinfo.downloadfile) return;
-        if (layerinfo.downloadfile.includes('zip')) {
-            const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (SHP)</a>`);
+            const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (${layerinfo.downloadtype})</a>`);
             $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
-        }
-        else {
-            const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (CSV)</a>`);
-            $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
-        }
+        });
     });
+
     {
         const $link = $(`<a href="data/crosswalk.pdf" target="_blank">Metadata Dictionary (PDF)</a>`);
         $('<br>The names and definitions for each variable present in the .CSV and Shapefile data downloads are outlined below in the Metadata Dictionary PDF document<li></li>').append($link).appendTo($listing);
@@ -198,90 +139,67 @@ function initLayerControls () {
     // lay out the checkboxes for the layers described in this county's data profile
     // see also findCheckboxForLayerId() which can look up one of these by the layer id
     const $sections = $('#sidebar div[data-section]');
-    const $section_sugg = $sections.filter('[data-section="suggestedareas"]');
-    const $section_addl = $sections.filter('[data-section="additionalareas"]');
-    const $section_all = $sections.filter('[data-section="allareas"]');
-    const $section_voter = $sections.filter('[data-section="voterdata"]');
-    const $section_popn = $sections.filter('[data-section="populationdata"]');
-    const $section_poi = $sections.filter('[data-section="pointsofinterest"]');
 
-    COUNTYINFO.datalayers.suggestedareas.forEach(function (layerinfo) {
-        const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
-        $section_sugg.append($cb);
-    });
-    COUNTYINFO.datalayers.additionalareas.forEach(function (layerinfo) {
-        const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
-        $section_addl.append($cb);
-    });
-    COUNTYINFO.datalayers.allareas.forEach(function (layerinfo) {
-        const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
-        $section_all.append($cb);
-    });
-    COUNTYINFO.datalayers.voterdata.forEach(function (layerinfo) {
-        const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
-        $section_voter.append($cb);
-    });
-    COUNTYINFO.datalayers.populationdata.forEach(function (layerinfo) {
-        if (layerinfo.id == 'prc_latino') {
-            const $cb = $(`<button-small class="btn btn-link pl-0 py-0" type="button checkbox" data-toggle="collapse" data-parent="#accordion-populationdata" data-target="#accordion-latinodata" aria-controls="accordion-latinodata" aria-expanded="false"><div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="prc_latino" id="layercheckbox-prc_latino"> <label class="form-check-label" for="layercheckbox-prc_latino">Latino Percent of Population</label> <i class="fa fa-chevron-right"></i></div></button-small> <div class="collapse pl-3 pb-1" data-section="latinodata" id="accordion-latinodata"> </div>`);
-            $section_popn.append($cb);
+    Object.keys(COUNTYINFO.datalayers).forEach(function (groupname) {
 
-            const $sections_updated = $('#sidebar div[data-section]');
-            const $section_latino = $sections_updated.filter('[data-section="latinodata"]');
+        const $section = $sections.filter(`[data-section=${groupname}]`);
 
-            COUNTYINFO.datalayers.latino.forEach(function (layerinfo) {
+        // any of those layer sets with 0 layers, we should delete their placeholder UI e.g. a title bar with nothing under it
+        if (! COUNTYINFO.datalayers[groupname].length) {
+            if (groupname == 'voterdata' | groupname == 'populationdata' | groupname == 'pointsofinterest') {
+                $section.prev('button').remove();
+                $section.remove();
+            } else {
+                $section.parents('div').first().remove();
+            };
+        };
+
+        COUNTYINFO.datalayers[groupname].forEach(function (layerinfo) {
+            if (groupname == 'pointsofinterest') {
+                if (layerinfo.id == 'precincts') {
+                    const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}"><line><span>${layerinfo.title}</span></line></label></div>`);
+                    $section.append($cb);
+                } else {
+                    const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"><label class="form-check-label" style="align-self: flex-start;" for="layercheckbox-${layerinfo.id}"><i class="fa fa-circle" aria-hidden="true" style="color: ${layerinfo.circle.fillColor};  align-items: flex-start;"></i>&nbsp;${layerinfo.title}</label></div>`);
+                    $section.append($cb);
+                    
+                    // only include button if file exists or has data
+                    var pathToFile = `data/${COUNTYINFO.countyfp}/` + layerinfo.csvfile;
+                    Papa.parse(pathToFile, {
+                        download: true,
+                        header: true,
+                        skipEmptyLines: 'greedy',
+                        complete: function (results) {
+                            const numrows = parseInt(results.data.length);
+                            if (numrows == 0) {
+                                const $dllink = $(`#modal-download-filedownloads li[data-layer-id="${layerinfo.id}"]`);
+                                $dllink.remove();
+                                $cb.remove();
+                            };
+                        },
+                        error: function (e) {
+                            const $dllink = $(`#modal-download-filedownloads li[data-layer-id="${layerinfo.id}"]`);
+                            $dllink.remove();
+                            $cb.remove();
+                        }
+                    });
+                };
+            } else if (layerinfo.accordion) {
+                const $cb = $(`<button class="btn btn-link pl-0 py-0" type="button checkbox" data-toggle="collapse" data-parent="#accordion-${groupname}" data-target="#accordion-${layerinfo.accordion}" aria-controls="accordion-${layerinfo.accordion}" aria-expanded="false"><div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label> <i class="fa fa-chevron-right"></i></div></button> <div class="collapse pl-3 pb-1" data-section="${layerinfo.accordion}" id="accordion-${layerinfo.accordion}"> </div>`);
+                $section.append($cb);
+
+                const $sections_updated = $('#sidebar div[data-section]');
+                const $subsection = $sections_updated.filter(`[data-section="${layerinfo.accordion}"]`);
+
+                COUNTYINFO.datalayers[layerinfo.id].forEach(function (sublayer) {
+                    const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${sublayer.id}" id="layercheckbox-${sublayer.id}"> <label class="form-check-label" for="layercheckbox-${sublayer.id}">${sublayer.title}</label></div>`);
+                    $subsection.append($cb);
+                });
+            } else {
                 const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
-                $section_latino.append($cb);
-            });
-        }
-        else if (layerinfo.id == 'prc_asian') {
-            const $cb = $(`<button-small class="btn btn-link pl-0 py-0" type="button checkbox" data-toggle="collapse" data-parent="#accordion-populationdata" data-target="#accordion-asiandata" aria-controls="accordion-asiandata" aria-expanded="false"><div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="prc_asian" id="layercheckbox-prc_asian"> <label class="form-check-label" for="layercheckbox-prc_asian">Asian Percent of Population</label> <i class="fa fa-chevron-right"></i></div></button-small> <div class="collapse pl-3 pb-1" data-section="asiandata" id="accordion-asiandata"> </div>`);
-            $section_popn.append($cb);
-
-            const $sections_updated = $('#sidebar div[data-section]');
-            const $section_asian = $sections_updated.filter('[data-section="asiandata"]');
-
-            COUNTYINFO.datalayers.asian.forEach(function (layerinfo) {
-                const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
-                $section_asian.append($cb);
-            });
-        }
-        else {
-            const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
-            $section_popn.append($cb);
-        }
-    });
-    COUNTYINFO.datalayers.pointsofinterest.forEach(function (layerinfo) {
-        if (layerinfo.id == 'precincts') {
-            const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}"><line><span>${layerinfo.title}</span></line></label></div>`);
-            $section_poi.append($cb);
-        }
-        else {
-            const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"><label class="form-check-label" style="align-self: flex-start;" for="layercheckbox-${layerinfo.id}"><i class="fa fa-circle" aria-hidden="true" style="color: ${layerinfo.circle.fillColor};  align-items: flex-start;"></i>&nbsp;${layerinfo.title}</label></div>`);
-            $section_poi.append($cb);
-            
-
-            // only include button if file exists or has data
-            var pathToFile = `data/${COUNTYINFO.countyfp}/` + layerinfo.csvfile;
-            Papa.parse(pathToFile, {
-                download: true,
-                header: true,
-                skipEmptyLines: 'greedy',
-                complete: function (results) {
-                    const numrows = parseInt(results.data.length);
-                    if (numrows == 0) {
-                        const $dllink = $(`#modal-download-filedownloads li[data-layer-id="${layerinfo.id}"]`);
-                        $dllink.remove();
-                        $cb.remove();
-                    };
-                },
-                error: function (e) {
-                    const $dllink = $(`#modal-download-filedownloads li[data-layer-id="${layerinfo.id}"]`);
-                    $dllink.remove();
-                    $cb.remove();
-                }
-            });
-        }
+                $section.append($cb);
+            };
+        });
     });
 
     // check-change behavior on those checkboxes, to toggle layers
@@ -293,52 +211,23 @@ function initLayerControls () {
         refreshMapLegend();
     });
 
-    // afterthought: any of those layer sets with 0 layers, we should delete their placeholder UI e.g. a title bar with nothing under it
-    if (! COUNTYINFO.datalayers.suggestedareas.length) {
-        $section_sugg.parents('div').first().remove();
-    }
-    if (! COUNTYINFO.datalayers.additionalareas.length) {
-        $section_addl.parents('div').first().remove();
-    }
-    if (! COUNTYINFO.datalayers.allareas.length) {
-        $section_all.parents('div').first().remove();
-    }
-    if (! COUNTYINFO.datalayers.voterdata.length) {
-        $section_voter.prev('button').remove();
-        $section_voter.remove();
-    }
-    if (! COUNTYINFO.datalayers.populationdata.length) {
-        $section_popn.prev('button').remove();
-        $section_popn.remove();
-    }
-    if (! COUNTYINFO.datalayers.pointsofinterest.length) {
-        $section_poi.prev('button').remove();
-        $section_poi.remove();
-    }
-
     // the toggle sections of the Additional Data accordion, need their chvrons to change when they expand/collapse
     $('#sidebar div.collapse')
-    .on('hide.bs.collapse', function () {
-        const myid = $(this).prop('id');
-        if ((myid == 'accordion-latinodata') || (myid == 'accordion-asiandata')) {
-            var $button = $(`#sidebar button-small[data-target="#${myid}"]`);
-        }
-        else {
+    .on('hide.bs.collapse', function (e) {
+        if ($(this).is(e.target)) {
+            const myid = $(this).prop('id');
             var $button = $(`#sidebar button[data-target="#${myid}"]`);
-        }
-        const $chevron = $button.find('i');
-        $chevron.removeClass('fa-chevron-down').addClass('fa-chevron-right');
+            const $chevron = $button.find('i');
+            $chevron.removeClass('fa-chevron-down').addClass('fa-chevron-right');
+        };
     })
-    .on('show.bs.collapse', function () {
-        const myid = $(this).prop('id');
-        if ((myid == 'accordion-latinodata') || (myid == 'accordion-asiandata')) {
-            var $button = $(`#sidebar button-small[data-target="#${myid}"]`);
-        }
-        else {
+    .on('show.bs.collapse', function (e) {
+        if ($(this).is(e.target)) {
+            const myid = $(this).prop('id');
             var $button = $(`#sidebar button[data-target="#${myid}"]`);
-        }
-        const $chevron = $button.find('i');
-        $chevron.removeClass('fa-chevron-right').addClass('fa-chevron-down');
+            const $chevron = $button.find('i');
+            $chevron.removeClass('fa-chevron-right').addClass('fa-chevron-down');
+        };
     });
 
     // a CSV file has a list of how many points are in each of the point files
@@ -438,7 +327,7 @@ function initCountyMap () {
     });
 
     // load the statewide counties GeoJSON and filter to this one
-    gjurl = `data/counties.json`;
+    const gjurl = `data/counties.json`;
     $.get(gjurl, function (data) {
         COUNTYOVERLAY = L.geoJson(data, {
             filter: function (feature) {
@@ -617,7 +506,6 @@ function toggleSidebar (desired) {
 }
 
 function toggleMapLayer (layerid, visible) {
-    // turn off a map layer is easy!
     const layerinfo = getLayerInfoByid(layerid);
     if (! layerinfo) throw new Error(`getLayerInfoByid() no layer named ${layerid}`);
 

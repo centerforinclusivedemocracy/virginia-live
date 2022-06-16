@@ -54,15 +54,7 @@
     color: black;
 }
 
-/* only show mobile alert on mobile */
-/* mobile, Sidebar isn't on the side but full-size */
-#mobile {display: none;} 
-  
-@media only screen and (max-device-width : 700px){ 
-    #mobile {
-        display: block;
-        font-style: italic;
-    }
+@media screen and (max-width: 700px) {  /* mobile, Sidebar isn't on the side but full-size */
     #sidebar {
         width: 100%;
     }
@@ -72,6 +64,16 @@
     #sidebar-and-map div.sidebar-closer {
         right: 0;
         left: auto;
+    }
+}
+
+/* only show mobile alert on mobile */
+#mobile {display: none;} 
+  
+@media only screen and (max-device-width : 700px){ 
+    #mobile {
+        display: block;
+        font-style: italic;
     }
 }
 
@@ -128,16 +130,9 @@
     display: block;
     width: 100%;
     text-align: left;
-    border-top: 1px solid silver;
-}
-
-#sidebar button-small.btn.btn-link[data-toggle] {
-    display: block;
-    width: 100%;
-    text-align: left;
+    /* border-top: 1px solid silver; */
     color: black;
 }
-
 
 #sidebar div.collapse {
 }
@@ -152,7 +147,14 @@
     font-style: italic;
 }
 
-
+/**
+ * SIDEBAR horizontal line
+ */
+ hr.sidebar {
+     border-top: 1px solid silver;
+     margin: 0;
+}
+  
 /**
  * Bootstrap modals, give a max height and scrolling
  */
