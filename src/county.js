@@ -28,7 +28,7 @@ function initCountyInfo () {
     COUNTYINFO = getParticipatingCountyInfo((new URLSearchParams(window.location.search)).get('county'));
 
     // fill in the county name into the title bar
-    $('#sidebar > h1').text(`${COUNTYINFO.name} County`);
+    $('#sidebar > h1').text(`${COUNTYINFO.name}`);
 
     // add alert for mobile
     $('#mobile');
