@@ -242,7 +242,7 @@ const BASEMAP_OPTIONS = [
     {
         type: 'xyz',
         label: 'Map',
-        url: 'https://api.mapbox.com/styles/v1/scottstetkiewicz/ckfn0guxg50bg19lv2rdg6k6l/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoic2NvdHRzdGV0a2lld2ljeiIsImEiOiJja2ZtdWhmd2wxZ2sxMnptajZ0OHo4MXNsIn0.bisTYuQf8wxsaAbuhWeJew',
+        url: 'https://api.mapbox.com/styles/v1/centerforinclusivedemocracy/ckixilce95t1c19pahszryk4r/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiY2VudGVyZm9yaW5jbHVzaXZlZGVtb2NyYWN5IiwiYSI6ImNraXhpb3BtbDJicnMyemxycXU3Yzc0czgifQ.YkVn97A1xO8ZD4_O6AGA7A',
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     },
     {
